@@ -31,10 +31,10 @@
       "radius": 0.1,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjIwMDEzODk1OA==",
-          "title": {"text": "FROM GITHUB", "color": "#ffffff"},
-          "cateName": "From Github",
-          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/collections/PLAY_EVERY_DAY.png",
+          "category": "gid://shopify/Collection/261939003598",
+          "title": {"text": "BIRTHDAY BOXES", "color": "#ffffff"},
+          "cateName": "Birthday Boxes",
+          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/bundle_savings_730x550.png?v=1655390402",
           "padding": 15,
           "radius": 9
         },
