@@ -1,0 +1,689 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "announceBar",
+      "readFromFirestore": false,
+      "title": "5% off with the code \"app5\" on your first order over €40",
+      "backgroundColor": "7BB844",
+      "textColor": "ffffff"
+    },
+    {
+      "layout": "categorySlider"
+    },
+    {
+      "layout": "featuredActivity"
+    },
+    {
+      "layout": "bannerImage",
+      "readFromFirestore": true,
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "height": 0.15,
+      "radius": 0.1,
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjIwMDEzODk1OA==",
+          "title": {"text": "AUTUMN", "color": "#ffffff"},
+          "cateName": "Autumn",
+          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/collections/PLAY_EVERY_DAY.png",
+          "padding": 15,
+          "radius": 9
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDkxNjE3NA==",
+          "title": {"text": "LET'S MOVE", "color": "#ffffff"},
+          "cateName": "Let's Move",
+          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/collections/13_let_s_move.png",
+          "padding": 15,
+          "radius": 9
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2ODE0NTY4ODc4Mg==",
+          "cateName": "Back To School",
+          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/collections/BEST_TOYS_FOR_THE_SUMMER_3.png",
+          "padding": 15,
+          "radius": 9
+        }
+      ]
+    },
+    {
+      "name": "New Arrivals",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzU3NTAxMTUzNA==",
+      "isSnapping": true
+    },
+    {
+      "name": "On Sale",
+      "image": "",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzY4MDU5MDAzMA==",
+      "isSnapping": true
+    },
+    {
+      "name": "Bestsellers",
+      "image": "",
+      "layout": "fourColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTM1MzQ1Mzc3NA==",
+      "isSnapping": true
+    },
+    {
+      "name": "Our Blog Posts",
+      "layout": "blog"
+    },
+    {
+      "layout": "socials",
+      "facebook": "https://www.facebook.com/discoveryplaytime",
+      "instagram": "https://www.instagram.com/discoveryplaytime/"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#413E6B",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt",
+      "remapCategories": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "name": "Features",
+          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+          "name": "Bags"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "name": "Clothing"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+          "name": "Shoes"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+          "name": "Women"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+          "name": "Man"
+        }
+      ]
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Wooden",
+    "Sensory",
+    "Trays",
+    "Learning",
+    "Gift",
+    "Party",
+    "Art",
+    "Craft",
+    "Small",
+    "Stories",
+    "Puppets",
+    "Blocks",
+    "Vehicles",
+    "Animals",
+    "Playdough",
+    "Outdoor"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to FluxStore",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "categoriesDropDown": {
+    "items": [
+      {
+        "title": "Shop By Type",
+        "subCategories": [
+          {
+            "title": "Wooden Toys",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTM5MzM1OA==",
+                "cateName": "Wooden Toys 0+ Years"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTQyNjEyNg==",
+                "cateName": "Wooden Toys 12+ Months"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTQ1ODg5NA==",
+                "cateName": "Wooden Toys 18+ Months"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTUyNDQzMA==",
+                "cateName": "Wooden Toys 2+ Years"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTU4OTk2Ng==",
+                "cateName": "Wooden Toys 3+ Years"
+              }
+            ]
+          },
+          {
+            "title": "Sensory Play",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODc0NzkzOTAyMg==",
+                "cateName": "Water Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDY3MDgzMDc5OA==",
+                "cateName": "Sand Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzM5Nzk2Ng==",
+                "cateName": "Sensory Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzY1Nzg0OTAzOA==",
+                "cateName": "Music & Sound"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzcyNTY0Ng==",
+                "cateName": "Sensory Learning"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODIzODAwMzQwNg==",
+                "cateName": "Loose Parts"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODk2MTYxOTE1MA==",
+                "cateName": "Fidget Toys"
+              }
+            ]
+          },
+          {
+            "title": "Play Trays",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDY3MDYzNDE5MA==",
+                "cateName": "Trays"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODkyODU1NjIzOA==",
+                "cateName": "Tray Inserts"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzY0MDg0MjQ0Ng==",
+                "cateName": "Tray Accessories"
+              }
+            ]
+          },
+          {
+            "title": "Learning",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTc2ODE0Mg==",
+                "cateName": "Maths"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODM4MTAwNg==",
+                "cateName": "Literacy"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODQ3OTMxMA==",
+                "cateName": "Fine Motor"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODUxMjA3OA==",
+                "cateName": "Well-Being"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDgxNzg3MA==",
+                "cateName": "Science & Exploring"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NjkyOTgwNjU0Mg==",
+                "cateName": "Coding Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2ODE0NTY4ODc4Mg==",
+                "cateName": "Back To School"
+              }
+            ]
+          },
+          {
+            "title": "Gift Ideas",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NDkwMTc4Nzg1NA==",
+                "cateName": "1st Birthday"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NDkwMTg4NjE1OA==",
+                "cateName": "2nd Birthday"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NDkwMjE0ODMwMg==",
+                "cateName": "3rd Birthday"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NDkwMTUyNTcxMA==",
+                "cateName": "Party Entertainment"
+              }
+            ]
+          }
+        ],
+        "individualCategories": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTI0Mzg1NA==",
+            "cateName": "Arts & Crafts"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTY2OTgzOA==",
+            "cateName": "Games"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDkxNjE3NA==",
+            "cateName": "Gross Motor Skills (Movement)"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODA4NjA5NA==",
+            "cateName": "Small World Play"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzgyMzk1MA==",
+            "cateName": "Stories & Puppets"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzIwMTM1OA==",
+            "cateName": "Blocks"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwODIxNzU1MA==",
+            "cateName": "Vehicles"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODI0OTkzNA==",
+            "cateName": "Animals"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTQ3MzIzMA==",
+            "cateName": "Playdough"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTE3ODMxOA==",
+            "cateName": "Outdoors"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzk4MjkzNzI5NA==",
+            "cateName": "Travel Toys"
+          }
+        ]
+      },
+      {
+        "title": "Shop By Brand",
+        "individualCategories": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTU3MTUzNA==",
+            "cateName": "Art Supplies"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwODI4NjE1OA==",
+            "cateName": "Bigjigs Toys"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODIzNzgwNjc5OA==",
+            "cateName": "Bioblo Eco Blocks"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTk2MjE2MDMzNA==",
+            "cateName": "Connetix Magnetic Tiles"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwOTQ2NTgwNg==",
+            "cateName": "Cosy Direct"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjM0MTcxMA==",
+            "cateName": "Dena"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwOTcyNzk1MA==",
+            "cateName": "Gowi Toys Austria"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwODgxMDQ0Ng==",
+            "cateName": "Green Toys"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwODcxMjE0Mg==",
+            "cateName": "Jumini & Studio Circus"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjQ3Mjc4Mg==",
+            "cateName": "Happy Hopperz"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwODA4OTU1MA==",
+            "cateName": "Learning Resources"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyMzI1ODgzMA==",
+            "cateName": "Mad Mattr"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzc2MDc4MDQ5NA==",
+            "cateName": "Makedo Cardboard Tools"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODIzNzc3NDAzMA==",
+            "cateName": "Recycle Me Playsets"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzczOTM0MzA1NA==",
+            "cateName": "Safari"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODk2MTcxNzQ1NA==",
+            "cateName": "Schylling"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwOTEwNTM1OA==",
+            "cateName": "The Puppet Company"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MzcwOTE3MDg5NA==",
+            "cateName": "Tickit Education"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDAxMDk3NDQxNA==",
+            "cateName": "Tiger Tribe"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjM3NDQ3OA==",
+            "cateName": "Tum Tum Feeding"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzY4OTM3MTg1NA==",
+            "cateName": "Way To Play Flexible Roads"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2ODUzMDc0NTU1MA==",
+            "cateName": "Yellow Door"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjA3OTU2Ng==",
+            "cateName": "Wondercloths"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjQ0MDAxNA==",
+            "cateName": "Vilac"
+          }
+        ]
+      },
+      {
+        "title": "Shop By Theme",
+        "individualCategories": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNjkwNjgzMA==",
+            "cateName": "Ocean"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzMwMDA0Ng==",
+            "cateName": "Dinosaurs"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzM5ODM1MA==",
+            "cateName": "Fairytales"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzUyOTQyMg==",
+            "cateName": "Winter"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzg1NzEwMg==",
+            "cateName": "Spring & Bugs"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzkyMjYzOA==",
+            "cateName": "Farm"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzk1NTQwNg==",
+            "cateName": "Jungle"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwNzk4ODE3NA==",
+            "cateName": "Community People"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwODExOTI0Ng==",
+            "cateName": "Space"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwODE4NDc4Mg==",
+            "cateName": "Forest"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzk4MjkzNzI5NA==",
+            "cateName": "On The Road"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwODU3Nzk5OA==",
+            "cateName": "Food"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NDkwODMxNTg1NA==",
+            "cateName": "Emotions"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDU1MjYwMzg1NA==",
+            "cateName": "Feeding & Picnic"
+          }
+        ]
+      },
+      {
+        "title": "Shop By Age",
+        "subCategories": [
+          {
+            "title": "Baby 0-1 Year",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTM5MzM1OA==",
+                "cateName": "Wooden Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1ODg5NjU5MA==",
+                "cateName": "Sensory Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTAyNzY2Mg==",
+                "cateName": "Messy Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1ODgzMTA1NA==",
+                "cateName": "Soft Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTE1ODczNA==",
+                "cateName": "Early Learning"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTE5MTUwMg==",
+                "cateName": "Movement"
+              }
+            ]
+          },
+          {
+            "title": "Toddler 1-3 Years",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTQyNjEyNg==",
+                "cateName": "Wooden Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTQ1MzY0Ng==",
+                "cateName": "Sensory Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTY4MzAyMg==",
+                "cateName": "Messy Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTQyMDg3OA==",
+                "cateName": "Soft Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTcxNTc5MA==",
+                "cateName": "Early Learning"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg1OTg3OTYzMA==",
+                "cateName": "Movement"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTcwMjYwNg==",
+                "cateName": "Games"
+              }
+            ]
+          },
+          {
+            "title": "Preschooler 3-5 Years",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTU4OTk2Ng==",
+                "cateName": "Wooden Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg2Nzg3NTAyMg==",
+                "cateName": "Sensory Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzQ5NjI3MA==",
+                "cateName": "Messy Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg2Nzc0Mzk1MA==",
+                "cateName": "Soft Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODM4MTAwNg==",
+                "cateName": "Literacy"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDkxNjE3NA==",
+                "cateName": "Movement"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NTcwMjYwNg==",
+                "cateName": "Games"
+              }
+            ]
+          },
+          {
+            "title": "School 5+ Years",
+            "items": [
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg2ODQzMjA3OA==",
+                "cateName": "Wooden Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2MTE4MDYyMg==",
+                "cateName": "Sensory Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzNzQ5NjI3MA==",
+                "cateName": "Messy Play"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjE4NTUyNDQzMA==",
+                "cateName": "Soft Toys"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTkzODM4MTAwNg==",
+                "cateName": "Literacy"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDkxNjE3NA==",
+                "cateName": "Movement"
+              },
+              {
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Njg2ODQ5NzYxNA==",
+                "cateName": "Games"
+              }
+            ]
+          }
+        ],
+        "individualCategories": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2MTI3ODkyNg==",
+            "cateName": "Classroom Sets"
+          }
+        ]
+      }
+    ]
+  }
+}
