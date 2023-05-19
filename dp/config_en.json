@@ -9,7 +9,7 @@
     {
       "layout": "announceBar",
       "readFromFirestore": false,
-      "title": "5% off with the code \"app5\" on your first order over €40",
+      "title": "GITHUB: 5% off with the code \"app5\" on your first order over €40",
       "backgroundColor": "7BB844",
       "textColor": "ffffff"
     },
