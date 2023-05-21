@@ -31,10 +31,10 @@
       "radius": 0.1,
       "items": [
         {
-          "category": "gid://shopify/Collection/261939003598",
-          "title": {"text": "BIRTHDAY BOXES", "color": "#ffffff"},
-          "cateName": "Birthday Boxes",
-          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/bundle_savings_730x550.png?v=1655390402",
+          "category": "gid://shopify/Collection/274907857102",
+          "title": {"text": "SPRING TOYS", "color": "#ffffff"},
+          "cateName": "Spring Toys",
+          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/Untitled_design_23_440f1b89-ee87-4215-b486-134dd28d9f26.png",
           "padding": 15,
           "radius": 9
         },
