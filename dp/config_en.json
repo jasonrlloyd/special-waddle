@@ -956,6 +956,20 @@
       ],
         "description": "4 items to set up a tuff tray: fine motor tools (tongs and scoops), containers (cardboard tubes and dump trucks), figures (cars and roads) and sensory item (rocks). When you combine these 4 items (they can be different each time or even just replace one of them) kids will use their imagination to bring it to life.", "themes": ["allThemes", "drySensoryPlay", "smallWorld", "construction"],
         "ageGroups": ["allAges", "preschooler"]
+      },
+       {
+        "title": "Moon Sand Space Adventure",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/esfefsdfs.png",
+        "thumbnail": "https://picresize.com/popup.html?images/rsz_esfefsdfs.jpg",  
+        "productUrls": [
+        "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
+        "https://discoveryplaytime.ie/products/way-to-play-flexible-roads-highway-24pcs",
+        "https://discoveryplaytime.ie/products/fine-motor-tongs",
+        "https://discoveryplaytime.ie/products/scrunch-spade-with-rubber-handle",
+        "https://discoveryplaytime.ie/products/eco-vehicles-maxi-size"
+      ],
+        "description": "Travel to space with your imagination and your hands. Create moon sand simply mixing flour and vegetable oil to create a texture that you can mould. Add these figures and fine motor tools to create your space adventure while develop it fine motor skills, coordination and communication. ", "themes": ["allThemes", "drySensoryPlay", "smallWorld"],
+        "ageGroups": ["allAges", "preschooler", "school"]
       }
     ]
   }
