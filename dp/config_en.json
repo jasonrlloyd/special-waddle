@@ -970,6 +970,21 @@
       ],
         "description": "Travel to space with your imagination and your hands. Create moon sand simply mixing flour and vegetable oil to create a texture that you can mould. Add these figures and fine motor tools to create your space adventure while develop it fine motor skills, coordination and communication. ", "themes": ["allThemes", "drySensoryPlay", "smallWorld"],
         "ageGroups": ["allAges", "preschooler", "school"]
+      },
+       {
+        "title": "Shadow art",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/Picsart_23-05-23_18-54-15-278.jpg",
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/Picsart_23-05-23_18-54-15-278.jpg",  
+        "productUrls": [
+        "https://discoveryplaytime.ie/products/lr-jumbo-dinosaurs-set-2",
+        "https://discoveryplaytime.ie/products/jumbo-dinosaurs-set",
+        "https://discoveryplaytime.ie/products/sensory-fidget-tubes",
+        "https://discoveryplaytime.ie/products/sensory-wooden-blocks",
+        "https://discoveryplaytime.ie/products/rainbow-wooden-blocks"
+        "https://discoveryplaytime.ie/products/lr-create-a-space-storage-centre"
+      ],
+        "description": "Our jumbo animals and sensory blocks are our favourite resources for sunshine shadows! Simply tape paper on the ground or tuff tray (in case of wind), add some toys and markers / crayons and have fun working shadows and colours! ", "themes": ["allThemes", "drySensoryPlay", "smallWorld", "animals", "],
+        "ageGroups": ["allAges", "toddler", "preschooler", "school"]
       }
     ]
   }
