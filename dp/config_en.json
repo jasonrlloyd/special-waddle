@@ -17,41 +17,6 @@
       "layout": "categorySlider"
     },
     {
-      "layout": "announceBar",
-      "title": "\uD83D\uDC47\uD83D\uDC4702/06/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
-      "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "animate": true,
-      "totalRepeatCount": 400
-    },
-    {
-      "layout": "video",
-      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdiscoveryplaytime%2Fvideos%2F239209072062551%2F&show_text=false&width=269&t=0\" width=\"269\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
-    },
-    {
-      "layout": "announceBar",
-      "title": "LOVE THIS? NOW GRAB THE PRODUCTS \uD83D\uDC47\uD83D\uDC47",
-      "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "animate": true,
-      "totalRepeatCount": 400
-    },
-    {
-      "layout": "getTheLook",
-      "title": "Our ❤️ Picks This Week",
-      "productUrls": [
-        "https://discoveryplaytime.ie/products/natural-shape-viewers",
-        "https://discoveryplaytime.ie/products/safari-toob-mermaids-designer-toob",
-        "https://discoveryplaytime.ie/products/bigjigs-silicone-watering-can",
-        "https://discoveryplaytime.ie/products/yellow-door-dinosaur-bones-match-and-mesure",
-        "https://discoveryplaytime.ie/products/mad-mattr-pandacorn-play-set"
-      ]
-    },
-    {
-      "layout": "spacer",
-      "height": 20
-    },
-    {
       "layout": "featuredActivity"
     },
     {
