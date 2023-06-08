@@ -48,6 +48,10 @@
       ]
     },
     {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
       "layout": "featuredActivity"
     },
     {
