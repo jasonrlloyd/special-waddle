@@ -18,7 +18,7 @@
     },
     {
       "layout": "announceBar",
-      "title": "\uD83D\uDC47\uD83D\uDC4708/06/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
+      "title": "\uD83D\uDC47\uD83D\uDC4708/08/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
       "backgroundColor": "DEFA52",
       "textColor": "000000",
       "animate": true,
@@ -26,7 +26,7 @@
     },
     {
       "layout": "video",
-      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdiscoveryplaytime%2Fvideos%2F282148570968857%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdiscoveryplaytime%2Fvideos%2F671523051529785%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
     },
     {
       "layout": "announceBar",
@@ -40,14 +40,12 @@
       "layout": "getTheLook",
       "title": "Our ❤️ Picks This Week",
       "productUrls": [
-        "https://discoveryplaytime.ie/products/lr-big-feelings-pineaple",
-        "https://discoveryplaytime.ie/products/sound-recorder-with-mirror",
-        "https://discoveryplaytime.ie/products/gowi-sand-brick-shaper",
-        "https://discoveryplaytime.ie/products/tiger-tribe-hidden-patterns-set-animals",
-        "https://discoveryplaytime.ie/products/happy-hopperz-gold-giraffe",
-        "https://discoveryplaytime.ie/products/hippychick-happy-hopperz-brown-dog",
-        "https://discoveryplaytime.ie/products/happy-hopperz-green-dragon",
-        "https://discoveryplaytime.ie/products/happy-hopperz-turquoise-triceratops"
+      "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
+    "https://discoveryplaytime.ie/products/tuff-tray-mat-insert-emotions",
+    "https://discoveryplaytime.ie/products/lets-roll-emotions",
+    "https://discoveryplaytime.ie/products/gowi-toys-modelling-tools",
+    "https://discoveryplaytime.ie/products/jovi-poster-paint-500ml",
+    "https://discoveryplaytime.ie/products/translucent-colour-jugs-6pcs"
       ]
     },
     {
