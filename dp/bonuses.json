@@ -1,56 +1,56 @@
 {
-    "bonuses": [
-      {
-        "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
-        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
-        "content": [
-          {
-            "layout": "subtitle",
-            "data": "Subtitle for Bonus 1"
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text for Bonus 1"
-          },
-          {
-            "layout": "image",
-            "data": "imageURL1"
-          },
-          {
-            "layout": "video",
-            "data": "videoURL1"
-          },
-          {
-            "layout": "subtitle",
-            "data": "Subtitle 2 for Bonus 1"
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text 2 for Bonus 1"
-          }
-        ]
-      },
-      {
-        "title": "“Skill Challenger” Toy Handbook",
-        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
-        "content": [
-          {
-            "layout": "subtitle",
-            "data": "Subtitle for Bonus 2"
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text for Bonus 2"
-          },
-          {
-            "layout": "image",
-            "data": "imageURL2"
-          },
-          {
-            "layout": "video",
-            "data": "videoURL2"
-          }
-        ]
-      }
-    ]
-  }
+  "bonuses": [
+    {
+      "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
+      "content": [
+        {
+          "layout": "subtitle",
+          "data": "Subtitle for Bonus 1"
+        },
+        {
+          "layout": "bodyText",
+          "data": "Body text for Bonus 1"
+        },
+        {
+          "layout": "image",
+          "data": "imageURL1"
+        },
+        {
+          "layout": "video",
+          "data": "videoURL1"
+        },
+        {
+          "layout": "subtitle",
+          "data": "Subtitle 2 for Bonus 1"
+        },
+        {
+          "layout": "bodyText",
+          "data": "Body text 2 for Bonus 1"
+        }
+      ]
+    },
+    {
+      "title": "“Skill Challenger” Toy Handbook",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
+      "content": [
+        {
+          "layout": "subtitle",
+          "data": "Subtitle for Bonus 2"
+        },
+        {
+          "layout": "bodyText",
+          "data": "Body text for Bonus 2"
+        },
+        {
+          "layout": "image",
+          "data": "imageURL2"
+        },
+        {
+          "layout": "video",
+          "data": "videoURL2"
+        }
+      ]
+    }
+  ]
+}
