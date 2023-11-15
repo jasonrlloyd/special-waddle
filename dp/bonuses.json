@@ -1,5 +1,6 @@
-[
-  {
+{
+  "bonuses" : [
+    {
     "title": "Bonus 1",
     "subtitle": "Subtitle for Bonus 1",
     "bodyText": "Body text for Bonus 1",
@@ -13,4 +14,5 @@
     "image": "URL_for_image_2",
     "additionalImage": "URL_for_additional_image_2"
   }
-]
+  ]
+}
