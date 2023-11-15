@@ -18,11 +18,15 @@
         },
         {
           "layout": "video",
-          "data": "videoURL1"
+          "data": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mHrAjWni65E?si=R4wdbuNpE-RIHSUO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
         },
         {
           "layout": "subtitle",
           "data": "Subtitle 2 for Bonus 1"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
         },
         {
           "layout": "bodyText",
