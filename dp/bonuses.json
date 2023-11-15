@@ -1,18 +1,18 @@
 {
-  "bonuses" : [
-    {
-    "title": "Bonus 1",
-    "subtitle": "Subtitle for Bonus 1",
-    "bodyText": "Body text for Bonus 1",
-    "image": "URL_for_image_1",
-    "additionalImage": "URL_for_additional_image_1"
-  },
-  {
-    "title": "Bonus 2",
-    "subtitle": "Subtitle for Bonus 2",
-    "bodyText": "Body text for Bonus 2",
-    "image": "URL_for_image_2",
-    "additionalImage": "URL_for_additional_image_2"
+  "bonuses": {
+    "bonus1": {
+      "title": "Bonus 1",
+      "subtitle": "Subtitle for Bonus 1",
+      "bodyText": "Body text for Bonus 1",
+      "image": "URL_for_image_1",
+      "additionalImage": "URL_for_additional_image_1"
+    },
+    "bonus2": {
+      "title": "Bonus 2",
+      "subtitle": "Subtitle for Bonus 2",
+      "bodyText": "Body text for Bonus 2",
+      "image": "URL_for_image_2",
+      "additionalImage": "URL_for_additional_image_2"
+    }
   }
-  ]
 }
