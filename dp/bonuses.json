@@ -1,92 +1,238 @@
 {
-    "bonuses": [
-      {
-        "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
-        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
-        "content": [
-            {
-            "layout": "image",
-            "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJxoo04gjIrMFcfY9-3wv8kLEdeknMO60-CQXatAZc-VdnQIjMc1GW_8IGVOzg45ahIfOeq3I5SmzC_IT1hn2uRI6R1Sub3cQ6wHpoQ8drEcQiuYEsbeU33mE4QPJGw5m12tHNFszsJ3RU2jwepnZ6qhYjmA_NISUxE4IuWZKV2C7f3A6Ww4KmUBaAlw/s2000/2.png"
-          },
-          {
-            "layout": "subtitle",
-            "data": "Subtitle for Bonus 1"
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text for Bonus 1"
-          },
-          {
-            "layout": "spacer",
-            "data": 20
-          },
-          {
-            "layout": "products",
-            "data": [
-              "https://discoveryplaytime.ie/products/yellow-door-weather-stones",
-              "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
-              "https://discoveryplaytime.ie/products/connetix-62pcs-starter-pack",
-              "https://discoveryplaytime.ie/products/yellow-door-play-cave",
-              "https://discoveryplaytime.ie/products/yellow-door-play-igloo",
-              "https://discoveryplaytime.ie/products/safari-toob-flowers-10pcs",
-              "https://discoveryplaytime.ie/products/bigjigs-woodland-magnets",
-              "https://discoveryplaytime.ie/products/safari-toob-in-the-water-11pcs",
-              "https://discoveryplaytime.ie/products/yellow-door-ladybugs-counting-stones",
-              "https://discoveryplaytime.ie/products/safari-toob-insects-14pcs",
-              " https://discoveryplaytime.ie/products/jumini-stacking-rainbow"
-            ]
-          },
-          {
-            "layout": "spacer",
-            "data": 20
-          },
-          {
-            "layout": "image",
-            "data": "https://plus.unsplash.com/premium_photo-1698057772761-b236d1588dd3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-          },
-          {
-            "layout": "video",
-            "data": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/850867388?h=1db99b89ca&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Shopify Stores - Mobile App Fast Track Bundle\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>"
-          },
-          {
-            "layout": "subtitle",
-            "data": "Subtitle 2 for Bonus 1"
-          },
-          {
-            "layout": "spacer",
-            "data": 20
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text 2 for Bonus 1"
-          },
-          {
-            "layout": "spacer",
-            "data": 180
-          }
-        ]
-      },
-      {
-        "title": "“Skill Challenger” Toy Handbook",
-        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
-        "content": [
-          {
-            "layout": "subtitle",
-            "data": "Subtitle for Bonus 2"
-          },
-          {
-            "layout": "bodyText",
-            "data": "Body text for Bonus 2"
-          },
-          {
-            "layout": "image",
-            "data": "imageURL2"
-          },
-          {
-            "layout": "video",
-            "data": "videoURL2"
-          }
-        ]
-      }
-    ]
-  }
+  "bonuses": [
+    {
+      "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJxoo04gjIrMFcfY9-3wv8kLEdeknMO60-CQXatAZc-VdnQIjMc1GW_8IGVOzg45ahIfOeq3I5SmzC_IT1hn2uRI6R1Sub3cQ6wHpoQ8drEcQiuYEsbeU33mE4QPJGw5m12tHNFszsJ3RU2jwepnZ6qhYjmA_NISUxE4IuWZKV2C7f3A6Ww4KmUBaAlw/s2000/2.png"
+        },
+        {
+          "layout": "subtitle",
+          "data": "Subtitle for Bonus 1"
+        },
+        {
+          "layout": "bodyText",
+          "data": "Body text for Bonus 1"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/yellow-door-weather-stones",
+            "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
+            "https://discoveryplaytime.ie/products/connetix-62pcs-starter-pack",
+            "https://discoveryplaytime.ie/products/yellow-door-play-cave",
+            "https://discoveryplaytime.ie/products/yellow-door-play-igloo",
+            "https://discoveryplaytime.ie/products/safari-toob-flowers-10pcs",
+            "https://discoveryplaytime.ie/products/bigjigs-woodland-magnets",
+            "https://discoveryplaytime.ie/products/safari-toob-in-the-water-11pcs",
+            "https://discoveryplaytime.ie/products/yellow-door-ladybugs-counting-stones",
+            "https://discoveryplaytime.ie/products/safari-toob-insects-14pcs",
+            " https://discoveryplaytime.ie/products/jumini-stacking-rainbow"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://plus.unsplash.com/premium_photo-1698057772761-b236d1588dd3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "layout": "video",
+          "data": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/850867388?h=1db99b89ca&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Shopify Stores - Mobile App Fast Track Bundle\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>"
+        },
+        {
+          "layout": "subtitle",
+          "data": "Subtitle 2 for Bonus 1"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Body text 2 for Bonus 1"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Skill Challenger” Toy Handbook",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXeuLwIVNzQABiD5Swki1sl0mcDnGhPuRmsjjaXICanzv93IFXrmqTWERwOq90ZkEPLqEsw_JIU8bE80NKVRM4wyhdEHzZGIdv1tQ9ormbb3b_No6yPuPdBN-NBmh8_dUXYiXo7rIyD55wUj0fFUkZyI8IRja7LFr7pACRHQt1MNv3b3jEpU6sMiGrZI8/s2000/12.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Endless Fun” Playtime Picks",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64580d657a62afd8e567_1699463376-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdRs2VOfsfbbC562G2-bm2qQr5f_N4_O6mD9p7fQf17MYr2Rma-Ra1tX1ySCXfAb6JfWVUPJ4wZeJLvaI9WxQ1aKxzQWUDIJ_h0wOsZ3EoGyP5H-_IePiN-A2JbEn7W5furfc5W3Xhfj69Djlo941XT1yI0pMUoS_nVOdE_XfiXZkJg37wxY4jIlynQI/s2000/13.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "Top 10 Most Popular Toys Chart!",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6458794fb302dad3e851_1699458033-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAQ1DFONMZfnsBPDZlbtfqCTLOcdxGpYh0V_4xF0Xg-xVIZgYc5zqLiw4QJgR1t6gFhcIMjD2GXPFIiWjlu30NyeNFphShFv6B0f0_nJjInpRfDvdpAbZaA4yJGrwz9evmrDE4LJPJt1r4q_8lxXWU1zd-RNEDNMr0tN-qiHBMUU8USqS-CIKx5PC5gu8/s2000/3.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Creative Playtime Setup In Seconds” Quick Start Guide",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64589205d64741bf04ee_1699458100-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgASGEqDFxHgOTEsCXLhnpgzW27ZvRKXezPat9bkOyL5v_WSHJCKfI2-FAWOe0Wgn96zhXSwvEyb3C6ckXGssSaQER5dSDMNS1Q3BWzY-bAgvvFtTQx-dJ0sfxAN3US3IQ5Iutw4vYGHoogyweXIoBxb7BOwE-3nRlrF4_G4UlbiwzUNnnj38JQ-uYa-ts/s2000/4.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“TIDY HOUSE” Playtime Playbook",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64585f8175418a77aea5_1699458135-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmGSlVyjeHGlG41N2jH01t_xXc74R9tUrafoTyAFnUfmu36Ian7JkATjWBteS3UEOEu8uZU3WfxzCUkMgp6PJVovfefvSP8CfFFOxzUPZAzVE-iDAS-UdcrutSPE_12ZLzGcHeqFpOTdzWkzEeVMIfa8noZkQo6u9mJxDMoLKhVzsLg5qsmKxtfqKtulw/s2000/5.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“More Play, Less Screen Time” Booster Pack",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c645856c2d7406bbdc8bb_1699458652-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFs_D6y8UBdbS55PVdw7xCp-gT2pMhiE654xrW7IvyORQU-9ruIQPcDObLkjiV2FENJPOopWaYX4L6vtF97guLevTro38aYkvC_j3osqoIc8CroiSuGZCArzJalpvucZ6lvV3PusSpepi8kKFDMlisPDSoOcEyDo02Ffo5XW0PgFfVLt4XKKh8wh2jXA/s2000/6.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Empowering Toys for Special Needs” Showcase",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c645843a6a65eebf93e78_1699458711-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCxGkurtV4pGJ1Goi5zOJTKglCaGF61MPxZwHDD4K7LhPouy7yF9iYSDIneNlMXMn-VzPVTATQj8PS_odJeFSJg37Lxll8P2xlNjnVKppG5pKONoXBWZ_XXoBoWW1QOsE4Ez_ouqYAucKpR67SkZELKpIDWhau4SWiJ15mdLwLiLSWtWte_bwj4VMbwKQ/s2000/7.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "Lone Ranger's Toy Toolbox",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64571841ad95cb7294b0_1699458833-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosKRMArggN9D_kYAhOe4-Uvw1zEj3Q_8sNoUNtvIVrLzoGpSxt7GZ9UviZYoj_5wuprYYN2f-RcdIO0_DibC7I4bEbiCRsEBWGN6tnpXUMp86BIuz-8Wsc1JN8lDc8cTFcVWYk8ldsbC5IeDJCpdaRkS54vLZAzpzTO-XEsWsZNbm0jjGusaP2BmQRqA/s2000/8.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "\"Travel Playtime Made Easy\" Starter Kit",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c645786f3fe6aa12419f0_1699458946-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTM0eJlq0l4-efLXj-vqEmD85AXWNDS_rZdTYpGSlol5_-4qBdBWLaKPg6IHQesQWZcKKEVSTyoUwuh3EsU5fcnQVfNVuuGel544xnE-13vVe6qqmyZKFqZ7alzjQEEsilX9arrOxm3aAvkC-L4KjWifjjfi8yuKBEHbTSLWAKYWlmuuGvesxAERUJA5Y/s2000/9.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Peaceful Playtime Essentials\" Masterclass",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c645786f3fe6aa1241989_1699458978-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGzImKw2MGtRsRn14DOTy_eMtjWeglDzYUrpjlHPnqD_T0eRNxLGXXQpnckHD1nhPt6T5iUuL2VajOMnQtr52M8U0meMDb2FMhbQtWJjoU-ppFzGQH9kElXRkqwtqWVdFWib4w1qZXGxPN4NNIdySxATBSVBISGXVrqfQgxdtMh1RIoCh3qs9D91Dtwk/s2000/10.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "“Focus-Boosting Playtime” Made Easy",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457d18a79e46893f165_1699459006-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjT0D8B33d6sk2G7dTPv4kUOMIZYU3qhcrogSK0xcSevJgRmFlwQeitM7_4bzn90_aW6NHmwEbQ_5fz78opSQHDHyvxx7yCruPj4rI1s4Wx5BygdH44erVl6GUaPhgF0H3YayPIHpjDgayLWtIsmTdO2WYh6EK2XwROm4J54U1wL7PzWGAuGBC97b7fZc/s2000/11.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "\"Playful Parenting Made Easy\" 100+ Simple Play Activities For Kids",
+      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64587cd2a36e7641ca4c_1699457534-p-1080.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_Xp5ReNSDT3_3LLalxtste0tt3oxZm50Kq-fetweGfNAszB-BRgpXENxA7Z4974CgyQUuvyBv0-Rt6D9EAb-m0Bq2PvutZ-hzL86t69duyAbRO6AcSv9WQP-c0Vn-hOjBR22Dk1otZ7TNs_0X6s7I9Ff418imWbh0l59sn4-V4R0suxlUnlhIGo2zZc/s2000/1.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    }
+  ]
+}
