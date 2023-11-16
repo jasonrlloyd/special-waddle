@@ -1,76 +1,88 @@
 {
-  "bonuses": [
-    {
-      "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
-      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
-      "content": [
-        {
-          "layout": "subtitle",
-          "data": "Subtitle for Bonus 1"
-        },
-        {
-          "layout": "bodyText",
-          "data": "Body text for Bonus 1"
-        },
-        {
-          "layout": "products",
-          "data": [
-            "https://discoveryplaytime.ie/products/yellow-door-weather-stones",
-            "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
-            "https://discoveryplaytime.ie/products/connetix-62pcs-starter-pack",
-            "https://discoveryplaytime.ie/products/yellow-door-play-cave",
-            "https://discoveryplaytime.ie/products/yellow-door-play-igloo",
-            "https://discoveryplaytime.ie/products/safari-toob-flowers-10pcs",
-            "https://discoveryplaytime.ie/products/bigjigs-woodland-magnets",
-            "https://discoveryplaytime.ie/products/safari-toob-in-the-water-11pcs",
-            "https://discoveryplaytime.ie/products/yellow-door-ladybugs-counting-stones",
-            "https://discoveryplaytime.ie/products/safari-toob-insects-14pcs",
-            " https://discoveryplaytime.ie/products/jumini-stacking-rainbow"
-          ]
-        },
-        {
-          "layout": "image",
-          "data": "https://plus.unsplash.com/premium_photo-1698057772761-b236d1588dd3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-          "layout": "video",
-          "data": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/850867388?h=1db99b89ca&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Shopify Stores - Mobile App Fast Track Bundle\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>"
-        },
-        {
-          "layout": "subtitle",
-          "data": "Subtitle 2 for Bonus 1"
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "bodyText",
-          "data": "Body text 2 for Bonus 1"
-        }
-      ]
-    },
-    {
-      "title": "“Skill Challenger” Toy Handbook",
-      "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
-      "content": [
-        {
-          "layout": "subtitle",
-          "data": "Subtitle for Bonus 2"
-        },
-        {
-          "layout": "bodyText",
-          "data": "Body text for Bonus 2"
-        },
-        {
-          "layout": "image",
-          "data": "imageURL2"
-        },
-        {
-          "layout": "video",
-          "data": "videoURL2"
-        }
-      ]
-    }
-  ]
-}
+    "bonuses": [
+      {
+        "title": "“Last Minute Gifts” Toy Selection Cheat Sheet",
+        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64581841ad95cb729553_1699457914-p-1080.png",
+        "content": [
+          {
+            "layout": "subtitle",
+            "data": "Subtitle for Bonus 1"
+          },
+          {
+            "layout": "bodyText",
+            "data": "Body text for Bonus 1"
+          },
+          {
+            "layout": "spacer",
+            "data": 20
+          },
+          {
+            "layout": "products",
+            "data": [
+              "https://discoveryplaytime.ie/products/yellow-door-weather-stones",
+              "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
+              "https://discoveryplaytime.ie/products/connetix-62pcs-starter-pack",
+              "https://discoveryplaytime.ie/products/yellow-door-play-cave",
+              "https://discoveryplaytime.ie/products/yellow-door-play-igloo",
+              "https://discoveryplaytime.ie/products/safari-toob-flowers-10pcs",
+              "https://discoveryplaytime.ie/products/bigjigs-woodland-magnets",
+              "https://discoveryplaytime.ie/products/safari-toob-in-the-water-11pcs",
+              "https://discoveryplaytime.ie/products/yellow-door-ladybugs-counting-stones",
+              "https://discoveryplaytime.ie/products/safari-toob-insects-14pcs",
+              " https://discoveryplaytime.ie/products/jumini-stacking-rainbow"
+            ]
+          },
+          {
+            "layout": "spacer",
+            "data": 20
+          },
+          {
+            "layout": "image",
+            "data": "https://plus.unsplash.com/premium_photo-1698057772761-b236d1588dd3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "layout": "video",
+            "data": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/850867388?h=1db99b89ca&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Shopify Stores - Mobile App Fast Track Bundle\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>"
+          },
+          {
+            "layout": "subtitle",
+            "data": "Subtitle 2 for Bonus 1"
+          },
+          {
+            "layout": "spacer",
+            "data": 20
+          },
+          {
+            "layout": "bodyText",
+            "data": "Body text 2 for Bonus 1"
+          },
+          {
+            "layout": "spacer",
+            "data": 180
+          }
+        ]
+      },
+      {
+        "title": "“Skill Challenger” Toy Handbook",
+        "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c6457236ca78b2e22fa1e_1699463325-p-1080.png",
+        "content": [
+          {
+            "layout": "subtitle",
+            "data": "Subtitle for Bonus 2"
+          },
+          {
+            "layout": "bodyText",
+            "data": "Body text for Bonus 2"
+          },
+          {
+            "layout": "image",
+            "data": "imageURL2"
+          },
+          {
+            "layout": "video",
+            "data": "videoURL2"
+          }
+        ]
+      }
+    ]
+  }
