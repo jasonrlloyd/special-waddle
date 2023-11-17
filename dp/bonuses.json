@@ -9,12 +9,28 @@
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJxoo04gjIrMFcfY9-3wv8kLEdeknMO60-CQXatAZc-VdnQIjMc1GW_8IGVOzg45ahIfOeq3I5SmzC_IT1hn2uRI6R1Sub3cQ6wHpoQ8drEcQiuYEsbeU33mE4QPJGw5m12tHNFszsJ3RU2jwepnZ6qhYjmA_NISUxE4IuWZKV2C7f3A6Ww4KmUBaAlw/s2000/2.png"
         },
         {
-          "layout": "subtitle",
-          "data": "Subtitle for Bonus 1"
+          "layout": "spacer",
+          "data": 20
         },
         {
-          "layout": "bodyText",
-          "data": "Body text for Bonus 1"
+          "layout": "subtitle",
+          "data": "A simplified cheat sheet presenting a range of last-minute, affordable toys tailored to suit a child's age and interests, designed to help parents and grandparents easily select appropriate toys without hassle."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwJ2fuzxrUeFHOfhgEtU895xXb_jJBxXvWeI05UULeePtZZJDo5wqIVhem_uMkj-wb9XTg1io5nBQ7EkUO0uAsvSWE8BN_tncowldtmV-dATFBa5nTUa4ohfmHJdd9AxSf41BOSQ5lrdFFGsEGbPTNvDmgpsNB5QPkmRmpOW6aYVjCz8A7VrE7DF4QJs/s2000/Last%20Minute%20Gifts%20Toy%20Selection%20Cheat%20Sheet%20(1).png"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "BABY (0-1 YEARS) SELECTIONS"
         },
         {
           "layout": "spacer",
@@ -23,17 +39,12 @@
         {
           "layout": "products",
           "data": [
-            "https://discoveryplaytime.ie/products/yellow-door-weather-stones",
-            "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
-            "https://discoveryplaytime.ie/products/connetix-62pcs-starter-pack",
-            "https://discoveryplaytime.ie/products/yellow-door-play-cave",
-            "https://discoveryplaytime.ie/products/yellow-door-play-igloo",
-            "https://discoveryplaytime.ie/products/safari-toob-flowers-10pcs",
-            "https://discoveryplaytime.ie/products/bigjigs-woodland-magnets",
-            "https://discoveryplaytime.ie/products/safari-toob-in-the-water-11pcs",
-            "https://discoveryplaytime.ie/products/yellow-door-ladybugs-counting-stones",
-            "https://discoveryplaytime.ie/products/safari-toob-insects-14pcs",
-            " https://discoveryplaytime.ie/products/jumini-stacking-rainbow"
+            "https://discoveryplaytime.ie/products/bigjigs-wiggly-worm-2pcs",
+            "https://discoveryplaytime.ie/products/jovi-magic-bear-beginners-wax-crayons-10pk-asstd",
+            "https://discoveryplaytime.ie/collections/baby/products/wooden-rainmaker",
+            "https://discoveryplaytime.ie/collections/baby/products/rainbow-wobbly-stacker",
+            "https://discoveryplaytime.ie/collections/baby/products/sensory-wooden-blocks",
+            "https://discoveryplaytime.ie/collections/baby/products/the-3-little-pigs-finger-puppets-and-story-set"
           ]
         },
         {
@@ -42,23 +53,92 @@
         },
         {
           "layout": "image",
-          "data": "https://plus.unsplash.com/premium_photo-1698057772761-b236d1588dd3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-          "layout": "video",
-          "data": "<div style=\"padding:62.5% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/850867388?h=1db99b89ca&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Shopify Stores - Mobile App Fast Track Bundle\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>"
-        },
-        {
-          "layout": "subtitle",
-          "data": "Subtitle 2 for Bonus 1"
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ5xZRNy32h0-RnkxcTBbpcKD4OCTaOT_WAHTdJjNdNBOJ6HJPqPSYL2mnoVD3PBVKFpO4ihb4M77r0C5uaV58w_GY_SmJV43rr860MBB70zeGyHfs-BCNwxi0gEokf12-xab9zJeAH5gr4FA2NBlorU3i8O3kV5hdg4Fvzz0TLZy0z0uRP5DyrYcoSKU/s2000/3.png"
         },
         {
           "layout": "spacer",
           "data": 20
         },
         {
-          "layout": "bodyText",
-          "data": "Body text 2 for Bonus 1"
+          "layout": "subtitle",
+          "data": "TODDLER (1-3 YEARS) SELECTIONS"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/toddler/products/lanka-kade-shark-push-along",
+            "https://discoveryplaytime.ie/collections/toddler/products/blackboard-with-coat-hooks",
+            "https://discoveryplaytime.ie/collections/toddler/products/lr-sort-seek-polar-animals",
+            "https://discoveryplaytime.ie/collections/toddler/products/wooden-stacking-train-with-blocks",
+            "https://discoveryplaytime.ie/collections/toddler/products/just-blocks-city-big-pack",
+            "https://discoveryplaytime.ie/collections/toddler/products/connetix-100pcs-creative-pack"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROGvuRv5g_xxZkdFFV3iO5wtocBWK5zJLaL6N1pzcTqqvX1SaRQXYQ4aEYGqpVlF4B_0Q_NHJvwnE57JXPVpBILwJJRd4DwbMwub_GJI_o3tIlgXNh0h6otLbdIbHcDwbRgf1y05qrk-fcpU5RYZhegesZAJmVQLYD35CcRS6ik6eQB5Bz9CXB2erpxk/s2000/4.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "PRESCHOOLER (3-5 YEARS) SELECTIONS"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/mad-mattr-2oz-with-brick-maker",
+            "https://discoveryplaytime.ie/products/apli-roll-of-900-educational-stickers-lower-case-letters-o-20-mm",
+            "https://discoveryplaytime.ie/products/erzi-wooden-game-tricky-blocks",
+            "https://discoveryplaytime.ie/products/tiger-tribe-waterworks-pipeline",
+            "https://discoveryplaytime.ie/products/tickit-rainbow-wooden-super-set",
+            "https://discoveryplaytime.ie/products/way-to-play-flexible-roads-king-of-the-road-40pcs"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBR4PCQvRO2uTl69Kg8JCd5z2Nz5fLJa4AUlCksdP-_I4C5jt27mWY9kXdy9j8a9EAcV53d8ImYO7cV6c_WRDPiPtcPbb-bRDXQMkQrFYJb6baA3wotghfywNiyfNSQfMqe1RXkFsaliB6e95mNOHUq4FT0TdbKanfRZegg5YlKgS0cSq7dO8mBhDyI7w/s2000/5.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "SCHOOL (5+ YEARS) SELECTIONS"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/lr-inflatable-globe",
+            "https://discoveryplaytime.ie/products/wooden-stamp-set-15pcs-with-small-ink-pad",
+            "https://discoveryplaytime.ie/products/rainbow-stacking-tower",
+            "https://discoveryplaytime.ie/products/constellation-ball",
+            "https://discoveryplaytime.ie/products/basketball-stand",
+            "https://discoveryplaytime.ie/products/makedo-discover-set-complete-set"
+          ]
         },
         {
           "layout": "spacer",
