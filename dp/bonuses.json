@@ -184,6 +184,22 @@
         },
         {
           "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "Explore the hottest toys that kids are loving right now. With a carefully researched list of popular toys for different age groups, find out which toys are trending and loved by children in your child's age range. Discover the most sought-after educational toys quickly and make your child's playtime truly special!"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "singleProduct",
+          "data": "https://discoveryplaytime.ie/collections/best-sellers/products/tuff-tray-100cm-black"
+        },
+        {
+          "layout": "spacer",
           "data": 180
         }
       ]
@@ -307,6 +323,62 @@
         {
           "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_Xp5ReNSDT3_3LLalxtste0tt3oxZm50Kq-fetweGfNAszB-BRgpXENxA7Z4974CgyQUuvyBv0-Rt6D9EAb-m0Bq2PvutZ-hzL86t69duyAbRO6AcSv9WQP-c0Vn-hOjBR22Dk1otZ7TNs_0X6s7I9Ff418imWbh0l59sn4-V4R0suxlUnlhIGo2zZc/s2000/1.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsb4Z08PPQfd2Dw2BpQyqUf1_TM_RKGS2bHEQu_hzlvw1TyDgFMONHEBpn10CzGrHBgVVCD9DbXJGnoNW9Ji5Ua31UrD-MVPPobJiOuJ3AGmljwZxIZCINDokJw5JAOdT-KUqXOr_gMICfBcdnYlwgCtsKRahpdv63R-0dCAqzOrfiwxau9XJ-DJXSIjI/s2000/2.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmN_74VAn56NHvCcgp7Zf3bEd0hzdDJjwTHIdE0jfLJspw8GwaFbcT_w7RNA7MdaQQCRpn2tKk-3_bV21zf4P8CkM-GNbD0IYLbUhnMkeWB5LvF4KbiMypK7HE-p7W8dl3-KteSU7YaM3RKTrY266ZrlV4F4fyEFS65mTZHRbBFKP1SHIazEATpeN4-TI/s2000/4.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeN9qBfHPlC2n-eucJmTrFpnBmXWOjvDY1H0YbZaSVhEkmd2PxhsFZuTyFRDGLDSFvTtfzsmeAsh2qVGqJEXchBak4lfer6fQjbq6VeIkbU3ZUzDKxGV4cGLE2E6rxcehCMZCiDUCXGwuBFJ29nTxty-T0Vi0Iw_03RRSsQkQjSqb2vvsH709fG7MeZts/s2000/5.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJbnTWOdeWcn-0LtpFuuWYrW4YMNNWDpn4OdhetxGghDIo8tNcLZsvNFAo8MzIS_8SVA1_U5buePUVjwNMy0IH6v-uSex479C1uTpEJ1WLAZf4bAeTdBtvPC7NwNWx0DYMWXf3Os4ykhKSgsWWE8RZazjGD8JSxGrQbn1QLQ55t9p88UpSS_EsoQ34q0/s2000/6.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA2S_p5s1RuX_DCzS9QUkWy3g_zv6JV5gfGr4Y6QYEwhhyXAUNjzd_k75dhOF5N9MWq3Z6yjD2EYinc9C8pezWgvr3cB2ngNS8Pe5toHY5q6P23koUDrv-IY6a4NAVEnAMxq93g0rRfakzYBRZSsRqPpbMgAf0aA1h_QxdakGFqstEWfjEKqDb98R6XP4/s2000/7.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKwLnTASeYG1pDhnYTAoV5Oy0EOaCF-ZVcH6Y6OUJKUzcV894d_tBv8STBdfO1flxPCKLUN1CCJyMBB5xAHXZiVK4aRXvazXgy0LCJGD0T7bNg0uzkd9UJlb006PWxyLBzG9t2j1464efMyyiHRMLy82Z4NBXuEfr8fO3vlyqGiEpTY0wau6LtAsgv4zQ/s2000/8.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7cjAfNILb4LqRRJg2OGDH3qwmTq1pnDafd5YbAxROVdFhoRpAamBtUBPnEIKZsqoKmqJYz3ZCTYBAjW00TjlXcMsceJkpxFYopnq7fn0ICqeXQC6pY6B4FQWKD-ZXHo_bY-FXzkHr2Wow8DOeYIa4wHOifLSVifOS4PcDn6XOH1xSWhTW0BAY3gpCO9c/s2000/9.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1gewvMONawPlFBEvUparNpfzKUrSH_qIC9wqURdG48R0nZcig7m9bGjLWTQdMpd75xGAYfbZ6eG669vQJrAPmeUd0HPNF7DIXar7RTvGwSDVJ1xaD7K6OXY30j5wuxNm_m-JtqOsFXXKpX4LY4E1rPLrocG67PJe5XE7_s8WFX1ofzOtUW7phViIkJE/s2000/10.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyayE46xBKGSiwh0180Giiz_YAQTkf2kmnl1DunExi69aQUXE3ZshTfYBkRu_Etti3qegwU-JMJC85T4JPDkVcuYEo7ze4telXsOmdYj6K1kNgc1THQiMwz6h9YCqVE9dcvf-KQFY5dUrMslswIg7E2OMoMrHozWTaBc9edCj4C4x8_W6BP1vgYkJkhbw/s2000/11.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0xIbItEaX7yxQVj7zUMTImVGYdZahPjkXQjG_Z1_zLPf2EuUAQPau27WOquqRNDu5vRegvSk4zzkYmNiFLu0Y4CoRQ6b_C_Zy3qIGk_gceXiH64xYA5WGDmiHY9fs920qZ_q5UZmfOUfnC_lFKFMLPW61oeM9rXnvTkXhe5IeGcUkSJdPMpTJtycVsQ/s2000/12.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm22M6gwivQJrw-C8oElr_lMEm8Qd6UHSrSXSYLre_D5PtHBUgwQZS0u5Hdb149gXdRkePtJKArqj5U4Uvt5fNBLqSikrXugfKtry9zLYh2G7WPDW9wNdh_SXkjJ2LbCkVgjlk32GrPdR1OdMXpFOoow9w196vWEJX7HvSYGHldmyMfpSD_j1NKLvGUAw/s2000/13.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLsfLmHLfKKaZ24aQulImM9HtK2kQyTi-Rijetoq9dOYYUvEW-cr_hMzmAywIZNJdAUw2cXu33Sy-0oFLbhJ7j7Hc1H-2BnP3kZGmGW9KkGjTLH7oXzpdrsLCRyrQJL5xrMSCIdZxve_FAc-ojCoxugPWYvA_kQ6vsxW_bv7ixqmH8WoFJzQlAJ62yUE/s2000/14.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrlqu6wy4IZs-g2udQaa85Jyj8SZK34pssLxnAtWjpwMFsdQy1wryFKrp3aE98lFztNNGO0cwmgK_bM64f0CXNQRShGiUcCCzxwgddHr2VojoQjCQuCGkM00Aj79_O7D1wpnqL5icsEFrWw8U3QhVpxj6lEqcJqmKaxvMpfK68OFc33Gl_li8LUbA9v9k/s2000/15.png"
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FlFF4dtWM6XHtIL75hZFJPzc_22xGDxVenevgrY7xWvhqgK5ZcwB7Ig4veibVwAHlotD_WaOY86AfFs5RWLtjJ_UPmXK2G67flitnXUxwxNf1ylwsX8tAXUTcFQdW-zFqhv1LyyZWH-3ChTJZBTVYqCMnm9oZHUGGa3OElKylsFjWFzmWXQ-1nU95P0/s2000/Playful%20Parenting%20Made%20Easy%20100+%20Simple%20Play%20Activities%20For%20Kids.png"
         },
         {
           "layout": "spacer",
