@@ -673,7 +673,7 @@
         },
         {
           "layout": "subtitle",
-          "data": "Welcome"
+          "data": "A starter kit comprising a collection of convenient, affordable travel-friendly toy suggestions, bundled with travel tips and suggestions for parents seeking quick and efficient solutions for their child's entertainment needs on the road."
         },
         {
           "layout": "spacer",
@@ -681,11 +681,15 @@
         },
         {
           "layout": "bodyText",
-          "data": "Welcome to \"Travel Playtime Made Easy\" Starter Kit – a guide designed with you and your little explorers in mind. I'm Mireia, the founder of Discovery Playtime, and I'm thrilled to embark on this journey of making travel a seamless and joyous experience for you and your children.\n\nAs a parent, I understand the excitement and challenges that come with exploring the world with little ones in tow. Whether you're planning a road trip, a flight across the country or abroad, or even just a weekend getaway, the question of how to keep your kids entertained is ever-present. That's where this book comes in – a resource crafted to transform travel time into an opportunity for learning, bonding, and, most importantly, fun.\n\n"
+          "data": "Welcome to \"Travel Playtime Made Easy\" Starter Kit – a guide designed with you and your little explorers in mind.\n\nAs a parent, I understand the excitement and challenges that come with exploring the world with little ones in tow. Whether you're planning a road trip, a flight across the country or abroad, or even just a weekend getaway, the question of how to keep your kids entertained is ever-present. That's where this book comes in – a resource crafted to transform travel time into an opportunity for learning, bonding, and, most importantly, fun."
         },
         {
-          "layout": "subtitle",
-          "data": "The Purpose Of This Book"
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN-295OMJGS9xhyphenhyphen9IUb5MiIWR8tBe1Qvjs492p-JeS2DwOk3jLoU7dcsMoMR4ksQiakWAPOWbsnEoVrtinfI-HMAmT3nqDrk4loxMOwcLOisHHEsmHUp8cyUkE_Lu6ssyf6LxnyoyjOPp4EHf5xg03Rle-noxfGW11NTqtNlRtvxomowKpoy_Z771G_MU/s2100/1.png"
         },
         {
           "layout": "spacer",
@@ -700,8 +704,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "The Importance of Play During Travel"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1miTbKeFQYm4xcFimedMPr9I6B9evEuSwXO75xV7o22MJt9gf3MdLtNR5mNnyx1oiACVx-VkQvSL1b1iWt2aEX38Oy59G3z4gvMinQs0gkms6BxOrDptmxLfsn3DhV2yo3SxfGvvbqVs6h-RIBk_gA0WL740BMhEu7wzFFF4IPZVjffjzLTEXa3c0dKg/s2100/2.png"
         },
         {
           "layout": "spacer",
@@ -709,7 +713,7 @@
         },
         {
           "layout": "bodyText",
-          "data": "Traveling with children is a grand adventure, filled with the promise of new discoveries and shared moments that linger in family lore. Yet, amidst the excitement of exploration, there's a challenge that every parent understands intimately – how to keep our young adventurers happily engaged during the journey.\n\nWhy is play so crucial, especially when we're on the move?\n\n1. Unleashing Creativity:\n   Travel, with its novel sights and sounds, is a canvas awaiting the strokes of your child's imagination. Playtime fosters creativity, allowing young minds to weave stories, invent games, and transform mundane moments into magical memories.\n\n2. Building Bonds:\n   The shared joy of play creates a unique bond between parents and children. Through laughter, collaboration, and shared fascination, we build connections that withstand the test of time. Travel playtime becomes a vehicle for strengthening family ties, creating a tapestry of shared experiences.\n\n3. Easing Anxiety:\n   For children, navigating unfamiliar environments can be both thrilling and intimidating. Play provides a familiar anchor, offering comfort and a sense of control. It transforms the unknown into a playground of possibilities, easing any travel-related anxieties your little ones may experience.\n\n4. Stimulating Development:\n   Every playful moment is an opportunity for growth. Whether it's solving a puzzle, engaging in imaginative role-play, or learning through interactive games, travel playtime contributes to your child's cognitive, emotional, and social development.\n\n5. Turning Transit into Adventure:\n   Play has the remarkable ability to transform the mundane into the extraordinary. Long flights become treasure hunts, road trips become epic quests, and even waiting in line becomes an opportunity for exploration. With the right tools and mindset, travel transitions from a necessity to an adventure in itself.\n\nIn the upcoming sections of \"Travel Playtime Made Easy,\" we'll delve into practical solutions, equipping you with the tools to make play an integral and cherished part of your family adventures. Fasten your seatbelts, pack your curiosity, and let the power of play accompany you on every mile of your journey.\n\nLet the adventure unfold!"
+          "data": "Traveling with children is a grand adventure, filled with the promise of new discoveries and shared moments that linger in family lore. Yet, amidst the excitement of exploration, there's a challenge that every parent understands intimately – how to keep our young adventurers happily engaged during the journey."
         },
         {
           "layout": "spacer",
@@ -717,15 +721,23 @@
         },
         {
           "layout": "subtitle",
-          "data": "Chapter 1:  Preparing for the Journey"
+          "data": "Why is play so crucial, especially when we're on the move?"
         },
         {
           "layout": "spacer",
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Understanding Your Child's Preferences"
+          "layout": "bodyText",
+          "data": "1. Unleashing Creativity:\n\nTravel, with its novel sights and sounds, is a canvas awaiting the strokes of your child's imagination. Playtime fosters creativity, allowing young minds to weave stories, invent games, and transform mundane moments into magical memories.\n\n2. Building Bonds:\n\nThe shared joy of play creates a unique bond between parents and children. Through laughter, collaboration, and shared fascination, we build connections that withstand the test of time. Travel playtime becomes a vehicle for strengthening family ties, creating a tapestry of shared experiences.\n\n3. Easing Anxiety:\n\nFor children, navigating unfamiliar environments can be both thrilling and intimidating. Play provides a familiar anchor, offering comfort and a sense of control. It transforms the unknown into a playground of possibilities, easing any travel-related anxieties your little ones may experience.\n\n4. Stimulating Development:\n\nEvery playful moment is an opportunity for growth. Whether it's solving a puzzle, engaging in imaginative role-play, or learning through interactive games, travel playtime contributes to your child's cognitive, emotional, and social development.\n\n5. Turning Transit into Adventure:\n\nPlay has the remarkable ability to transform the mundane into the extraordinary. Long flights become treasure hunts, road trips become epic quests, and even waiting in line becomes an opportunity for exploration. With the right tools and mindset, travel transitions from a necessity to an adventure in itself.\n\nIn the upcoming sections of \"Travel Playtime Made Easy,\" we'll delve into practical solutions, equipping you with the tools to make play an integral and cherished part of your family adventures. Fasten your seatbelts, pack your curiosity, and let the power of play accompany you on every mile of your journey.\n\nLet the adventure unfold!"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rdtCBq4jRlvByuXTXblE3OAX-OZkdMNQ_R8OWq41mHLRGZ3vG_-YU9j1-U448l_zNLWQqIgBe6I-vfsRgeUel7-vBh4aNU08Ylz6zJspOSLTCQbIBbZWPOkpHk0kHB-64mw_144hIbW_4xM7_AvVHdJlkN06IYmLManmmZ4-FKdtI0SBWh2QV_-SesQ/s2100/3.png"
         },
         {
           "layout": "spacer",
@@ -756,8 +768,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Packing Essentials"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg14pNbpO71GDkk1Jg4z1fJeySfJsVELqi_gu8vY7qPO0-H084mYDqVJ5lkehQorAuDVvJUbnzmpMo0cqQq2FXQ_NUGgNEYpXwyBFD3-oFWP4qACVdcVjem6vHWjmE6vRQJXiOtL0JarjhqtqY7XUzzRM_1ZX2YBL1pVu2E0ka0wRtb7-OpOoFZdDZHnzw/s2100/4.png"
         },
         {
           "layout": "spacer",
@@ -772,8 +784,16 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Packing Essentials for the Travel Play Kit:"
+          "layout": "bodyText",
+          "data": "Versatile Toys:\n\nInclude toys that cater to a range of activities. Consider items that stimulate creativity, encourage problem-solving, and offer opportunities for both solo and group play. This versatility ensures that your child remains engaged throughout the journey.\n\nComfort Items:\n\nDon't forget familiar comfort items, such as a beloved stuffed animal or blanket. These can provide a sense of security, especially during unfamiliar travel environments, and help your child feel more at ease.\n\nEducational Games:\n\nIntegrate educational games that align with your child's interests. Whether it's math puzzles, language games, or science exploration, these activities not only entertain but also contribute to their cognitive development.\n\nInteractive Books:\n\nPack a few compact and engaging books suitable for your child's age. Look for interactive features like touch-and-feel elements or lift-the-flap designs. Books are not only entertaining but also serve as a valuable learning tool.\n\nArt Supplies:\n\nEncourage creativity with a selection of travel-friendly art supplies. Consider items like coloring books, crayons, and stickers. These activities not only entertain but also offer a constructive outlet for your child's imagination.\n\nAudio Entertainment:\n\nInclude headphones and audio content suitable for your child's age. This could be audiobooks, music, or educational podcasts. Audio entertainment provides a screen-free option and can be especially useful during quiet moments or on long journeys."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOSI_c61W12F9cYYO29htbNGXgaJJG1ghOJrQkcgh5QvYcPyQKCpJDeJMwgkiQhuwsZ1Qkb4zbrqd4QWDR6j3uNfAKZYKTzuR3nw1NEWkturNNGY9nNZ6QHX3Svtwv_1m-DiTG0epRnyDvwCjk7LsnIkyGO-FGvzhyr9rrmi-aCydC1ENBE8dXMrvvNw/s2100/5.png"
         },
         {
           "layout": "spacer",
@@ -781,31 +801,15 @@
         },
         {
           "layout": "bodyText",
-          "data": "Versatile Toys:\nInclude toys that cater to a range of activities. Consider items that stimulate creativity, encourage problem-solving, and offer opportunities for both solo and group play. This versatility ensures that your child remains engaged throughout the journey.\n\nComfort Items:\nDon't forget familiar comfort items, such as a beloved stuffed animal or blanket. These can provide a sense of security, especially during unfamiliar travel environments, and help your child feel more at ease.\n\nEducational Games:\nIntegrate educational games that align with your child's interests. Whether it's math puzzles, language games, or science exploration, these activities not only entertain but also contribute to their cognitive development.\n\nInteractive Books:\nPack a few compact and engaging books suitable for your child's age. Look for interactive features like touch-and-feel elements or lift-the-flap designs. Books are not only entertaining but also serve as a valuable learning tool.\n\nArt Supplies:\nEncourage creativity with a selection of travel-friendly art supplies. Consider items like coloring books, crayons, and stickers. These activities not only entertain but also offer a constructive outlet for your child's imagination.\n\nAudio Entertainment:\nInclude headphones and audio content suitable for your child's age. This could be audiobooks, music, or educational podcasts. Audio entertainment provides a screen-free option and can be especially useful during quiet moments or on long journeys."
+          "data": "Compact Storage Solutions:\n\nInvest in compact storage containers or bags to keep toys organized and easily accessible. Zippered pouches or small bins can prevent items from getting lost in the depths of your luggage.\n\nLabeling and Categorizing:\n\nUse labels or color-coded pouches to categorize different types of toys. This not only aids in quick identification but also makes it easier for your child to find their preferred activities.\n\nMaximizing Space Efficiency:\n\nRoll clothes and use every available nook and cranny to maximize luggage space. Consider the dimensions of your travel play kit items and arrange them strategically to make the most of the available space.\n\nAccessible Pockets and Compartments:\n\nChoose luggage with multiple pockets or compartments. This allows you to organize items based on accessibility, with essentials like comfort items easily reachable during the journey.\n\nRegularly Updated Inventory:\n\nKeep track of the travel play kit inventory and update it as needed. Remove items that are no longer age-appropriate or have lost their novelty to make room for new additions.\n\nBy carefully curating your travel play kit and employing smart packing strategies, you're not only ensuring that your child remains entertained but also simplifying the logistics of travel. As you prepare to embark on your journey, confident in your packing prowess, the adventure ahead becomes even more enticing. Onward to the next chapter of travel playtime mastery!"
         },
         {
           "layout": "spacer",
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Suggestions for Organizing and Optimizing Space:"
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "bodyText",
-          "data": "Compact Storage Solutions:\nInvest in compact storage containers or bags to keep toys organized and easily accessible. Zippered pouches or small bins can prevent items from getting lost in the depths of your luggage.\n\nLabeling and Categorizing:\nUse labels or color-coded pouches to categorize different types of toys. This not only aids in quick identification but also makes it easier for your child to find their preferred activities.\n\nMaximizing Space Efficiency:\nRoll clothes and use every available nook and cranny to maximize luggage space. Consider the dimensions of your travel play kit items and arrange them strategically to make the most of the available space.\n\nAccessible Pockets and Compartments:\nChoose luggage with multiple pockets or compartments. This allows you to organize items based on accessibility, with essentials like comfort items easily reachable during the journey.\n\nRegularly Updated Inventory:\nKeep track of the travel play kit inventory and update it as needed. Remove items that are no longer age-appropriate or have lost their novelty to make room for new additions.\n\nBy carefully curating your travel play kit and employing smart packing strategies, you're not only ensuring that your child remains entertained but also simplifying the logistics of travel. As you prepare to embark on your journey, confident in your packing prowess, the adventure ahead becomes even more enticing. Onward to the next chapter of travel playtime mastery!"
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "subtitle",
-          "data": "Chapter 2: Toy Selection Guide"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhujgPMxzbowzUuuFAksUikQ3CUmfXR994U8KhUT5Ppt3l7HNoDcrnNepxeN-0Qse7tWSkMv3jH7yO6Fmcdf_3jIjgGYbVPQp1UK9NzwKr6ga00GjFdA_ycI0Equ2N36cQ3VK1c6ZW2jzAY0muUGzlUBOMitpgESK9UBL0EBTN4km44ba9lLwcy3GukNis/s2100/6.png"
         },
         {
           "layout": "spacer",
@@ -813,7 +817,7 @@
         },
         {
           "layout": "bodyText",
-          "data": "As you step into the realm of curating a travel play kit, understanding the significance of choosing the right toys is paramount. In this chapter, we explore the crucial aspects of selecting toys that not only captivate your child's interest but also contribute to their educational and developmental journey.\n\n"
+          "data": "As you step into the realm of curating a travel play kit, understanding the significance of choosing the right toys is paramount. In this chapter, we explore the crucial aspects of selecting toys that not only captivate your child's interest but also contribute to their educational and developmental journey."
         },
         {
           "layout": "spacer",
@@ -829,15 +833,15 @@
         },
         {
           "layout": "bodyText",
-          "data": "The Importance of Learning Through Play:\nPlay is more than just a source of entertainment; it's a powerful tool for learning and development. Engaging in play activities stimulates various areas of a child's brain, fostering cognitive, emotional, and social growth. When selecting toys for your travel play kit, consider the educational value they bring to the table.\n\nCognitive Development:\nToys that encourage problem-solving, critical thinking, and spatial awareness are excellent choices. Puzzles, building blocks, and games that involve strategy contribute to the development of cognitive skills.\n\nLanguage and Communication Skills:\nChoose toys that promote language development. Interactive books, storytelling games, and toys that encourage verbal communication help enhance your child's language skills and vocabulary.\n\nFine and Gross Motor Skills:\nTravel playtime is an opportunity to refine motor skills. Look for toys that involve fine motor activities like drawing, coloring, or manipulating small objects. Additionally, toys that encourage physical movement, such as balls or building sets, support the development of gross motor skills.\n\nSocial and Emotional Growth:\nToys that facilitate social interaction and imaginative play contribute to emotional intelligence. Consider items that encourage cooperation, sharing, and role-playing, fostering your child's understanding of emotions and social dynamics.\n\n"
+          "data": "The Importance of Learning Through Play:\n\nPlay is more than just a source of entertainment; it's a powerful tool for learning and development. Engaging in play activities stimulates various areas of a child's brain, fostering cognitive, emotional, and social growth. When selecting toys for your travel play kit, consider the educational value they bring to the table.\n\nCognitive Development:\n\nToys that encourage problem-solving, critical thinking, and spatial awareness are excellent choices. Puzzles, building blocks, and games that involve strategy contribute to the development of cognitive skills.\n\nLanguage and Communication Skills:\n\nChoose toys that promote language development. Interactive books, storytelling games, and toys that encourage verbal communication help enhance your child's language skills and vocabulary.\n\nFine and Gross Motor Skills:\n\nTravel playtime is an opportunity to refine motor skills. Look for toys that involve fine motor activities like drawing, coloring, or manipulating small objects. Additionally, toys that encourage physical movement, such as balls or building sets, support the development of gross motor skills.\n\nSocial and Emotional Growth:\n\nToys that facilitate social interaction and imaginative play contribute to emotional intelligence. Consider items that encourage cooperation, sharing, and role-playing, fostering your child's understanding of emotions and social dynamics."
         },
         {
           "layout": "spacer",
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Guide on Selecting Age-Appropriate Toys:"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB4QwfEoCwaQS-8FDceDnWpbbWyGlFFDU2Ow7ZBwytfHAOljQ9gMF9JqfGMB9bQ5CP2GJVloswr29cIjFSLoo-9TORcXhEf_6Tq4UQwbM0fyvDe5fS7QNijnsx1wBSFTgicvkAbcNHBuvXpFLmC7Rt1ywUeHLruSFqOyyLIRVSWZDdo_yTuDHk0J6e5bA/s2100/7.png"
         },
         {
           "layout": "spacer",
@@ -845,15 +849,15 @@
         },
         {
           "layout": "bodyText",
-          "data": "Babies (0-12 months):\n\nSoft, textured toys for tactile stimulation.\nHigh-contrast black and white toys for visual development.\nRattles, crinkly toys, and teething rings for sensory exploration.\n\nToddlers (1-3 years):\n\nBuilding blocks for stacking and creative play.\nSimple puzzles with large pieces.\nInteractive books with simple stories and textures.\n\nPreschoolers (3-5 years):\n\nEducational games that introduce basic counting and shapes.\nArt supplies like crayons, markers, and coloring books.\nRole-playing toys, such as miniature figures or dress-up items.\n\nSchool-Age (5+ years):\n\nBoard games that involve strategy and teamwork.\nScience or craft kits for hands-on exploration.\nEducational electronic devices or apps aligned with school subjects.\n\nConsideration of these educational and age-appropriate factors ensures that your travel play kit becomes a valuable companion in your child's journey of growth and discovery. In the next sections, we'll delve deeper into specific toy recommendations, providing you with a curated selection tailored to various age groups."
+          "data": "Babies (0-12 months):\n\nSoft, textured toys for tactile stimulation. High-contrast black and white toys for visual development. Rattles, crinkly toys, and teething rings for sensory exploration.\n\nToddlers (1-3 years):\n\nBuilding blocks for stacking and creative play. Simple puzzles with large pieces. Interactive books with simple stories and textures.\n\nPreschoolers (3-5 years):\n\nEducational games that introduce basic counting and shapes. Art supplies like crayons, markers, and coloring books. Role-playing toys, such as miniature figures or dress-up items.\n\nSchool-Age (5+ years):\n\nBoard games that involve strategy and teamwork. Science or craft kits for hands-on exploration. Educational electronic devices or apps aligned with school subjects.\n\nConsideration of these educational and age-appropriate factors ensures that your travel play kit becomes a valuable companion in your child's journey of growth and discovery. In the next sections, we'll delve deeper into specific toy recommendations, providing you with a curated selection tailored to various age groups."
         },
         {
           "layout": "spacer",
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Travel-Friendly Criteria"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwqlX3i5iIYqYr4Quk6DvIk4paLepR9z6CD7CiCK4AX7seVJIr10dzCLp1A_FDvoIEED_2qffjVqkIP1_vQgKGpJyMAQxwocTfUCSwV9HbUMsHlpTISDqcDmvUEraluQaL8_mlPXb8e7VUTCTCdtCxluVBsWIDQFNbAXGmkTXtjE4GQPiLalRSSuayp6E/s2100/8.png"
         },
         {
           "layout": "spacer",
@@ -862,14 +866,6 @@
         {
           "layout": "bodyText",
           "data": "In the dynamic world of travel, the right toys not only inspire learning but also seamlessly integrate into the on-the-go lifestyle. This section of the Toy Selection Guide focuses on the essential criteria for choosing toys that are not only educational but also travel-friendly – compact, easy to carry, and adaptable to various modes of transportation."
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "subtitle",
-          "data": "Criteria for Travel-Friendly Toys:"
         },
         {
           "layout": "spacer",
@@ -892,8 +888,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Chapter 3: DIY and Low-Cost Options"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsM0tdZLBgvLmAqHASMAlOsxfKRLT-GmIHQj-bXQv1BkglUNQVDbjm_Fc6-YOCvbFfRAJw92bAOxKoJ8t8sITmy13DtptkXa1qwStSpdk9ALgNq_zNn1o7PyOVI0XeHTnrzwTjFkChasqr43dYsjJTy1a8TiHkV1z7Fh9U9PaDixP4j93FoB3DITBYMfs/s2100/9.png"
         },
         {
           "layout": "spacer",
@@ -902,14 +898,6 @@
         {
           "layout": "bodyText",
           "data": "Embarking on a journey doesn't necessarily mean breaking the bank when it comes to providing engaging play experiences for your child. In this chapter, we'll explore the world of do-it-yourself (DIY) travel toys and discover budget-friendly activities that spark creativity without compromising on quality."
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "subtitle",
-          "data": "DIY Travel Toy Ideas:"
         },
         {
           "layout": "spacer",
@@ -940,8 +928,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Chapter 4: Making Travel Educational"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3RIDeUbtvwfWZY_71-TlP2OBKGMxswWjJIlrNAY_WmNY-T8_qBDncW0zp2U1mOG92XoQGt3c8dMa-Dc12Og3q0TLtrqAujBmFPGcfUDxF_9oC4vXszMbjtAesCQvV_OIVdG7EJqQZXMNACigkzP3tMAm2lT2ieXXEbJQt7BShiJ5JGmiGO3sHrsTaDEM/s2100/10.png"
         },
         {
           "layout": "spacer",
@@ -956,8 +944,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Learning Through Play:"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz3usLv9K034Z-O3qppOxoIdC2BaE3fuSNdseaR-vLyxE2KpTotZJX7_Tas-dWbO0FHeI9t902Hx2aqlzG1GHdP8oRKQ76jns5a79It8uOhTReHqXN_LTm42vAPmY2pi2eg_BK0ShGMAvOyWzf9MFdsTpMdxGaXtRYhqRlqTEVoXIg8LYnJmCa_eNTtmE/s2100/11.png"
         },
         {
           "layout": "spacer",
@@ -972,8 +960,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Highlighting the Benefits of Making Learning Enjoyable:"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYM1Uc-wM0QXEPBYCuUXMqR93gs8Q5R11Y9EeF70YYwNG4QcTu1__AKF2sp1TS9CWW3u71ly0axBfkcM6EU_BYxLo8znTJUinXZvSh7K61aPRwYRN7dF9AiERaisYrmO-ld0gYOv45ddXsl6b9UWRDsCDgRUAnUY8Fqsib4oBbS9qHgsGlykAjzKpWro/s2100/12.png"
         },
         {
           "layout": "spacer",
@@ -992,8 +980,12 @@
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBz9kMq-P-GS27dIqWdXv1Uy4_Ckd8YRnQuRPq9eYw6pYixhd_0ckmyLC0ztrDgb6HLml5LBNl5hXJBLtVtg6Zk-2CF0KHhCV4Fv1e8pNhbPQLq1nfZWKlFH7yqVN1xZHkmlfgwQPEPQG2KE60XN8QDlcLaisJx3GJsyEdQgU-5NPFRueTH9NajZvSDJk/s2000/Last%20Minute%20Gifts%20Toy%20Selection%20Cheat%20Sheet%20(3).png"
         },
         {
-          "layout": "subtitle",
-          "data": "Chapter 5: Travel Tips and Hacks for Parents"
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGNraaCvKrVofZ6AZaSdPTVoQNFso2O8iTNBdAp7eoJIFvu6r87X2x5ofG7LWhH7aNG6TX13aXEaKLYYFetE5QhVg56NNBjMKczvly_zkYqCBQANng7k8pfhCGkmIWhmxgQiKFbO9kN7Womg06Su0qfTZUKYV0XfR0ppQxMykUWiB7neevxMCJS5MRXE/s2100/13.png"
         },
         {
           "layout": "spacer",
@@ -1008,8 +1000,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Efficient Packing Strategies:"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBnefjnzeK3-Kwp8X4bH6TcHB4b3jf0dY2jpNkorH10Qwyj4-xpTqH2ZFQirfWuyrq8UkGvhKU5aHOH2RckWaGpYdzMnJnqPI2w1Apa04LB6DmFKpwJVJ0SYbjEZB1DAh6HcukLCgpEcuTp0W2POcE6bOWMDug7Z62i5DCRclYHEwCa_8aQ4tlH21Lc0o/s2100/15.png"
         },
         {
           "layout": "spacer",
@@ -1024,8 +1016,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Dealing with Travel Challenges:"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOrD_rUcFf8AL33omh_FHVRUKVEPr8YJE7NlhBG8F770T2DG4YT8MN7v4PNj8pOmv6_qspAzDsMAgr7zTeOD77FgY4DMXtafXIAtVr3pl36Tb1fmdN4uc2-5u2O7z1digi_MSx2OqcxFv_YQGkPaRSczqu0OIvDVcQTo8P2j3blsedznSscKWauYrb1k/s2100/16.png"
         },
         {
           "layout": "spacer",
@@ -1040,8 +1032,8 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
-          "data": "Conclusion"
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsl1drEOvgwpmG0nVw86FMyyfywD7ON3HHmDqId7eVwV7dGfrY_tWl5Mmhif3wqbj_Hd5rXY3A2HIronDtaeT8g-uF3GJvaB2Bl6_oI4F1epKFNVrrzh-p4aMie6vRFaQ29totn50abElYrwElIIxo8goDhslsK34MLLZK2T9KILJrWP_OnQUyGSDBidk/s2100/17.png"
         },
         {
           "layout": "spacer",
