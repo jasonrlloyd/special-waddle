@@ -1092,7 +1092,7 @@
           "data": 20
         },
         {
-          "layout": "subtitle",
+          "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNQaLCyXbqZYf-Te3XJMDmt6N4y2O7eEy-038AdkKGaIenQtIYMj6n9A0dSIfWCPgPDZgk8ciV5wm_hUF3u2KKj-eBHCTaFof95dtlNmskeKGoddEWVo9LDrmkUqZed0sd_z65QR7WVRvj8hoc8Tvnv9lM0iWhaTs7k-C4bpwfKrKFJS2q8OMeAbpPmwk/s2100/2.png"
         },
         {
@@ -1478,7 +1478,7 @@
         {
           "layout": "bodyText",
           "data": "Materials:\n\nEmpty containers (e.g., plastic bottles, oatmeal canisters)\nRice, beans, or small pebbles\nTape or glue\n\nInstructions:\n\nFill containers with rice, beans, or pebbles. Seal the containers and secure with tape or glue. Create a band with homemade shakers and drums."
-        }, 
+        },
         {
           "layout": "spacer",
           "data": 20
