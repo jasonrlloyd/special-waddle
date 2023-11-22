@@ -936,8 +936,29 @@
           "data": 20
         },
         {
-          "layout": "image",
-          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbrvoAvUGQfUNbRCUQ3oTAaRwVnrxiACG5mzR7I9qDP07-R4jLOHb8n9ANi3OBapW0l0xxtwDdaSEwZIxKfgx6FnUCf_mto4dS1QfMKYT91HmsupeUok6b3LlMm9aFMXkQgmJ070ZqhnBT8P56TycWbkp2AGyYbYb4NMXzjGKM5eWJLSyniLC5YWEC_HE/s2000/Last%20Minute%20Gifts%20Toy%20Selection%20Cheat%20Sheet%20(2).png"
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/stabilo-3-in-1-crayon-pencils",
+            "https://discoveryplaytime.ie/products/snap-card-games",
+            "https://discoveryplaytime.ie/products/sound-recorder-with-mirror",
+            "https://discoveryplaytime.ie/products/wooden-stamp-set-15pcs-with-small-ink-pad",
+            "https://discoveryplaytime.ie/products/primary-science-binoculars",
+            "https://discoveryplaytime.ie/products/14051",
+            "https://discoveryplaytime.ie/products/translucent-colour-paddle-set",
+            "https://discoveryplaytime.ie/products/playfoam-build-a-snowman",
+            "https://discoveryplaytime.ie/products/lr-big-feelings-pineaple",
+            "https://discoveryplaytime.ie/products/orchard-toys-colouring-books",
+            "https://discoveryplaytime.ie/products/foldaway-unicorn-castle",
+            "https://discoveryplaytime.ie/products/wonderfully-weather-picture-books",
+            "https://discoveryplaytime.ie/products/human-body-cubebook",
+            "https://discoveryplaytime.ie/products/umini-foldaway-zoo",
+            "https://discoveryplaytime.ie/products/tiger-tribe-hidden-patterns-set-animals",
+            "https://discoveryplaytime.ie/products/woodland-ball-games",
+            "https://discoveryplaytime.ie/products/colouring-book-things-to-do",
+            "https://discoveryplaytime.ie/products/zbk-alphabet-first-phonics-and-colour-matching-cubebook",
+            "https://discoveryplaytime.ie/products/crocodile-creek-colouring-stickers-art-set",
+            "https://discoveryplaytime.ie/products/mindful-maze-garden-pack-2-double-sided-boards"
+          ]
         },
         {
           "layout": "spacer",
