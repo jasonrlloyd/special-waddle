@@ -4491,14 +4491,6 @@
         },
         {
           "layout": "image",
-          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbrvoAvUGQfUNbRCUQ3oTAaRwVnrxiACG5mzR7I9qDP07-R4jLOHb8n9ANi3OBapW0l0xxtwDdaSEwZIxKfgx6FnUCf_mto4dS1QfMKYT91HmsupeUok6b3LlMm9aFMXkQgmJ070ZqhnBT8P56TycWbkp2AGyYbYb4NMXzjGKM5eWJLSyniLC5YWEC_HE/s2000/Last%20Minute%20Gifts%20Toy%20Selection%20Cheat%20Sheet%20(2).png"
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZUf5H_wOCrdoplIZMwvrqC_OnpbU8pHXlzYs9jhLQeXQYB9lpsVn9CLu0kLioAT1NXvYmozozS9KDnnND1W1urSOAXZIqhEeRQQKOlWNvPsjZ9WxlvS6m8dfYZHCWcGUWtKJZAsOpamno99sasOq6vq47FyOUhQPpy1S3fSbxBlzi-__b7JEeSpD0PMI/s2100/6.png"
         },
         {
@@ -4523,7 +4515,109 @@
         },
         {
           "layout": "bodyText",
-          "data": "1. Storytelling and Puppetry:\n\nCreate a dedicated storytelling corner with a selection of age-appropriate books and puppets. Encourage children to narrate their own stories using puppets, promoting verbal expression and focused storytelling.\n\n2. Building Challenges:\n\nUse building blocks, LEGO sets, or other construction toys to set up focused building challenges. Provide prompts such as \"build a tall tower\" or \"create a structure with an arch,\" fostering concentration and spatial awareness.\n\n3. DIY Science Experiments:\n\nExplore simple and safe science experiments with household items. Activities like making a volcano with baking soda and vinegar or creating a rainbow in a jar encourage observation and concentration.\n\n4. Artistic Creations:\n\nSet up an art station with various materials like colored paper, glue, and markers. Engage children in art projects that involve intricate details, fostering fine motor skills and sustained focus.\n\n5. Memory Games:\n\nPlay memory games with cards featuring images or numbers. This classic game enhances memory and concentration skills as children match pairs."
+          "data": "1. Storytelling and Puppetry:\n\nCreate a dedicated storytelling corner with a selection of age-appropriate books and puppets. Encourage children to narrate their own stories using puppets, promoting verbal expression and focused storytelling."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/nursery-rhymes-finger-puppets-and-book",
+            "https://discoveryplaytime.ie/products/goldilocks-and-the-3-bears-story-set",
+            "https://discoveryplaytime.ie/products/the-gingerbread-man-book-and-finger-puppets",
+            "https://discoveryplaytime.ie/products/the-3-little-pigs-finger-puppets-and-story-set",
+            "https://discoveryplaytime.ie/products/jack-the-beanstalk-finger-puppets-and-story-set",
+            "https://discoveryplaytime.ie/products/three-billy-goats-gruff-puppets-and-book",
+            "https://discoveryplaytime.ie/products/table-top-theatre"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "2. Building Challenges:\n\nUse building blocks, LEGO sets, or other construction toys to set up focused building challenges. Provide prompts such as \"build a tall tower\" or \"create a structure with an arch,\" fostering concentration and spatial awareness."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/blocks/products/rainbow-wooden-blocks",
+            "https://discoveryplaytime.ie/collections/blocks/products/wooden-rainbow-architect-set",
+            "https://discoveryplaytime.ie/collections/blocks/products/just-blocks-city-big-pack",
+            "https://discoveryplaytime.ie/collections/blocks/products/just-blocks-city-medium-pack"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "3. DIY Science Experiments:\n\nExplore simple and safe science experiments with household items. Activities like making a volcano with baking soda and vinegar or creating a rainbow in a jar encourage observation and concentration."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/science-exploring/products/playfoam-sensory-pluffle",
+            "https://discoveryplaytime.ie/collections/science-exploring/products/science-jumbo-droppers",
+            "https://discoveryplaytime.ie/collections/science-exploring/products/horseshoe-shaped-large-magnet",
+            "https://discoveryplaytime.ie/collections/science-exploring/products/tiger-tribe-waterworks-pipeline",
+            "https://discoveryplaytime.ie/collections/science-exploring/products/splashology-water-lab"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "4. Artistic Creations:\n\nSet up an art station with various materials like colored paper, glue, and markers. Engage children in art projects that involve intricate details, fostering fine motor skills and sustained focus."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/art-supplies/products/pipe-cleaners-in-primary-colours-30pcs",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/stabilo-3-in-1-crayon-pencils",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/crayon-rocks-3-years-to-improve-tripod-grip",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/wooden-stamp-set-15pcs-with-small-ink-pad",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/recycle-me-craft-set-single-craft",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/gowi-toys-modelling-tools",
+            "https://discoveryplaytime.ie/collections/art-supplies/products/set-of-4-patterned-dough-rollers"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "5. Memory Games:\n\nPlay memory games with cards featuring images or numbers. This classic game enhances memory and concentration skills as children match pairs."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/snap-card-games",
+            "https://discoveryplaytime.ie/products/wooden-socks-memory-game"
+          ]
         },
         {
           "layout": "spacer",
@@ -4539,7 +4633,92 @@
         },
         {
           "layout": "bodyText",
-          "data": "1. Nature Scavenger Hunt:\n\nCreate a list of items for a nature scavenger hunt in your backyard or a nearby park. Searching for specific items encourages observational skills and sustained attention.\n\n2. Obstacle Course:\n\nDesign a simple obstacle course with items like cones, hula hoops, and jump ropes. Completing the course requires focus, coordination, and problem-solving.\n\n3. Planting and Gardening:\n\nInvolve children in planting and caring for a small garden. The nurturing process of tending to plants instills patience and concentration.\n\n4. Sidewalk Chalk Games:\n\nCreate hopscotch, a maze, or a counting game using sidewalk chalk. These activities engage both the mind and body, promoting focus and physical coordination.\n\n5. Outdoor Yoga and Mindfulness:\n\nIntroduce simple yoga poses and mindfulness exercises suitable for children. Practicing mindfulness outdoors enhances focus and a sense of calm."
+          "data": "1. Nature Scavenger Hunt:\n\nCreate a list of items for a nature scavenger hunt in your backyard or a nearby park. Searching for specific items encourages observational skills and sustained attention."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/jumbo-magnifyier",
+            "https://discoveryplaytime.ie/products/natural-shape-viewers",
+            "https://discoveryplaytime.ie/products/bigjigs-activity-buckets",
+            "https://discoveryplaytime.ie/products/yellow-door-wooden-tinker-tray-9-section"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "2. Obstacle Course:\n\nDesign a simple obstacle course with items like cones, hula hoops, and jump ropes. Completing the course requires focus, coordination, and problem-solving."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/lanka-kade-wooden-frog-skipping-rope",
+            "https://discoveryplaytime.ie/products/lanka-kade-wooden-minibeast-skipping-rope",
+            "https://discoveryplaytime.ie/products/edx-step-a-stones",
+            "https://discoveryplaytime.ie/products/basketball-stand"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "3. Planting and Gardening:\n\nInvolve children in planting and caring for a small garden. The nurturing process of tending to plants instills patience and concentration."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/vilac-little-gardeners-wheelbarrow",
+            "https://discoveryplaytime.ie/products/recycle-me-garden-box",
+            "https://discoveryplaytime.ie/products/vilac-large-garden-tool-set",
+            "https://discoveryplaytime.ie/products/lr-into-the-garden-sensory-activity-set",
+            "https://discoveryplaytime.ie/products/bigjigs-activity-buckets",
+            "https://discoveryplaytime.ie/products/growing-kit-dodo-watermelon-seeds",
+            "https://discoveryplaytime.ie/products/growing-kit-unicorn-mixed-flowers"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "4. Sidewalk Chalk Games:\n\nCreate hopscotch, a maze, or a counting game using sidewalk chalk. These activities engage both the mind and body, promoting focus and physical coordination."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/chalk-eggs",
+            "https://discoveryplaytime.ie/products/anti-dust-jumbo-sidewalk-chalk-6pcs"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "5. Outdoor Yoga and Mindfulness:\n\nIntroduce simple yoga poses and mindfulness exercises suitable for children. Practicing mindfulness outdoors enhances focus and a sense of calm."
         },
         {
           "layout": "spacer",
@@ -4555,7 +4734,74 @@
         },
         {
           "layout": "bodyText",
-          "data": "1. Music and Movement:\n\nTailor music and movement activities to the child's age and interests. Younger children might enjoy a dance party, while older children may prefer learning a musical instrument.\n\n2. Scrapbooking or Journaling:\n\nCreate a scrapbooking or journaling activity based on the child's experiences or interests. This activity encourages reflection and sustained attention to detail.\n\n3. Board Games and Puzzles:\n\nChoose age-appropriate board games and puzzles that align with the child's interests. These activities promote strategic thinking and concentration.\n\n4. Role-Playing Games:\n\nFacilitate role-playing scenarios based on the child's favorite characters or professions. Role-playing fosters creativity and sustained engagement in a storyline.\n\n5. Building with Everyday Items:\n\nEncourage building with everyday items like cardboard boxes or recycled materials. This open-ended activity sparks creativity and problem-solving skills.\n\nIn weaving these activities into the fabric of playtime, caregivers provide children with opportunities to strengthen their focus and concentration. As these playful experiences unfold, so too does the canvas of cognitive development, painting a vivid picture of engaged and attentive young minds."
+          "data": "1. Music and Movement:\n\nTailor music and movement activities to the child's age and interests. Younger children might enjoy a dance party, while older children may prefer learning a musical instrument."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "2. Scrapbooking or Journaling:\n\nCreate a scrapbooking or journaling activity based on the child's experiences or interests. This activity encourages reflection and sustained attention to detail."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "3. Board Games and Puzzles:\n\nChoose age-appropriate board games and puzzles that align with the child's interests. These activities promote strategic thinking and concentration."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/lr-bingo-bears",
+            "https://discoveryplaytime.ie/products/bigjigs-plant-pot-shot"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "4. Role-Playing Games:\n\nFacilitate role-playing scenarios based on the child's favorite characters or professions. Role-playing fosters creativity and sustained engagement in a storyline."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/erzi-role-play-cooking-studio",
+            "https://discoveryplaytime.ie/products/lanka-kade-community-playset",
+            "https://discoveryplaytime.ie/products/doctor-dress-up-costume",
+            "https://discoveryplaytime.ie/products/builder-dress-up-costume",
+            "https://discoveryplaytime.ie/products/scientist-dress-up-set",
+            "https://discoveryplaytime.ie/products/10-off-builder-bundle",
+            "https://discoveryplaytime.ie/products/scientist-bundle"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "5. Building with Everyday Items:\n\nEncourage building with everyday items like cardboard boxes or recycled materials. This open-ended activity sparks creativity and problem-solving skills."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "In weaving these activities into the fabric of playtime, caregivers provide children with opportunities to strengthen their focus and concentration. As these playful experiences unfold, so too does the canvas of cognitive development, painting a vivid picture of engaged and attentive young minds."
         },
         {
           "layout": "spacer",
