@@ -1582,6 +1582,18 @@
           "data": 20
         },
         {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/lr-colors-shapes-sensory-pad",
+            "https://discoveryplaytime.ie/products/tickit-tactile-balls-6pcs",
+            "https://discoveryplaytime.ie/products/textured-flashing-balls-irregular-bounce"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
           "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgae8ENK9FQh1BUEN38jSsjC-k6eqluMtHT8OzAWrxzKfTYwscLa5VrdLXD4bKIkP55GKFMTT5DfNoEJ2wSZf4I8A0AYMVjM9yLSkJZd1KgDgIq0hI4SS5FXWzp4MQV2TDEA4OpiC-yPTfsqIFGzbdsoiFp3EhgpfBZ4MlsniYBdXHSu9Pa6Otr6pO9YMA/s2100/4.png"
         },
@@ -1616,6 +1628,36 @@
         {
           "layout": "subtitle",
           "data": "Importance of adaptable toys for children with ADHD:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Children with ADHD may benefit from toys that can be adapted to their energy levels and attention spans. Adaptable toys that allow for both high-energy and focused play can cater to the fluctuating needs of children with ADHD, providing a dynamic and engaging experience. \n\n* Fidget Toys: Items like stress balls, fidget spinners, or textured squeezable toys can help channel excess energy.\n* Interactive Games: Toys that encourage movement and coordination, such as active play games or sports equipment.\n* Building Blocks or Construction Sets: Toys that allow for creativity and hands-on engagement."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/schylling-needoh-dohjees-fidget-squishy-creature-anxiety-reliever",
+            "https://discoveryplaytime.ie/products/sensory-fidget-tubes",
+            "https://discoveryplaytime.ie/products/schylling-shaggy-needoh-stretchy-fidget-stress-ball",
+            "https://discoveryplaytime.ie/products/schylling-atomic-needoh-squishy-fidget-stress-ball",
+            "https://discoveryplaytime.ie/collections/fidgets/products/schylling-colour-changing-nee-doh",
+            "https://discoveryplaytime.ie/collections/fidgets/products/ramen-noodlies",
+            "https://discoveryplaytime.ie/collections/fidgets/products/woodland-ball-games",
+            "https://discoveryplaytime.ie/collections/blocks/products/sensory-wooden-blocks",
+            "https://discoveryplaytime.ie/collections/blocks/products/rainbow-stacking-tower",
+            "https://discoveryplaytime.ie/collections/blocks/products/wooden-rainbow-architect-set",
+            "https://discoveryplaytime.ie/collections/blocks/products/just-blocks-city-small-pack",
+            "https://discoveryplaytime.ie/collections/blocks/products/just-blocks-city-big-pack",
+            "https://discoveryplaytime.ie/collections/blocks/products/lanka-kade-farm-building-blocks-40pcs"
+          ]
         },
         {
           "layout": "spacer",
@@ -1678,6 +1720,21 @@
           "data": 20
         },
         {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/rainbow-rice",
+            "https://discoveryplaytime.ie/products/playfoam-sensory-pluffle",
+            "https://discoveryplaytime.ie/products/magic-sand-bucket-with-modelling-tools",
+            "https://discoveryplaytime.ie/products/playfoam-sand-sensory-set",
+            "https://discoveryplaytime.ie/products/jovi-soft-play-dough-bulk-class-tub",
+            "https://discoveryplaytime.ie/products/schylling-waterbeads-squeezy-ball"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
           "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoChxjeY4TW5pKtSw_Za32_Ynsek2ZVFs-gcGZTGxDYbsI9QWnh9hBSNW6_hKRO-C-M-RZvjd58zI4lHDgOODgOKeCB9cbaTHRblmLwvR02_s7nSdw5lm1eRJmN6nr21WvLGn81_zrxicC1vAksegMcEsQd0ELbK3-MnpKRWs2pf3g-zMslu49rsYQm2Y/s2100/6.png"
         },
@@ -1720,6 +1777,25 @@
         {
           "layout": "bodyText",
           "data": "Children with developmental delays may have varying needs and abilities. Adaptable toys that can be adjusted to different skill levels or provide varying levels of challenge accommodate the diverse developmental stages of these children, ensuring that the toy remains engaging and supportive as they progress.\n\n* Large Foam Puzzle Mats: Promote motor skills and spatial awareness in a safe and comfortable way.\n* Adaptive Learning Tablets: Devices with customizable educational apps to support various developmental levels.\n* Gross Motor Skill Toys: Balls, tunnels, or ride-on toys that encourage physical activity and coordination."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/didicar%C2%AE-choose-your-colour",
+            "https://discoveryplaytime.ie/products/schylling-waterbeads-squeezy-ball",
+            "https://discoveryplaytime.ie/products/connetix-92pcs-ball-run-pack",
+            "https://discoveryplaytime.ie/products/connetix-pastel-ball-run-106pcs",
+            "https://discoveryplaytime.ie/products/connetix-80-pc-pastel-ball-run-expansion-pack",
+            "https://discoveryplaytime.ie/products/constellation-ball",
+            "https://discoveryplaytime.ie/products/woodland-ball-games",
+            "https://discoveryplaytime.ie/products/easy-grip-ball",
+            "https://discoveryplaytime.ie/products/connetix-66-pc-ball-run-expansion-pack",
+            "https://discoveryplaytime.ie/products/spinner"
+          ]
         },
         {
           "layout": "spacer",
@@ -1774,6 +1850,21 @@
           "data": 20
         },
         {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/colour-sorting-bowls",
+            "https://discoveryplaytime.ie/products/tickit-translucent-sorting-bowls",
+            "https://discoveryplaytime.ie/products/tickit-wooden-sorting-tray",
+            "https://discoveryplaytime.ie/products/flower-sorting-tray",
+            "https://discoveryplaytime.ie/products/yellow-door-size-sorting-eggs-8pcs",
+            "https://discoveryplaytime.ie/products/yellow-door-dinosaur-bones-match-and-mesure"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
           "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidWv0oUUGmBI-hF-WJD2X7xgOy4aXu0qOOEH7Sd7TAreXtaP-7e91hyOKBWBgXxIJepvlUmwNcz7fbXn3NRhJExGrNIk5xq3vrTLsiBSWencFQi_sUArrKe_Wi1QU2lwN1-nPVBMVVrWgZ7fnyFTwYvIrp49vZrG96M9COzg4fOcluVN6QKUvwLjVX_fw/s2100/8.png"
         },
@@ -1816,6 +1907,20 @@
         {
           "layout": "bodyText",
           "data": "Adaptable toys are essential for children with speech and language disorders as they can be customized to support specific communication goals. Toys with adjustable settings or adaptable features can cater to individual speech therapy needs, creating a supportive and personalized learning environment.\n\n* Speech Therapy Apps: Mobile apps designed for speech and language development with adjustable settings.\n* Picture Communication Cards: Visual aids that assist in communication and vocabulary building.\n* Sound-Matching Games: Toys that encourage the recognition of different sounds or speech patterns."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/music-sound/products/wooden-rainmaker",
+            "https://discoveryplaytime.ie/collections/music-sound/products/bigjigs-hand-bell-2pcs",
+            "https://discoveryplaytime.ie/collections/music-sound/products/bigjigs-junior-wooden-maraca-2pcs",
+            "https://discoveryplaytime.ie/collections/music-sound/products/bigjigs-wooden-guitar",
+            "https://discoveryplaytime.ie/collections/music-sound/products/bigjigs-small-hand-shaker"
+          ]
         },
         {
           "layout": "spacer",
@@ -1870,6 +1975,19 @@
           "data": 20
         },
         {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/crayon-rocks-3-years-to-improve-tripod-grip",
+            "https://discoveryplaytime.ie/collections/fun-crafts/products/chalk-eggs",
+            "https://discoveryplaytime.ie/collections/fun-crafts/products/stabilo-3-in-1-crayon-pencils",
+            "https://discoveryplaytime.ie/collections/toddler-games/products/easy-grip-ball"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
           "layout": "image",
           "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRl2-AwQPThsu9XYWnt5qx6sqkjiHS5EWn85-94TxD4n2BUZkvIMsJU8LZqbtJ5vPnKNybVlI3CmDn1pz22-dk8x8663hifoOtWxJKkC8DtncWGfI_aJ6jzagO-AZlZveRFh2lzA_fJG9yEuuP61xbZtYF2KsZ6CRBAW21R4e2fcLRKARpeyCpBTUGes/s2100/10.png"
         },
@@ -1912,6 +2030,31 @@
         {
           "layout": "bodyText",
           "data": "Adaptable toys can play a vital role in supporting the emotional well-being of children with social-emotional disorders. Features that allow customization to match the child's emotional state or preferences provide a comforting and empowering play experience, promoting emotional regulation and positive social interactions.\n\n* Emotion Recognition Games: Games that help children identify and express different emotions.\n* Feelings and Emotions Flashcards: Visual aids to facilitate discussions about emotions.\n* Puppet Sets: Puppets can be used as tools for emotional expression and storytelling."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/collections/emotions/products/lr-big-feelings-pineaple",
+            "https://discoveryplaytime.ie/collections/emotions/products/yellow-door-emotion-stones",
+            "https://discoveryplaytime.ie/collections/emotions/products/lr-express-your-feelings-sensory-bottles",
+            "https://discoveryplaytime.ie/collections/emotions/products/learning-resources-express-your-feelings-playing-cards",
+            "https://discoveryplaytime.ie/collections/emotions/products/lr-whos-feeling-what-game",
+            "https://discoveryplaytime.ie/collections/emotions/products/lr-all-about-me-feelings-activity-set",
+            "https://discoveryplaytime.ie/collections/emotions/products/my-emotions-wooden-tiles",
+            "https://discoveryplaytime.ie/products/puppet-buddies-unicorn",
+            "https://discoveryplaytime.ie/products/puppet-buddies-crocodile",
+            "https://discoveryplaytime.ie/products/puppet-buddies-lion",
+            "https://discoveryplaytime.ie/products/puppet-buddies-flamingo",
+            "https://discoveryplaytime.ie/products/puppet-buddies-tiger",
+            "https://discoveryplaytime.ie/products/hide-away-puppets-tawny-owl-with-3-babies-hand-puppet",
+            "https://discoveryplaytime.ie/products/super-hero-puppet",
+            "https://discoveryplaytime.ie/products/hand-puppet-snowman",
+            "https://discoveryplaytime.ie/products/hand-puppet-sockettees-narg"
+          ]
         },
         {
           "layout": "spacer",
@@ -2917,7 +3060,7 @@
           "data": 20
         },
         {
-          "layout": "bodytext",
+          "layout": "bodyText",
           "data": "Features: Puzzles with letters, words, or images that represent each letter of the alphabet. \n\nBenefits: Alphabet and word puzzles help children recognize letters, associate them with corresponding images, and build early word recognition skills. They contribute to phonemic awareness."
         },
         {
@@ -3048,7 +3191,7 @@
           "data": 20
         },
         {
-          "layout": "product",
+          "layout": "singleProduct",
           "data": "https://discoveryplaytime.ie/collections/literacy/products/lr-magnetic-alphabet-and-numbers"
         },
         {
