@@ -23,7 +23,7 @@
       "showNumber": false,
       "design": "default",
       "showBackGround": true,
-      "height": 0.25,
+      "height": 0.15,
       "radius": 0.0,
       "items": [
         {
@@ -34,14 +34,14 @@
       ]
     },
     {
-      "layout": "featuredActivity"
-    },
-    {
       "name": "New Arrivals",
       "image": "",
       "layout": "twoColumn",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MzU3NTAxMTUzNA==",
       "isSnapping": true
+    },
+    {
+      "layout": "featuredActivity"
     },
     {
       "name": "On Sale",
