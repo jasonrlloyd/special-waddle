@@ -17,9 +17,6 @@
       "layout": "categorySlider"
     },
     {
-      "layout": "featuredActivity"
-    },
-    {
       "layout": "bannerImage",
       "readFromFirestore": true,
       "isSlider": true,
@@ -31,20 +28,16 @@
       "radius": 0.1,
       "items": [
         {
-          "category": "gid://shopify/Collection/274907857102",
-          "title": {"text": "SPRING TOYS", "color": "#ffffff"},
-          "cateName": "Spring Toys",
-          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/1189-2_696x533_6e6d4b82-6e4b-4434-950d-e7e9ed6ea6c4.webp",
+          "category": "gid://shopify/Collection/275736166606",
+          "cateName": "Late Late Toy Show 2023",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDzq5gcoS6DFSSMv1AW8aiB6kw5g64XYh7Z0IT5enHrvow-pKATnlhX_gM0_eYYiqhti3xcShJxF-a27qDwTeMd-JBFTOgvKicQGb-mhDqv8XFP2FjsAOJCzvW2jp0uzAM9hNyR605H_K5wFF_4zX1AwOvwNrVxvB5Fo48bdwZIvuLSRdWXQz-h8S2-H4/s1200/1.png",
           "padding": 15,
           "radius": 9
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQ2NDkxNjE3NA==",
-          "title": {"text": "LET'S MOVE", "color": "#ffffff"},
-          "cateName": "Let's Move",
-          "image": "https://cdn.shopify.com/s/files/1/0551/3697/7102/collections/13_let_s_move.png",
-          "padding": 15,
-          "radius": 9
+          "category": "gid://shopify/Collection/620574441801",
+          "cateName": "Christmas Toys",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2JpW53XkF9AaZuPqHgVkCN8F8vj9YQsQASMSwStRhq8DOkMCLLLFiKDrE57P_pKdu9l7z2onvGCK2hnoyNrwkV5mTzXN2UMXl9WGEh-HaAYko3KPCIVZ-_n614fdYai51iR2fHZXQDPOiSy4lRlaTwm9vNaeZy8W9an_R5Sw-YNIsNuaaWDA2qMO6F0/s1200/5.png",
         },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2ODE0NTY4ODc4Mg==",
@@ -54,6 +47,9 @@
           "radius": 9
         }
       ]
+    },
+     {
+      "layout": "featuredActivity"
     },
     {
       "name": "New Arrivals",
