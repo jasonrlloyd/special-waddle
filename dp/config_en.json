@@ -100,44 +100,6 @@
       "key": "p1q235ba14"
     },
     {
-      "pos": 200,
-      "layout": "category",
-      "icon": "rectangle_grid_1x2",
-      "fontFamily": "CupertinoIcons",
-      "categoryLayout": "card",
-      "key": "hwu0rkrizt",
-      "remapCategories": [
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-          "name": "Features",
-          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
-          "name": "Bags"
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
-          "name": "Clothing"
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
-          "name": "Shoes"
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
-          "name": "Women"
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
-          "name": "Man"
-        }
-      ]
-    },
-    {
       "key": "2reihs4qzc",
       "icon": "search",
       "layout": "search",
