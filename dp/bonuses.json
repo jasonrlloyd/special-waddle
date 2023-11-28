@@ -902,6 +902,28 @@
       ]
     },
     {
+      "title": "APP EXCLUSIVE: Eco-Friendly Collection",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxBbwerDqj6E4gGkpOFeZ2Bpucmix082GMMdFYnRN3NITfYxcMcLQStfQqAs0LkmwPApN2CFgUeZMVrcjGeqtxs-F4dXwwmXWlz-vo2zQzmIhKvMrfetvzc8-bTXUH5FfL0ZhZkMv_gVQ7A3m1PYpPu8i7TXFcOFMDHwrxDzuYhsTtNfgcbYU3G8hOV5Q/s1154/Screenshot%202023-11-28%20at%2017.25.57.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxBbwerDqj6E4gGkpOFeZ2Bpucmix082GMMdFYnRN3NITfYxcMcLQStfQqAs0LkmwPApN2CFgUeZMVrcjGeqtxs-F4dXwwmXWlz-vo2zQzmIhKvMrfetvzc8-bTXUH5FfL0ZhZkMv_gVQ7A3m1PYpPu8i7TXFcOFMDHwrxDzuYhsTtNfgcbYU3G8hOV5Q/s1154/Screenshot%202023-11-28%20at%2017.25.57.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "Explore a thoughtfully curated list of toys that are gentle on the planet with our specially selected ECO FRIENDLY COLLECTION. Discover toys from certified eco-friendly brands and made with sustainable materials, ensuring that your playtime is both fun and environmentally responsible. Choose from a wide range of options that fit your values and budget, making it easier than ever to support sustainability while delighting your little ones."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        }
+      ]
+    },
+    {
       "title": "“Endless Fun” Playtime Picks",
       "thumbnail": "https://assets-global.website-files.com/631b3a98b499da3e3896ea9b/654c64580d657a62afd8e567_1699463376-p-1080.png",
       "content": [
