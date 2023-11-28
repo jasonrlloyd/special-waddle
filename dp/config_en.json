@@ -18,30 +18,22 @@
     },
     {
       "layout": "bannerImage",
-      "readFromFirestore": true,
       "isSlider": true,
       "autoPlay": true,
       "showNumber": false,
       "design": "default",
       "showBackGround": true,
-      "height": 0.15,
-      "radius": 0.1,
+      "height": 0.25,
+      "radius": 0.0,
       "items": [
         {
           "category": "gid://shopify/Collection/275736166606",
-          "cateName": "Late Late Toy Show 2023",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDzq5gcoS6DFSSMv1AW8aiB6kw5g64XYh7Z0IT5enHrvow-pKATnlhX_gM0_eYYiqhti3xcShJxF-a27qDwTeMd-JBFTOgvKicQGb-mhDqv8XFP2FjsAOJCzvW2jp0uzAM9hNyR605H_K5wFF_4zX1AwOvwNrVxvB5Fo48bdwZIvuLSRdWXQz-h8S2-H4/s1200/1.png",
-          "padding": 15,
-          "radius": 9
-        },
-        {
-          "category": "gid://shopify/Collection/620574441801",
-          "cateName": "Christmas Toys",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2JpW53XkF9AaZuPqHgVkCN8F8vj9YQsQASMSwStRhq8DOkMCLLLFiKDrE57P_pKdu9l7z2onvGCK2hnoyNrwkV5mTzXN2UMXl9WGEh-HaAYko3KPCIVZ-_n614fdYai51iR2fHZXQDPOiSy4lRlaTwm9vNaeZy8W9an_R5Sw-YNIsNuaaWDA2qMO6F0/s1200/5.png",
+          "cateName": "https://discoveryplaytime.ie/collections/toy-show-2023",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDzq5gcoS6DFSSMv1AW8aiB6kw5g64XYh7Z0IT5enHrvow-pKATnlhX_gM0_eYYiqhti3xcShJxF-a27qDwTeMd-JBFTOgvKicQGb-mhDqv8XFP2FjsAOJCzvW2jp0uzAM9hNyR605H_K5wFF_4zX1AwOvwNrVxvB5Fo48bdwZIvuLSRdWXQz-h8S2-H4/s1200/1.png"
         }
       ]
     },
-     {
+    {
       "layout": "featuredActivity"
     },
     {
@@ -935,27 +927,27 @@
       {
         "title": "Rocky road",
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7yJGmtralDGtmR6HP9D6gsGT4RSH75CRgvus6IBcOo8TVPNxKP6TqW7uXGxY7_CyFTgbKhc6Uq9BoGXYW5VjdEcUhXWlA7TasZcXdG6iehWS0RvP4T1icT07sYQy3mrWtlICpVlFItUcsPFyG-4nxb-qh5TcFebnjRFftVXawVsGuOguDOKAQlAOB/s800/Picsart_22-11-15_06-41-48-829.png",
-        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfGpYfGRX0X_i2D2sCcjdZOnDE4NATl9lcKCOW0snk1hmfBo-Wxzwo2TJFGX7qt4fmOKtfem3U73mD0fiK5ukVBfyLuiMTdhGLHVBjsvF7nOLXZhSvk64W-4VONhObdsavvKEe9wnP3wFlVfOMl_lpfancp8GB757k2IxsMcMI3-RqG92KJ75Ygh-/s400/Picsart_22-11-15_06-41-48-829.png",  
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfGpYfGRX0X_i2D2sCcjdZOnDE4NATl9lcKCOW0snk1hmfBo-Wxzwo2TJFGX7qt4fmOKtfem3U73mD0fiK5ukVBfyLuiMTdhGLHVBjsvF7nOLXZhSvk64W-4VONhObdsavvKEe9wnP3wFlVfOMl_lpfancp8GB757k2IxsMcMI3-RqG92KJ75Ygh-/s400/Picsart_22-11-15_06-41-48-829.png",
         "productUrls": [
-        "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
-        "https://discoveryplaytime.ie/products/way-to-play-flexible-roads-highway-24pcs",
-        "https://discoveryplaytime.ie/products/fine-motor-tongs",
-        "https://discoveryplaytime.ie/products/scrunch-spade-with-rubber-handle",
-        "https://discoveryplaytime.ie/products/eco-vehicles-maxi-size"
-      ],
+          "https://discoveryplaytime.ie/products/tuff-tray-100cm-black",
+          "https://discoveryplaytime.ie/products/way-to-play-flexible-roads-highway-24pcs",
+          "https://discoveryplaytime.ie/products/fine-motor-tongs",
+          "https://discoveryplaytime.ie/products/scrunch-spade-with-rubber-handle",
+          "https://discoveryplaytime.ie/products/eco-vehicles-maxi-size"
+        ],
         "description": "4 items to set up a tuff tray: fine motor tools (tongs and scoops), containers (cardboard tubes and dump trucks), figures (cars and roads) and sensory item (rocks). When you combine these 4 items (they can be different each time or even just replace one of them) kids will use their imagination to bring it to life.", "themes": ["allThemes", "drySensoryPlay", "smallWorld", "construction"],
         "ageGroups": ["allAges", "preschooler"]
       },
-       {
+      {
         "title": "Moon Sand Space Adventure",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/esfefsdfs.png",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/esfefsdfs.png",  
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0551/3697/7102/files/esfefsdfs.png",
         "productUrls": [
-        "https://discoveryplaytime.ie/products/safari-toob-space-10pcs",
-        "https://discoveryplaytime.ie/products/fine-motor-tongs",
-        "https://discoveryplaytime.ie/products/yellow-door-rustic-pourers",
-        "https://discoveryplaytime.ie/products/mini-tuff-tray-70cm"
-      ],
+          "https://discoveryplaytime.ie/products/safari-toob-space-10pcs",
+          "https://discoveryplaytime.ie/products/fine-motor-tongs",
+          "https://discoveryplaytime.ie/products/yellow-door-rustic-pourers",
+          "https://discoveryplaytime.ie/products/mini-tuff-tray-70cm"
+        ],
         "description": "Travel to space with your imagination and your hands. Create moon sand simply mixing flour and vegetable oil to create a texture that you can mould. Add these figures and fine motor tools to create your space adventure while develop it fine motor skills, coordination and communication. ", "themes": ["allThemes", "drySensoryPlay", "smallWorld"],
         "ageGroups": ["allAges", "preschooler", "school"]
       }
