@@ -920,6 +920,28 @@
         {
           "layout": "spacer",
           "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/bigjigs-animal-yo-yos-set-of-3",
+            "https://discoveryplaytime.ie/products/wooden-rainbow-squares",
+            "https://discoveryplaytime.ie/products/erzi-stacking-dinosaurs-game",
+            "https://discoveryplaytime.ie/products/tickit-wooden-space-adventure-10pcs",
+            "https://discoveryplaytime.ie/products/recycle-me-garden-box",
+            "https://discoveryplaytime.ie/products/lanka-kade-wooden-minibeast-skipping-rope",
+            "https://discoveryplaytime.ie/products/bigjigs-eco-flying-frisbee",
+            "https://discoveryplaytime.ie/products/tum-tum-eco-cloud-dinner-set",
+            "https://discoveryplaytime.ie/products/eco-vehicles-maxi-size",
+            "https://discoveryplaytime.ie/products/lanka-kade-natural-wooden-white-skeleton",
+            "https://discoveryplaytime.ie/products/lanka-kade-wooden-cat-1-10-puzzle",
+            "https://discoveryplaytime.ie/products/14425",
+            "https://discoveryplaytime.ie/products/bio-glitter-for-crafts"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 180
         }
       ]
     },
@@ -1588,28 +1610,6 @@
         {
           "layout": "spacer",
           "data": 180
-        }
-      ]
-    },
-    {
-      "title": "APP EXCLUSIVE: Social Play Collection",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDuMPbsjdCAs2tRDTsu7iFfNCQrQSzdp6G_cd5pZNoxVweGvpsahfUYJ4-UWbQ56JS7ivEoqy3c_xOmiJv0Ph1j1krsRkNcwoMgiXZKw4E4H4ppNCxFM9iUFzjrxVOypBDRrdsrq9PxreKLoS2tGhJ9CCIMLN-0N3dp1ktHOm68coObo1Z_673hiDWd8/s1660/2.png",
-      "content": [
-        {
-          "layout": "image",
-          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDuMPbsjdCAs2tRDTsu7iFfNCQrQSzdp6G_cd5pZNoxVweGvpsahfUYJ4-UWbQ56JS7ivEoqy3c_xOmiJv0Ph1j1krsRkNcwoMgiXZKw4E4H4ppNCxFM9iUFzjrxVOypBDRrdsrq9PxreKLoS2tGhJ9CCIMLN-0N3dp1ktHOm68coObo1Z_673hiDWd8/s1660/2.png"
-        },
-        {
-          "layout": "spacer",
-          "data": 20
-        },
-        {
-          "layout": "subtitle",
-          "data": "Teach your children how to share and be friendly with our exclusively handpicked SOCIAL PLAY COLLECTION – only available in our mobile app! They'll learn to cooperate and make friends whilst having fun. Make every playtime a shared adventure with this thoughtfully curated app-only collection."
-        },
-        {
-          "layout": "spacer",
-          "data": 20
         }
       ]
     },
@@ -2774,6 +2774,209 @@
             "https://discoveryplaytime.ie/products/super-hero-puppet",
             "https://discoveryplaytime.ie/products/hand-puppet-snowman",
             "https://discoveryplaytime.ie/products/hand-puppet-sockettees-narg"
+          ]
+        },
+        {
+          "layout": "spacer",
+          "data": 180
+        }
+      ]
+    },
+    {
+      "title": "APP EXCLUSIVE: Social Play Collection",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDuMPbsjdCAs2tRDTsu7iFfNCQrQSzdp6G_cd5pZNoxVweGvpsahfUYJ4-UWbQ56JS7ivEoqy3c_xOmiJv0Ph1j1krsRkNcwoMgiXZKw4E4H4ppNCxFM9iUFzjrxVOypBDRrdsrq9PxreKLoS2tGhJ9CCIMLN-0N3dp1ktHOm68coObo1Z_673hiDWd8/s1660/2.png",
+      "content": [
+        {
+          "layout": "image",
+          "data": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDuMPbsjdCAs2tRDTsu7iFfNCQrQSzdp6G_cd5pZNoxVweGvpsahfUYJ4-UWbQ56JS7ivEoqy3c_xOmiJv0Ph1j1krsRkNcwoMgiXZKw4E4H4ppNCxFM9iUFzjrxVOypBDRrdsrq9PxreKLoS2tGhJ9CCIMLN-0N3dp1ktHOm68coObo1Z_673hiDWd8/s1660/2.png"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "Teach your children how to share and be friendly with our exclusively handpicked SOCIAL PLAY COLLECTION – only available in our mobile app! They'll learn to cooperate and make friends whilst having fun. Make every playtime a shared adventure with this thoughtfully curated app-only collection."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "1. Open-Ended Play Potential:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Toys that encourage sharing, teamwork, and communication often allow for open-ended play. This means there are no predetermined outcomes, fostering creativity and collaboration as children work together to create their narratives."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "2. Multiplayer Interaction:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Toys designed for shared play should accommodate multiple participants. Whether it's a board game, building blocks, or a cooperative activity, these toys provide opportunities for children to engage with each other simultaneously."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "3. Role-Playing Elements:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Toys that involve role-playing scenarios promote communication and teamwork as children take on different roles and collaborate to achieve common goals. This could include toys like dress-up sets, action figures, or dramatic play items."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "4. Problem-Solving Challenges:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Toys featuring problem-solving challenges require children to work together to find solutions. Puzzles, building sets, and strategy games encourage communication and collaboration to overcome obstacles."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "5. Clear Communication Tools:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Some toys come with explicit communication tools, such as walkie-talkies, where children need to exchange information to achieve shared objectives. These toys enhance verbal communication skills and teamwork."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "6. Cooperative Board Games: "
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Specifically designed board games that emphasize cooperation rather than competition are excellent for teaching sharing and teamwork. These games often have players working together to achieve a common goal, fostering a sense of unity."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "7. Resource-Sharing Components:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Toys that incorporate limited resources encourage children to share and allocate items effectively. This could include building sets with a finite number of pieces, encouraging negotiation and cooperation in their use."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "8. Team Sports Equipment:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": " Balls, bats, and other sports equipment designed for team activities promote shared goals and communication on the playground. Team sports teach children the importance of working together to achieve victory."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "9. Collaborative Art Supplies:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Artistic activities that involve sharing materials, such as a communal drawing or painting project, promote teamwork and communication. Children learn to express their ideas while contributing to a shared creation."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "subtitle",
+          "data": "10. Storytelling Games:"
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "bodyText",
+          "data": "Games that involve storytelling, whether through cards, dice, or interactive apps, encourage communication and collaboration as children contribute to the unfolding narrative. This fosters creativity and cooperative problem-solving."
+        },
+        {
+          "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "products",
+          "data": [
+            "https://discoveryplaytime.ie/products/talking-tubes",
+            "https://discoveryplaytime.ie/products/wooden-rainbow-balls",
+            "https://discoveryplaytime.ie/products/chalk-eggs",
+            "https://discoveryplaytime.ie/collections/blocks/products/rainbow-stacking-tower",
+            "https://discoveryplaytime.ie/collections/blocks/products/just-blocks-city-medium-pack",
+            "https://discoveryplaytime.ie/collections/multi-player-games/products/snap-card-games",
+            "https://discoveryplaytime.ie/collections/multi-player-games/products/magnetic-duck-game",
+            "https://discoveryplaytime.ie/collections/multi-player-games/products/wooden-socks-memory-game",
+            "https://discoveryplaytime.ie/collections/outdoors/products/basketball-stand",
+            "https://discoveryplaytime.ie/products/yellow-door-story-stones-outer-space",
+            "https://discoveryplaytime.ie/products/yellow-door-tell-me-a-story-sequencing-cards",
+            "https://discoveryplaytime.ie/products/lr-feeling-family-hand-puppets"
           ]
         },
         {
