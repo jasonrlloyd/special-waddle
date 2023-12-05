@@ -4544,6 +4544,20 @@
         },
         {
           "layout": "spacer",
+          "data": 20
+        },
+        {
+          "layout": "video",
+          "data": "<iframe src=\"https://player.vimeo.com/video/891456976?h=8aad1591a8&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" title=“Peaceful Playtime Essentials”></iframe>"
+        },
+        {
+          "name": "Wooden Toys 0+",
+          "layout": "fourColumn",
+          "limit": 20,
+          "category": "gid://shopify/Collection/272185393358"
+        },
+        {
+          "layout": "spacer",
           "data": 180
         }
       ]
