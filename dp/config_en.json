@@ -17,6 +17,9 @@
       "layout": "categorySlider"
     },
     {
+      "layout": "funnel"
+    },
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
