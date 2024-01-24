@@ -931,5 +931,22 @@
         "ageGroups": ["allAges", "preschooler", "school"]
       }
     ]
+  },
+  "cartUpsells": {
+    "suggestedProductUrls": [
+      "https://discoveryplaytime.ie/collections/best-sellers/products/lr-numberblocks-11-20",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/lr-mixaroo-cuddly-toy",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/safari-toob-mermaids-designer-toob",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/mad-mattr-the-ultimate-brick-maker",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/jumini-stacking-rainbow",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/safari-life-cycle-honey-bee",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/jumbo-dinosaurs-set",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/translucent-colour-jugs-6pcs",
+      "https://discoveryplaytime.ie/collections/best-sellers/products/safari-toob-people-at-work-7pcs"
+    ],
+    "freeGiftUrl": "https://discoveryplaytime.ie/collections/all/products/20-balloons-9",
+    "freeShippingMin": 49.01,
+    "freeGiftMin": 75.0,
+    "cartAnnouncementBarText": " Free shipping on all orders €49+"
   }
 }
