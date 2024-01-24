@@ -947,6 +947,7 @@
     "freeGiftUrl": "https://discoveryplaytime.ie/collections/all/products/20-balloons-9",
     "freeShippingMin": 49.01,
     "freeGiftMin": 75.0,
-    "cartAnnouncementBarText": " Free shipping on all orders €49+"
+    "cartAnnouncementBarText": "Free shipping on all orders €49+",
+    "weThinkYoullLoveBoxText": "Discovery Playtime thinks you'll LOVE:"
   }
 }
