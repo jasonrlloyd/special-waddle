@@ -17,7 +17,8 @@
       "layout": "categorySlider"
     },
     {
-      "layout": "funnel"
+      "layout": "funnel",
+      "imageUrl": "https://feastables.com/cdn/shop/files/UPDATED_MOBILE_sampler_pack_homepage_hero_banner_768x1075_2f1becff-35a5-41a5-bb8e-42974d94d25c.jpg?v=1695489028&width=750"
     },
     {
       "layout": "bannerImage",
@@ -949,5 +950,14 @@
     "freeGiftMin": 75.0,
     "cartAnnouncementBarText": "Free shipping on all orders €49+",
     "weThinkYoullLoveBoxText": "Discovery Playtime thinks you'll LOVE:"
+  },
+  "productFunnel": {
+    "bubbleText": "EXCLUSIVE FREE OFFER",
+    "backgroundImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA2P46TgsDSvCcRSyWTScXouupTYm_-rgm566jylLR9vnskCr7pQXrERjFC8suIU6aiNOu0f7fkYmkstXTc1FVP3xu5HVs3O62XV88GVSrJn0VPxkSllT8dMCEkeaUVGS2FaHPGRunBqqsyi5FYHU_6DBJVgtDE6LrlVe5AIUHJ-iGXyqdjIXkrUKZVHk/s1522/Screenshot%202024-01-12%20at%2011.06.21.png",
+    "funnelCallout": "ATTENTION ALL PARENTS AND GRANDPARENTS!",
+    "funnelHeadline": "LAST MINUTE GIFTS? FIND THE PERFECT XMAS PRESENT FOR YOUR CHILD IN UNDER 5 MINUTES",
+    "funnelSubheadline": "Get freebies. Every. Single. Month. \n\nStarting with over £100 of bonuses. Just for downloading the app.* \n\n(*Offer ends on 15th December)",
+    "video": "<iframe src=\"https://player.vimeo.com/video/891456976?h=8aad1591a8&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" title=“Peaceful Playtime Essentials”></iframe>",
+    "productUrl": "https://discoveryplaytime.ie/products/connetix-212pcs-mega-pack"
   }
 }
