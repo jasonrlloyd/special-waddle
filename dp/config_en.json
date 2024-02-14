@@ -957,7 +957,41 @@
     "funnelCallout": "ATTENTION ALL PARENTS AND GRANDPARENTS!",
     "funnelHeadline": "LAST MINUTE GIFTS? FIND THE PERFECT XMAS PRESENT FOR YOUR CHILD IN UNDER 5 MINUTES",
     "funnelSubheadline": "Get freebies. Every. Single. Month. \n\nStarting with over £100 of bonuses. Just for downloading the app.* \n\n(*Offer ends on 15th December)",
-    "video": "<iframe src=\"https://player.vimeo.com/video/891456976?h=8aad1591a8&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" title=“Peaceful Playtime Essentials”></iframe>",
-    "productUrl": "https://discoveryplaytime.ie/products/connetix-212pcs-mega-pack"
+    "video": "<iframe src=\"https://player.vimeo.com/video/891456976?h=8aad1591a8&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" \nmozallowfullscreen webkitallowfullscreen allowfullscreen\nstyle=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Example video does not exist\"></iframe>",
+    "productUrl": "https://discoveryplaytime.ie/products/connetix-212pcs-mega-pack",
+    "faqs": [
+      {
+        "question": "Question 1",
+        "answer": "from Github with love"
+      },
+      {
+        "question": "Question 2",
+        "answer": "Answer to question 2"
+      },
+      {
+        "question": "Question 3",
+        "answer": "Answer to question 3"
+      },
+      {
+        "question": "Question 4",
+        "answer": "Answer to question 4"
+      },
+      {
+        "question": "Question 5",
+        "answer": "Answer to question 5"
+      },
+      {
+        "question": "Question 6",
+        "answer": "Answer to question 6"
+      },
+      {
+        "question": "Question 7",
+        "answer": "Answer to question 7"
+      },
+      {
+        "question": "Question 8",
+        "answer": "Answer to question 8"
+      }
+    ]
   }
 }
