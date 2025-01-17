@@ -267,5 +267,179 @@
         "description": "Draw and color your own version of the SpaceX logo, or create a new logo for a space company."
       }
     ]
+  },
+  {
+    "imageUrl": "https://news.ucsb.edu/sites/default/files/2023-05/rosa-parks-doc-screening.JPG",
+    "title": "Rosa Parks",
+    "details": "Rosa Parks was a civil rights activist who became famous for refusing to give up her seat on a segregated bus, sparking the Montgomery Bus Boycott and becoming a symbol of resistance to racial injustice.",
+    "activities": [
+      {
+        "title": "Bus Seat Challenge",
+        "description": "Reenact the historic moment by setting up two rows of chairs. Let the child 'sit in the seat' and practice standing up for what's right."
+      },
+      {
+        "title": "Freedom March Relay",
+        "description": "Set up a short relay course where the child marches with a 'sign' promoting equality, symbolizing the Montgomery Bus Boycott."
+      },
+      {
+        "title": "Civil Rights Tag",
+        "description": "Play a game of tag, where the child can 'escape' oppression by reaching a safe zone, representing the struggle for freedom."
+      },
+      {
+        "title": "Sit-in Role Play",
+        "description": "Pretend to be part of a sit-in protest. Use plush toys or dolls to act out peaceful protests for equal rights."
+      },
+      {
+        "title": "Equality Word Hunt",
+        "description": "Hide cards with words like 'equality,' 'justice,' and 'freedom' around the room. Have the child find them and discuss their meaning."
+      },
+      {
+        "title": "History Timeline",
+        "description": "Create a simple timeline on the floor or wall and place pictures of Rosa Parks and key moments in the Civil Rights Movement. Walk through them."
+      },
+      {
+        "title": "Rosa Parks Memory Match",
+        "description": "Create memory cards with images of key events and figures from the Civil Rights Movement. Turn them over and try to match pairs."
+      },
+      {
+        "title": "Bus Stop Station",
+        "description": "Pretend to be passengers on a bus. One child can 'board' and sit while others act out different scenarios. Discuss fairness and respect."
+      },
+      {
+        "title": "Peaceful Protest Game",
+        "description": "Role-play a peaceful protest by holding homemade signs or chanting positive, inclusive messages while walking in a circle."
+      },
+      {
+        "title": "Equality Obstacle Course",
+        "description": "Set up an obstacle course that the child must navigate while considering how each step represents overcoming obstacles in the fight for equality."
+      },
+      {
+        "title": "Make a Bus Sign",
+        "description": "Create a simple bus stop sign with the words 'Equal Rights' using markers and construction paper."
+      },
+      {
+        "title": "Freedom Banner",
+        "description": "Craft a banner with the words 'Freedom and Equality' using fabric, paint, or markers to hang in the room."
+      },
+      {
+        "title": "Sit-in Protest Poster",
+        "description": "Design a protest poster with positive, inclusive messages that represent Rosa Parks’ fight for justice."
+      },
+      {
+        "title": "Peace Sign Necklace",
+        "description": "Make a necklace with beads and a peace symbol pendant, symbolizing Rosa Parks’ advocacy for peaceful change."
+      },
+      {
+        "title": "Rosa Parks Portrait",
+        "description": "Create a simple, child-friendly portrait of Rosa Parks using colored pencils or paints."
+      },
+      {
+        "title": "Equality Paper Dolls",
+        "description": "Create paper dolls that represent different races and cultures. Use them to teach about equality and acceptance."
+      },
+      {
+        "title": "Civil Rights Quilt",
+        "description": "Design a small quilt using fabric squares, each with a symbol of equality or justice that relates to Rosa Parks' legacy."
+      },
+      {
+        "title": "Freedom Flag Craft",
+        "description": "Create a flag with symbols representing freedom, like peace doves or the scales of justice, using fabric or construction paper."
+      },
+      {
+        "title": "Bus Art Project",
+        "description": "Use cardboard or craft sticks to build a model of a bus. Decorate it with the message of equality."
+      },
+      {
+        "title": "Handprint Equality Art",
+        "description": "Make handprints on paper and write messages of equality, justice, and fairness around them. This can symbolize the impact of collective voices."
+      }
+    ]
+  },
+  {
+    "imageUrl": "https://s.france24.com/media/display/90811f20-091a-11e9-8b7c-005056a964fe/w:1280/p:16x9/serena-williams-afp-MANAN-V.jpg",
+    "title": "Serena Williams",
+    "details": "Serena Williams is one of the greatest tennis players of all time, known not only for her athletic achievements but also for her advocacy for gender equality, mental health, and empowerment of women and girls.",
+    "activities": [
+      {
+        "title": "Tennis Ball Toss",
+        "description": "Set up a target and have the child toss a tennis ball into it. Discuss how Serena practiced hard to perfect her serve and how determination leads to success."
+      },
+      {
+        "title": "Tennis Match Role Play",
+        "description": "Pretend to play a tennis match, taking turns to serve and hit the ball back and forth. Talk about sportsmanship and fair play."
+      },
+      {
+        "title": "Champion Relay Race",
+        "description": "Create a race course and time the child as they sprint, just like Serena running toward victory. Discuss perseverance and striving to do your best."
+      },
+      {
+        "title": "Mentor Match",
+        "description": "Pair up and have a friendly competition where each person encourages the other, just like Serena has inspired others to chase their dreams."
+      },
+      {
+        "title": "Victory Pose",
+        "description": "Teach the child how to strike a victory pose like Serena after winning a match. Discuss how celebrating small victories in life is important."
+      },
+      {
+        "title": "Serve and Smash Game",
+        "description": "Set up an area for the child to practice their tennis serve, using a ball and an open space. Talk about how Serena mastered the serve to win big matches."
+      },
+      {
+        "title": "Role Model Relay",
+        "description": "Create a relay race where the child passes a baton to symbolize the passing of strength, hope, and motivation from Serena to them."
+      },
+      {
+        "title": "Equality Challenge",
+        "description": "Create a challenge where the child must overcome different obstacles, symbolizing the challenges Serena faced in sports and life due to gender and racial inequality."
+      },
+      {
+        "title": "Tennis Equipment Scavenger Hunt",
+        "description": "Hide tennis-related items (like a ball, racket, or sneakers) around the room and have the child find them, learning about the tools Serena uses for her sport."
+      },
+      {
+        "title": "Confidence Building Exercise",
+        "description": "Lead the child in a series of positive affirmations and exercises to boost their confidence, just like Serena has been a strong advocate for self-belief and mental health."
+      },
+      {
+        "title": "Tennis Ball Art",
+        "description": "Paint or decorate a tennis ball to represent Serena’s journey and her achievements. You can write empowering messages around the ball."
+      },
+      {
+        "title": "Tennis Racket Frame",
+        "description": "Create a picture frame shaped like a tennis racket, with a photo of the child or a drawing of Serena, to celebrate their own victories and dreams."
+      },
+      {
+        "title": "Serena's Victory Poster",
+        "description": "Make a poster of Serena’s triumphs, featuring her iconic poses and moments, using magazines or colored markers."
+      },
+      {
+        "title": "Tennis Shoe Design",
+        "description": "Design a pair of tennis shoes using paper or cardboard, decorating them with colorful patterns and messages of strength."
+      },
+      {
+        "title": "Tennis Court Collage",
+        "description": "Create a collage of a tennis court, adding images of Serena Williams and tennis-related items to highlight her connection to the sport."
+      },
+      {
+        "title": "Champion Trophy",
+        "description": "Craft a trophy from paper or clay, decorating it with gold paint and a label reading 'Champion,' just like Serena."
+      },
+      {
+        "title": "Serena Williams Paper Doll",
+        "description": "Create a paper doll of Serena, dressing her in her tennis outfit and giving her a tennis racket, to represent strength and success."
+      },
+      {
+        "title": "Inspiration Bracelet",
+        "description": "Make a bracelet with beads that spell out empowering words like 'strong,' 'brave,' or 'champion,' to symbolize the inspiration Serena provides."
+      },
+      {
+        "title": "Victory Banner",
+        "description": "Create a banner with the words 'Victory' or 'Champion' to display in the room, celebrating the child’s own triumphs."
+      },
+      {
+        "title": "Tennis Ball Keychain",
+        "description": "Make a simple tennis ball keychain using felt or fabric, decorating it with fun colors or glitter to remind the child of Serena's resilience."
+      }
+    ]
   }
 ]
