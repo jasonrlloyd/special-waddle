@@ -180,5 +180,139 @@
         "description": "Design a pretend radiation shield using cardboard and paint, like what scientists use for protection."
       }
     ]
+  },
+  {
+    "imageUrl": "",
+    "title": "Elon Musk",
+    "details": "Elon Musk is an entrepreneur and inventor who helped create Tesla electric cars, SpaceX rockets, and many other innovative projects.",
+    "activities": [
+      {
+        "title": "Rocket Race",
+        "description": "Set up a race using paper rockets on strings. Blow or pull them along to see whose rocket 'launches' fastest."
+      },
+      {
+        "title": "Tesla Parking Challenge",
+        "description": "Create a pretend parking lot for toy cars and guide them into 'charging stations' like Teslas."
+      },
+      {
+        "title": "Mars Rover Hunt",
+        "description": "Hide small objects around the house and pretend to be Mars rovers searching for signs of 'life.'"
+      },
+      {
+        "title": "Astronaut Freeze Tag",
+        "description": "Play a game of tag where 'frozen' players have to strike an astronaut pose until unfrozen."
+      },
+      {
+        "title": "Reusable Rocket Toss",
+        "description": "Use a soft ball or toy rocket and play catch, emphasizing that SpaceX rockets can land and be reused."
+      },
+      {
+        "title": "AI Simon Says",
+        "description": "Play 'Simon Says' but pretend the commands come from an AI robot. Add a techy twist to the rules!"
+      },
+      {
+        "title": "Space Cargo Relay",
+        "description": "Set up a relay game where 'cargo' (toys or objects) must be transported from Earth to Mars using toy vehicles."
+      },
+      {
+        "title": "Tunnel Explorer",
+        "description": "Crawl through pillow or blanket tunnels, inspired by The Boring Company's underground transport system."
+      },
+      {
+        "title": "Solar Panel Puzzle",
+        "description": "Create a puzzle with pieces that represent a solar panel and assemble it to 'power' a pretend house."
+      },
+      {
+        "title": "Mars Jump",
+        "description": "Pretend to be on Mars, where gravity is lower. Jump as high as you can and measure your 'astronaut jumps.'"
+      }
+    ]
+  },
+  {
+    "imageUrl": "https://img.mmc.com.do/cdn-bucket/uploads/2022/11/ElonMusk_2017-stageshot.jpg",
+    "title": "Elon Musk",
+    "details": "Elon Musk is an entrepreneur and inventor who helped create Tesla electric cars, SpaceX rockets, and many other innovative projects.",
+    "activities": [
+      {
+        "title": "Rocket Race",
+        "description": "Set up a race using paper rockets on strings. Blow or pull them along to see whose rocket 'launches' fastest."
+      },
+      {
+        "title": "Tesla Parking Challenge",
+        "description": "Create a pretend parking lot for toy cars and guide them into 'charging stations' like Teslas."
+      },
+      {
+        "title": "Mars Rover Hunt",
+        "description": "Hide small objects around the house and pretend to be Mars rovers searching for signs of 'life.'"
+      },
+      {
+        "title": "Astronaut Freeze Tag",
+        "description": "Play a game of tag where 'frozen' players have to strike an astronaut pose until unfrozen."
+      },
+      {
+        "title": "Reusable Rocket Toss",
+        "description": "Use a soft ball or toy rocket and play catch, emphasizing that SpaceX rockets can land and be reused."
+      },
+      {
+        "title": "AI Simon Says",
+        "description": "Play 'Simon Says' but pretend the commands come from an AI robot. Add a techy twist to the rules!"
+      },
+      {
+        "title": "Space Cargo Relay",
+        "description": "Set up a relay game where 'cargo' (toys or objects) must be transported from Earth to Mars using toy vehicles."
+      },
+      {
+        "title": "Tunnel Explorer",
+        "description": "Crawl through pillow or blanket tunnels, inspired by The Boring Company's underground transport system."
+      },
+      {
+        "title": "Solar Panel Puzzle",
+        "description": "Create a puzzle with pieces that represent a solar panel and assemble it to 'power' a pretend house."
+      },
+      {
+        "title": "Mars Jump",
+        "description": "Pretend to be on Mars, where gravity is lower. Jump as high as you can and measure your 'astronaut jumps.'"
+      },
+      {
+        "title": "Rocket Craft",
+        "description": "Create a rocket using cardboard tubes, paper, and markers. Add wings and a nose cone for decoration."
+      },
+      {
+        "title": "DIY Tesla Car",
+        "description": "Make a pretend Tesla car using a cardboard box. Decorate it with wheels, headlights, and a Tesla logo."
+      },
+      {
+        "title": "Mars Landscape Diorama",
+        "description": "Build a mini Mars scene using a shoebox, red sand or paper, and small toy vehicles as rovers."
+      },
+      {
+        "title": "Space Helmet",
+        "description": "Craft a space helmet using a paper bag or balloon and decorate it to look like a SpaceX astronaut's gear."
+      },
+      {
+        "title": "Solar System Mobile",
+        "description": "Make a hanging mobile of planets, with Mars and Earth as the focus, using paper and string."
+      },
+      {
+        "title": "Solar Panel Art",
+        "description": "Create a model of a solar panel with cardboard and foil to learn about renewable energy."
+      },
+      {
+        "title": "Mars Rover Model",
+        "description": "Use recycled materials like bottle caps, cardboard, and straws to build a pretend Mars rover."
+      },
+      {
+        "title": "Underground Tunnel Drawing",
+        "description": "Draw a cross-section of an underground tunnel inspired by The Boring Company's projects."
+      },
+      {
+        "title": "Reusable Rocket Puzzle",
+        "description": "Design a rocket-shaped puzzle from cardboard that can be taken apart and reassembled."
+      },
+      {
+        "title": "SpaceX Logo Design",
+        "description": "Draw and color your own version of the SpaceX logo, or create a new logo for a space company."
+      }
+    ]
   }
 ]
