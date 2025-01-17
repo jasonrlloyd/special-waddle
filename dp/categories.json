@@ -5,12 +5,84 @@
     "details": "Steve Jobs started a company called Apple Computer, which went on to be one of the biggest companies in the world.",
     "activities": [
       {
-        "title": "Invent a Product",
-        "description": "Design a product with features that solve a specific problem."
+        "title": "Paper iPad",
+        "description": "Create a pretend iPad by cutting a rectangle from cardboard or paper and decorating it with app icons."
       },
       {
-        "title": "Think Different",
-        "description": "Write down five ways you can think outside the box in your daily life."
+        "title": "Apple Print Art",
+        "description": "Cut an apple in half, dip it in paint, and use it to stamp colorful apple shapes on paper."
+      },
+      {
+        "title": "Innovation Collage",
+        "description": "Cut out pictures of gadgets or creative ideas from magazines and glue them onto a poster board."
+      },
+      {
+        "title": "DIY Apple Logo",
+        "description": "Draw and color your own version of the Apple logo. You can make it rainbow-colored like the original!"
+      },
+      {
+        "title": "Cardboard Computer",
+        "description": "Turn a cardboard box into a pretend computer. Add keys, a screen, and even a pretend mouse!"
+      },
+      {
+        "title": "Idea Lightbulb",
+        "description": "Craft a lightbulb using paper, glitter, and markers to represent great ideas."
+      },
+      {
+        "title": "Inventor's Notebook",
+        "description": "Decorate a small notebook where your toddler can 'draw' inventions or ideas."
+      },
+      {
+        "title": "DIY Headphones",
+        "description": "Make pretend headphones using pipe cleaners and paper circles. Decorate them to look techy!"
+      },
+      {
+        "title": "Gadget Stick Puppets",
+        "description": "Create stick puppets of gadgets like a phone, computer, or tablet using craft sticks and paper."
+      },
+      {
+        "title": "Rainbow Apple Garland",
+        "description": "Cut out apple shapes from colored paper, decorate them, and string them together to make a garland."
+      },
+      {
+        "title": "Apple Hunt",
+        "description": "Hide paper apples or toy apples around the house. Pretend they're hidden innovations and search for them together."
+      },
+      {
+        "title": "Inventor Charades",
+        "description": "Take turns acting out an invention or tool while the other guesses what it is."
+      },
+      {
+        "title": "Apple Stack Challenge",
+        "description": "Stack as many apples (real or toy) as you can without them falling!"
+      },
+      {
+        "title": "Tech Simon Says",
+        "description": "Play 'Simon Says' but with tech-inspired actions, like 'type on a keyboard' or 'swipe on a phone.'"
+      },
+      {
+        "title": "Memory Match",
+        "description": "Create cards with pictures of tech gadgets or logos (like an apple, a computer, etc.) and play a matching game."
+      },
+      {
+        "title": "Code the Robot",
+        "description": "Pretend one of you is a robot and the other gives simple 'code' commands (like 'walk forward' or 'pick up toy')."
+      },
+      {
+        "title": "Build-a-Gadget Race",
+        "description": "Use building blocks or household items to build pretend gadgets. Race to see who can finish first."
+      },
+      {
+        "title": "What's in the Box?",
+        "description": "Put a gadget or toy in a box. Let your toddler feel inside without looking and guess what it is."
+      },
+      {
+        "title": "Apple Toss",
+        "description": "Set up buckets or baskets and toss paper apples or balls into them to score points."
+      },
+      {
+        "title": "Design the Future",
+        "description": "Draw pictures of what you think gadgets will look like in the future, then guess which idea will 'win.'"
       }
     ]
   },
