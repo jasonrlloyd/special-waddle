@@ -92,12 +92,92 @@
     "details": "Marie Curie was a scientist who won two Nobel Prizes for her groundbreaking work in radioactivity.",
     "activities": [
       {
+        "title": "Element Hunt",
+        "description": "Hide cards with element names or symbols around the house, and have your toddler find them."
+      },
+      {
+        "title": "Beaker Balance",
+        "description": "Use cups or small containers to represent beakers and stack them carefully without toppling them over."
+      },
+      {
+        "title": "Periodic Table Puzzle",
+        "description": "Create a simple puzzle with element symbols for your child to piece together."
+      },
+      {
+        "title": "Glow Tag",
+        "description": "Play tag in a dim room with glow sticks or glowing bracelets to represent Marie Curie's discoveries."
+      },
+      {
+        "title": "Test Tube Relay",
+        "description": "Set up a relay race where your toddler moves water or colored beads between cups (pretend test tubes)."
+      },
+      {
+        "title": "Lab Assistant Match",
+        "description": "Mix cards with science tools (like beakers, goggles, and scales) and have your toddler match them to their uses."
+      },
+      {
+        "title": "Crystal Formation Game",
+        "description": "Use blocks or toys to 'grow' crystals by building towers together and learning how crystals form."
+      },
+      {
+        "title": "Science Charades",
+        "description": "Act out science-related actions (mixing chemicals, wearing goggles, using a microscope) and guess what they are."
+      },
+      {
+        "title": "Radiation Shield Challenge",
+        "description": "Create an obstacle course where your toddler wears a pretend shield (like cardboard) to 'block radiation.'"
+      },
+      {
+        "title": "Discovery Freeze Dance",
+        "description": "Play music and dance like scientists celebrating a discovery. When the music stops, freeze in a science pose!"
+      },
+      {
         "title": "Experiment at Home",
         "description": "Perform a safe science experiment using common household items."
       },
       {
         "title": "Discover Something New",
         "description": "Learn about an element on the periodic table and create a fun fact sheet."
+      },
+      {
+        "title": "Glow-in-the-Dark Art",
+        "description": "Create glowing artwork using glow-in-the-dark paint or markers to represent Marie Curie's discoveries."
+      },
+      {
+        "title": "Periodic Table Poster",
+        "description": "Make a mini periodic table using colored paper and stickers for each element."
+      },
+      {
+        "title": "Beaker Painting",
+        "description": "Paint or draw beakers and test tubes, then add colorful 'liquids' using markers or glitter."
+      },
+      {
+        "title": "Element Necklace",
+        "description": "Create a necklace with beads that represent elements, like blue for oxygen or green for radium."
+      },
+      {
+        "title": "Radium-Themed Lantern",
+        "description": "Decorate a paper lantern with stars and glowing designs inspired by Marie Curie's work with radium."
+      },
+      {
+        "title": "Lab Coat Design",
+        "description": "Make a pretend lab coat from an oversized shirt and decorate it with drawings of science tools."
+      },
+      {
+        "title": "Science Medal",
+        "description": "Craft a medal using cardboard and foil to represent Marie Curie’s Nobel Prize achievements."
+      },
+      {
+        "title": "Crystal Decorations",
+        "description": "Create paper or pipe cleaner crystals to represent her discoveries in chemistry."
+      },
+      {
+        "title": "Inventor's Goggles",
+        "description": "Make pretend science goggles using craft foam or paper and wear them for pretend experiments."
+      },
+      {
+        "title": "Radiation Shield Craft",
+        "description": "Design a pretend radiation shield using cardboard and paint, like what scientists use for protection."
       }
     ]
   }
