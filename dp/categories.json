@@ -916,5 +916,92 @@
         "description": "Provide old magazines, paper, and glue for your child to make a collage that tells a story, just like Frida told stories with her paintings."
       }
     ]
+  },
+  {
+    "imageUrl": "https://cdn.prod.website-files.com/6414abd2d6a89643a368224a/64ca6b17efcb32400182e61c_age-gate_kids.png",
+    "title": "Unicorn Academy",
+    "details": "Unicorn Academy is a magical place where students are paired with their very own unicorns to learn, grow, and go on exciting adventures. It teaches kids about friendship, bravery, and the magic of working together.",
+    "activities": [
+      {
+        "title": "Design Your Own Unicorn",
+        "description": "Let your child draw their dream unicorn. They can decide on the unicorn's colors, name, and special magical powers."
+      },
+      {
+        "title": "Make Unicorn Horn Headbands",
+        "description": "Craft a unicorn horn using paper, glitter, and elastic bands to create magical headwear."
+      },
+      {
+        "title": "Unicorn Obstacle Course",
+        "description": "Set up an obstacle course where your child pretends to ride their unicorn, jumping over cushions and weaving around cones."
+      },
+      {
+        "title": "Unicorn Magic Potion",
+        "description": "Mix colorful juices, edible glitter, and sprinkles to create a magical unicorn potion to drink."
+      },
+      {
+        "title": "Unicorn Dance Party",
+        "description": "Play some fun music and have a dance party, pretending to be unicorns prancing and galloping around."
+      },
+      {
+        "title": "Unicorn Academy Storytime",
+        "description": "Read a story from the Unicorn Academy series or make up your own magical tale."
+      },
+      {
+        "title": "Unicorn Treasure Hunt",
+        "description": "Hide small treasures (like glittery objects or unicorn stickers) and create clues for a magical unicorn-themed treasure hunt."
+      },
+      {
+        "title": "Rainbow Art Activity",
+        "description": "Paint or color a rainbow to symbolize the magical world of Unicorn Academy. Add glitter and sparkles for extra fun!"
+      },
+      {
+        "title": "Unicorn Friendship Bracelets",
+        "description": "Make friendship bracelets with colorful beads and give them a magical meaning, like bravery, kindness, or teamwork."
+      },
+      {
+        "title": "Unicorn Trivia Game",
+        "description": "Create a fun quiz with questions about unicorns, magic, and the adventures in Unicorn Academy."
+      },
+      {
+        "title": "Create a Unicorn Academy Badge",
+        "description": "Design and color a badge that says 'Unicorn Academy Graduate' with a picture of a unicorn."
+      },
+      {
+        "title": "DIY Unicorn Plushie",
+        "description": "Sew or craft a simple unicorn plushie using felt, fabric, or socks. Decorate it with markers and glitter."
+      },
+      {
+        "title": "Magical Unicorn Names",
+        "description": "Come up with unique unicorn names and write them on name tags. Discuss what each unicorn's magical powers could be."
+      },
+      {
+        "title": "Unicorn Adventure Map",
+        "description": "Draw a map of Unicorn Academy and the magical lands around it, like Sparkle Meadow and Rainbow Falls."
+      },
+      {
+        "title": "Unicorn Care Station",
+        "description": "Set up a station to pretend to groom and care for a unicorn. Use toy brushes and ribbons to 'groom' a plush or imaginary unicorn."
+      },
+      {
+        "title": "Unicorn Spells and Wands",
+        "description": "Create wands using sticks and decorations. Pretend to cast spells like 'Sparkle Shield' or 'Rainbow Glow.'"
+      },
+      {
+        "title": "Unicorn Academy Graduation",
+        "description": "Hold a mini-graduation ceremony where your child gets a certificate for completing their Unicorn Academy day."
+      },
+      {
+        "title": "Unicorn-Themed Snacks",
+        "description": "Prepare magical treats like rainbow cupcakes, unicorn-shaped cookies, or colorful fruit skewers."
+      },
+      {
+        "title": "Unicorn Tail Relay Race",
+        "description": "Attach pretend 'tails' made of streamers and have a relay race while wearing them."
+      },
+      {
+        "title": "Unicorn Memory Game",
+        "description": "Create a memory card game using images of unicorns, rainbows, and other magical items."
+      }
+    ]
   }
 ]
