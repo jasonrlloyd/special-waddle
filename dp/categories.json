@@ -9,7 +9,8 @@
       "Serena Williams",
       "Amelia Earhart",
       "Simone Biles"
-    ]
+    ],
+    "darkTitleText": false
   },
   {
     "name": "Inspirational Men",
@@ -20,6 +21,7 @@
       "Elon Musk",
       "Walt Disney",
       "Steve Jobs"
-    ]
+    ],
+    "darkTitleText": true
   }
 ]
