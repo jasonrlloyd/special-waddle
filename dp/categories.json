@@ -1,1 +1,20 @@
-{}
+[
+  {
+    "name": "Scientists",
+    "roleModels": ["Marie Curie", "Albert Einstein"]
+  },
+  {
+    "name": "Athletes",
+    "roleModels": ["Simone Biles", "Usain Bolt"]
+  },
+  {
+    "name": "Inspirational Women",
+    "roleModels": [
+      "Frida Kahlo",
+      "Rosa Parks",
+      "Serena Williams",
+      "Amelia Earhart",
+      "Simone Biles"
+    ]
+  }
+]
