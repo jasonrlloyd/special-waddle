@@ -1,20 +1,25 @@
 [
   {
-    "name": "Scientists",
-    "roleModels": ["Marie Curie", "Albert Einstein"]
-  },
-  {
-    "name": "Athletes",
-    "roleModels": ["Simone Biles", "Usain Bolt"]
-  },
-  {
     "name": "Inspirational Women",
+    "color": "e91e63",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50mmetVAAqNuqnl_csQ1AaG3wVFsPSd70tCjjjuAHeYGlGv509fcKwmsKL2GQ2AAgIE-P8tQ6CTXP_ao8P01t7bfALe3bvfYFxyMZIdKjpqBsHOc-NB5OYUkp_bWc9OzHKOA0l-AZ3adoeWb7InIRcs7nMK0AHmCGnHXX44k18sr8Vv4q1ST2LlmGBiQ/s3080/56656C.png",
     "roleModels": [
       "Frida Kahlo",
       "Rosa Parks",
       "Serena Williams",
       "Amelia Earhart",
       "Simone Biles"
+    ]
+  },
+  {
+    "name": "Inspirational Men",
+    "color": "E9D21E",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj654cyErlv8Uv6ZkNPwhJB1yFc0ELnj9OhDbWNQazt3TMn694vqOXVUPewWUzJ03qwG3C2nggP1c066bdMFjBaJqksreZjnVS5NP3dl0vkUEl1OUstymy8BQ9oxHtQimrjKPze_nvRziBVrPLQ__e5rZ9qIBwDa1TLlsJ9StVwVJp9wiX4FYWQ70SrOzA/s2800/56656C%20(1).png",
+    "roleModels": [
+      "Henry Ford",
+      "Elon Musk",
+      "Walt Disney",
+      "Steve Jobs"
     ]
   }
 ]
