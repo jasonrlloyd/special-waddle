@@ -2,6 +2,7 @@
   {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7g28w6jY8weFjNv__8u9pzFtjU6xY4y7ICP9nG4g8rkVve3DgpeaXahshHlxV89YyaHJNNj1bLN5we4bxuBYxVlmHTmb7z3oVR9BratY8vorJlWGtnHvh6sb5tZnk0VcIR7MT6wERuZnZqvCBNEAUIN43jvxeOSuA4tVfH1SALEsEKCSqm5tJCW48sg/s500/placeholder_avatar_1.png",
     "title": "Steve Jobs",
+    "shareText": "We’re learning all about Steve Jobs today, the visionary who changed the world with Apple. Think different, and never stop creating! \uD83C\uDF4F",
     "date": "2025-02-05",
     "details": "Steve Jobs started a company called Apple Computer, which went on to be one of the biggest companies in the world.",
     "activities": [
@@ -91,6 +92,7 @@
     "imageUrl": "https://evolveltd.eu/app/uploads/2020/01/Marie-Curie-evolve.jpg",
     "title": "Marie Curie",
     "date": "2025-02-04",
+    "shareText": "We’re learning all about Marie Curie today, the trailblazing scientist who changed the world with her discoveries. Stay curious and never stop exploring! \uD83D\uDD2C✨",
     "details": "Marie Curie was a scientist who won two Nobel Prizes for her groundbreaking work in radioactivity.",
     "activities": [
       {
@@ -227,6 +229,7 @@
     "imageUrl": "https://img.mmc.com.do/cdn-bucket/uploads/2022/11/ElonMusk_2017-stageshot.jpg",
     "title": "Elon Musk",
     "date": "2025-02-01",
+    "shareText": "We’ve been learning all about Elon Musk today, the entrepreneur behind Tesla, SpaceX, and more. The future belongs to those who dare to build it! \uD83C\uDF0D\uD83D\uDE80",
     "details": "Elon Musk is an entrepreneur and inventor who helped create Tesla electric cars, SpaceX rockets, and many other innovative projects.",
     "activities": [
       {
@@ -315,6 +318,7 @@
     "imageUrl": "https://news.ucsb.edu/sites/default/files/2023-05/rosa-parks-doc-screening.JPG",
     "title": "Rosa Parks",
     "date": "2025-01-30",
+    "shareText": "We’ve been learning all about Rosa Parks today, the brave woman who stood up for what was right by staying seated. Courage changes the world! \uD83D\uDE8C✊",
     "details": "Rosa Parks was a civil rights activist who became famous for refusing to give up her seat on a segregated bus, sparking the Montgomery Bus Boycott and becoming a symbol of resistance to racial injustice.",
     "activities": [
       {
@@ -403,6 +407,7 @@
     "imageUrl": "https://s.france24.com/media/display/90811f20-091a-11e9-8b7c-005056a964fe/w:1280/p:16x9/serena-williams-afp-MANAN-V.jpg",
     "title": "Serena Williams",
     "date": "2025-01-22",
+    "shareText": "We’ve been learning all about Serena Williams today, the tennis legend who showed the world the power of hard work and resilience. Dream big and play strong! \uD83C\uDFBE\uD83D\uDCAA",
     "details": "Serena Williams is one of the greatest tennis players of all time, known not only for her athletic achievements but also for her advocacy for gender equality, mental health, and empowerment of women and girls.",
     "activities": [
       {
@@ -490,6 +495,7 @@
   {
     "imageUrl": "https://static.wikia.nocookie.net/pirates/images/4/44/WaltDisney.jpg",
     "title": "Walt Disney",
+    "shareText": "Today we’ve been learning all about Walt Disney, the dreamer who turned imagination into magic. If you can dream it, you can do it! ✨\uD83C\uDFA2\uD83C\uDFA8",
     "date": "2025-01-15",
     "details": "Walt Disney was an American entrepreneur, animator, and film producer who co-founded The Walt Disney Company. He is best known for creating beloved characters like Mickey Mouse and for transforming the entertainment industry with his films, theme parks, and innovations in animation.",
     "activities": [
@@ -668,6 +674,7 @@
     "imageUrl": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PF/2023-PF/0323pfonautocolor22a.jpg",
     "title": "Henry Ford",
     "date": "2025-01-10",
+    "shareText": "Today, we’ve been learning all about Henry Ford, the pioneer who revolutionized transportation. With innovation and determination, anything is possible! \uD83D\uDE97⚙\uFE0F",
     "details": "Henry Ford was an American industrialist who revolutionized the automobile industry by introducing the assembly line for mass production, making cars more affordable and accessible to the general public. His innovations helped shape modern industry and the way we work today.",
     "activities": [
       {
@@ -756,6 +763,7 @@
     "imageUrl": "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/1be20b1cf2fc8523852da7dc88613ef0.jpg",
     "title": "Simone Biles",
     "date": "2025-01-05",
+    "shareText": "We’ve been learning all about Simone Biles today, the gymnast who defied limits and inspired the world with her strength and grace. Reach for the stars and keep pushing forward! \uD83E\uDD38\u200D♀\uFE0F\uD83C\uDF1F",
     "details": "Simone Biles is a world-renowned gymnast and the most decorated in history. Known for her powerful performances and unwavering determination, she has inspired millions with her achievements and resilience, both on and off the mat.",
     "activities": [
       {
@@ -844,6 +852,7 @@
     "imageUrl": "https://www.visitmelbourne.com/-/media/atdw/goldfields/whats-on/art-and-exhibitions/exhibitions/2e6f2c4c38a794283f4d63968f181d99_1600x1200.jpeg?ts=20240719320542",
     "title": "Frida Kahlo",
     "date": "2025-01-04",
+    "shareText": "We’ve been learning all about Frida Kahlo today, the artist who turned pain into powerful art. Embrace your uniqueness and let your creativity flow! \uD83C\uDFA8\uD83C\uDF38",
     "details": "Frida Kahlo was a Mexican artist known for her bold and colourful self-portraits that expressed her emotions, culture, and life story. Despite facing great challenges, including illness and injury, she turned her pain into beautiful, meaningful art. Frida is celebrated for her strength, creativity, and love for her heritage.",
     "activities": [
       {
@@ -925,94 +934,6 @@
       {
         "title": "Story Collage",
         "description": "Provide old magazines, paper, and glue for your child to make a collage that tells a story, just like Frida told stories with her paintings."
-      }
-    ]
-  },
-  {
-    "imageUrl": "https://cdn.prod.website-files.com/6414abd2d6a89643a368224a/64ca6b17efcb32400182e61c_age-gate_kids.png",
-    "title": "Unicorn Academy",
-    "date": "2025-01-03",
-    "details": "Unicorn Academy is a magical place where students are paired with their very own unicorns to learn, grow, and go on exciting adventures. It teaches kids about friendship, bravery, and the magic of working together.",
-    "activities": [
-      {
-        "title": "Design Your Own Unicorn",
-        "description": "Let your child draw their dream unicorn. They can decide on the unicorn's colors, name, and special magical powers."
-      },
-      {
-        "title": "Make Unicorn Horn Headbands",
-        "description": "Craft a unicorn horn using paper, glitter, and elastic bands to create magical headwear."
-      },
-      {
-        "title": "Unicorn Obstacle Course",
-        "description": "Set up an obstacle course where your child pretends to ride their unicorn, jumping over cushions and weaving around cones."
-      },
-      {
-        "title": "Unicorn Magic Potion",
-        "description": "Mix colorful juices, edible glitter, and sprinkles to create a magical unicorn potion to drink."
-      },
-      {
-        "title": "Unicorn Dance Party",
-        "description": "Play some fun music and have a dance party, pretending to be unicorns prancing and galloping around."
-      },
-      {
-        "title": "Unicorn Academy Storytime",
-        "description": "Read a story from the Unicorn Academy series or make up your own magical tale."
-      },
-      {
-        "title": "Unicorn Treasure Hunt",
-        "description": "Hide small treasures (like glittery objects or unicorn stickers) and create clues for a magical unicorn-themed treasure hunt."
-      },
-      {
-        "title": "Rainbow Art Activity",
-        "description": "Paint or color a rainbow to symbolize the magical world of Unicorn Academy. Add glitter and sparkles for extra fun!"
-      },
-      {
-        "title": "Unicorn Friendship Bracelets",
-        "description": "Make friendship bracelets with colorful beads and give them a magical meaning, like bravery, kindness, or teamwork."
-      },
-      {
-        "title": "Unicorn Trivia Game",
-        "description": "Create a fun quiz with questions about unicorns, magic, and the adventures in Unicorn Academy."
-      },
-      {
-        "title": "Create a Unicorn Academy Badge",
-        "description": "Design and color a badge that says 'Unicorn Academy Graduate' with a picture of a unicorn."
-      },
-      {
-        "title": "DIY Unicorn Plushie",
-        "description": "Sew or craft a simple unicorn plushie using felt, fabric, or socks. Decorate it with markers and glitter."
-      },
-      {
-        "title": "Magical Unicorn Names",
-        "description": "Come up with unique unicorn names and write them on name tags. Discuss what each unicorn's magical powers could be."
-      },
-      {
-        "title": "Unicorn Adventure Map",
-        "description": "Draw a map of Unicorn Academy and the magical lands around it, like Sparkle Meadow and Rainbow Falls."
-      },
-      {
-        "title": "Unicorn Care Station",
-        "description": "Set up a station to pretend to groom and care for a unicorn. Use toy brushes and ribbons to 'groom' a plush or imaginary unicorn."
-      },
-      {
-        "title": "Unicorn Spells and Wands",
-        "description": "Create wands using sticks and decorations. Pretend to cast spells like 'Sparkle Shield' or 'Rainbow Glow.'"
-      },
-      {
-        "title": "Unicorn Academy Graduation",
-        "description": "Hold a mini-graduation ceremony where your child gets a certificate for completing their Unicorn Academy day."
-      },
-      {
-        "title": "Unicorn-Themed Snacks",
-        "description": "Prepare magical treats like rainbow cupcakes, unicorn-shaped cookies, or colorful fruit skewers."
-      },
-      {
-        "title": "Unicorn Tail Relay Race",
-        "description": "Attach pretend 'tails' made of streamers and have a relay race while wearing them."
-      },
-      {
-        "title": "Unicorn Memory Game",
-        "description": "Create a memory card game using images of unicorns, rainbows, and other magical items."
       }
     ]
   }
