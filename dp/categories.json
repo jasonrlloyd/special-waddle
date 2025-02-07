@@ -8,7 +8,8 @@
       "Rosa Parks",
       "Serena Williams",
       "Amelia Earhart",
-      "Simone Biles"
+      "Simone Biles",
+      "Marie Curie"
     ],
     "darkTitleText": false
   },
@@ -23,5 +24,63 @@
       "Steve Jobs"
     ],
     "darkTitleText": true
+  },
+  {
+    "name": "Athletes",
+    "color": "03873E",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Serena Williams",
+      "Simone Biles"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Scientists",
+    "color": "EBE7E4",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Marie Curie"
+    ],
+    "darkTitleText": true
+  },
+  {
+    "name": "Musicians",
+    "color": "0870FB",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Marie Curie"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Historical",
+    "color": "FF7F1D",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Marie Curie",
+      "Henry Ford"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Innovators",
+    "color": "FE75B8",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Henry Ford",
+      "Steve Jobs",
+      "Elon Musk"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Artists",
+    "color": "e91e63",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqrz8WJjoOn2pxOMxWgqWUgmeoT2FjyyYe2aXMJLAkX-FZkxktL6cK0NAybu2ngGBJsvtEw8iKeh5eExw0juItN-WxjfdN2jDVvMXgGGD5V0t09_g-oR77TRqZJosqbgUoEW58GuCOnJTPsWbPj_OiuhmcGOil-Jjo4FPdOrMKR1MfckimZalgtonEug/s2800/56656C%20(2).png",
+    "roleModels": [
+      "Frida Kahlo"
+    ],
+    "darkTitleText": false
   }
 ]
