@@ -1,8 +1,98 @@
 [
   {
+    "imageUrl": "https://www.vibe.com/wp-content/uploads/2023/12/Beyonce_20230902_RWT_LosAngeles_Dakdouk_JD2_6035_V2_TP-e1702172344130.jpeg?w=910&h=511&crop=1",
+    "title": "Beyoncé",
+    "date": "2025-02-08",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaRD6YhPx79Mi6SI_bx9EODaVIStO_gOn0MCIos9-jjfUAjoRRY23lmb7Lu0xgJM-xaqQ4ZaIEiRhr-TkPOZ3zEdXppcUM9_exHK8dbxKZbjclL6gPy4q6gFJAiJ7YhM3Stiz4rQUGSyl7lHy7tuD_fXdUEO6TUbimIDmkr_uaY2Yq_eZSp-TdtMyvSGk/s2000/N%20(7).png",
+    "shareText": "Today, we celebrated the incredible Beyoncé! From singing and dancing to confidence-building activities, we embraced the power of being bold and unstoppable! 🎤✨ ",
+    "details": "Beyoncé is a global superstar known for her powerhouse vocals, incredible performances, and inspiring confidence. She encourages people to be fearless, work hard, and believe in themselves. Her journey from a young girl in Houston to an international icon shows the power of dedication and self-expression.",
+    "activities": [
+      {
+        "title": "Beyoncé Dance Party",
+        "description": "Put on some of Beyoncé’s upbeat songs and have a dance-off! Let loose, have fun, and express yourself."
+      },
+      {
+        "title": "DIY Microphone",
+        "description": "Make a pretend microphone using a toilet paper roll and aluminum foil so your child can feel like a star."
+      },
+      {
+        "title": "Sasha Fierce Confidence Walk",
+        "description": "Encourage your child to walk like a superstar on an imaginary red carpet, practicing confidence and power poses."
+      },
+      {
+        "title": "Sing Like a Star",
+        "description": "Pick a Beyoncé song and sing along using a hairbrush as a mic. Bonus points for dramatic performances!"
+      },
+      {
+        "title": "Formation Dance Routine",
+        "description": "Learn a simple dance routine inspired by Beyoncé’s iconic performances and create your own moves!"
+      },
+      {
+        "title": "Queen Bee Craft",
+        "description": "Make a bee-themed craft using yellow and black paper to celebrate Beyoncé’s 'Queen Bey' nickname."
+      },
+      {
+        "title": "Glam Star Makeover",
+        "description": "Have fun with dress-up, sparkly accessories, and face paint to create a pop star look."
+      },
+      {
+        "title": "Lyrics and Poetry Fun",
+        "description": "Write a fun song or short poem about confidence and being yourself, inspired by Beyoncé’s lyrics."
+      },
+      {
+        "title": "Superstar Stage Time",
+        "description": "Set up a 'stage' with blankets and pillows, and let your child put on a show."
+      },
+      {
+        "title": "Inspirational Poster Making",
+        "description": "Make a poster with empowering Beyoncé quotes like 'I’m not bossy, I’m the boss!'"
+      },
+      {
+        "title": "Star Power Meditation",
+        "description": "Do a short meditation session where you talk about believing in yourself and being confident, just like Beyoncé."
+      },
+      {
+        "title": "Music Video Moment",
+        "description": "Record a short video of your child performing their favorite Beyoncé song and play it back for fun."
+      },
+      {
+        "title": "Power Pose Photoshoot",
+        "description": "Strike strong, confident poses and take pictures to celebrate feeling empowered."
+      },
+      {
+        "title": "Glitter Microphone Cupcakes",
+        "description": "Bake and decorate cupcakes with edible glitter to represent Beyoncé’s dazzling performances."
+      },
+      {
+        "title": "All The Single Bubbles",
+        "description": "Blow bubbles while dancing to 'Single Ladies' and see who can pop the most!"
+      },
+      {
+        "title": "Superstar Storytime",
+        "description": "Read about Beyoncé’s journey and how she worked hard to achieve her dreams."
+      },
+      {
+        "title": "Lemonade Stand Fun",
+        "description": "Make fresh lemonade together, inspired by Beyoncé’s 'Lemonade' album, and enjoy it in the sun."
+      },
+      {
+        "title": "Dance Floor Freeze",
+        "description": "Play Beyoncé music and freeze in fun dance poses when the music stops."
+      },
+      {
+        "title": "Queen’s Crown Craft",
+        "description": "Make a sparkly crown out of cardboard and decorate it with gems and glitter to celebrate being bold and confident."
+      }
+    ]
+  },
+
+  {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7g28w6jY8weFjNv__8u9pzFtjU6xY4y7ICP9nG4g8rkVve3DgpeaXahshHlxV89YyaHJNNj1bLN5we4bxuBYxVlmHTmb7z3oVR9BratY8vorJlWGtnHvh6sb5tZnk0VcIR7MT6wERuZnZqvCBNEAUIN43jvxeOSuA4tVfH1SALEsEKCSqm5tJCW48sg/s500/placeholder_avatar_1.png",
     "title": "Steve Jobs",
-    "details": "Steve Jobs started a company called Apple Computer, which went on to be one of the biggest companies in the world.",
+    "shareText": "We’re learning all about Steve Jobs today, the visionary who changed the world with Apple. Think different, and never stop creating! \uD83C\uDF4F",
+    "date": "2025-02-05",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAU-_Zz1ulXFaVSvIp4pEPWyF-NCFjOlZYoTvxJBClb82blGNydA97h-IRIng0U4jPaDs1UvtCsEPF_eOjpefsUYGg2RzsLTDPQNsLBbw4tV38ZUAo_KS80F_WPsTkM9BgjcMP-0Z1dZkb5ulnBge4ffTHDzCATSTmxVBJQbBENfm8pdAP-953vwSaCWA/s4250/6.png",
+    "details": "Steve Jobs co-founded Apple, a company that revolutionized technology and became one of the most influential and valuable companies in the world. Through his vision and innovation, he changed the way we live, work, and communicate.",
     "activities": [
       {
         "title": "Paper iPad",
@@ -89,6 +179,9 @@
   {
     "imageUrl": "https://evolveltd.eu/app/uploads/2020/01/Marie-Curie-evolve.jpg",
     "title": "Marie Curie",
+    "date": "2025-02-04",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEASTcf91RPvszp2-yeCOOClF5BGkvgvAqYy2SeJHf6s6Hz-dQbPFelxHOmuAz7FjSIMbIMatSCq4wfJtXLBvqMj5FcoZhFk5Z3EUvrzLXez1MFBLHyvUgv0A4ttPhgq-FsMPG65V_Hd8ctJ2-zVWUT48yw25Sme63pQza1bHka9y-W41zs_OxDPW4f0A/s4250/4.png",
+    "shareText": "We’re learning all about Marie Curie today, the trailblazing scientist who changed the world with her discoveries. Stay curious and never stop exploring! \uD83D\uDD2C✨",
     "details": "Marie Curie was a scientist who won two Nobel Prizes for her groundbreaking work in radioactivity.",
     "activities": [
       {
@@ -224,6 +317,9 @@
   {
     "imageUrl": "https://img.mmc.com.do/cdn-bucket/uploads/2022/11/ElonMusk_2017-stageshot.jpg",
     "title": "Elon Musk",
+    "date": "2025-02-01",
+    "shareText": "We’ve been learning all about Elon Musk today, the entrepreneur behind Tesla, SpaceX, and more. The future belongs to those who dare to build it! \uD83C\uDF0D\uD83D\uDE80",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3T3nD-Qt-ArafwRdwoQyPwmqBfSjEIymb8xEyrKH8YebnWpXy950J1cij-m7_Qn3yypxTeMgtZASkk89qjfMSdBQHoqlnygnfmxjcL8TEvITGqxReU2WS37Hz07Fsjv8HUMXU42qL5J5Qvv9-0WuaVqT2LXzUT3USRS5F2NTfH4XnxY_yeemhVtE3l9k/s4250/1.png",
     "details": "Elon Musk is an entrepreneur and inventor who helped create Tesla electric cars, SpaceX rockets, and many other innovative projects.",
     "activities": [
       {
@@ -311,6 +407,9 @@
   {
     "imageUrl": "https://news.ucsb.edu/sites/default/files/2023-05/rosa-parks-doc-screening.JPG",
     "title": "Rosa Parks",
+    "date": "2025-01-30",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIKTO0cWb9ya7EVFJk7jIJNbP7of2tffb3qKTJTVEiX_zGX3MmAKFb29G1aFe5M0W16be36ExD9VbSD419KBMhmCmByrjVUbBz_j2-dbSHJ5piCmXbx2W2kVGdRH1sV38c7JGDJ6vOkUHU1KOIrFsBQeY-zeXucNKhiRWbIKJinMK_o87c9vqagGCbwGk/s4250/7.png",
+    "shareText": "We’ve been learning all about Rosa Parks today, the brave woman who stood up for what was right by staying seated. Courage changes the world! \uD83D\uDE8C✊",
     "details": "Rosa Parks was a civil rights activist who became famous for refusing to give up her seat on a segregated bus, sparking the Montgomery Bus Boycott and becoming a symbol of resistance to racial injustice.",
     "activities": [
       {
@@ -398,6 +497,9 @@
   {
     "imageUrl": "https://s.france24.com/media/display/90811f20-091a-11e9-8b7c-005056a964fe/w:1280/p:16x9/serena-williams-afp-MANAN-V.jpg",
     "title": "Serena Williams",
+    "date": "2025-01-22",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFt1w0g5q6Vzji1ktLTJd_vKSdgXiLip453PwZarZWK0V1R8QC0tnIjfiYrldxZikZOLY5Cip9GtXr426jP1zXFKfiZw4AiKUmwgMyElzkIFWvTaY3lTcgVLbrC1T_K9-tuP2AvkA79R8l27ti1Ca7Xezdmvxp-Hh72oWW5_nPecAztkvLu6g71CfYQ7U/s4250/5.png",
+    "shareText": "We’ve been learning all about Serena Williams today, the tennis legend who showed the world the power of hard work and resilience. Dream big and play strong! \uD83C\uDFBE\uD83D\uDCAA",
     "details": "Serena Williams is one of the greatest tennis players of all time, known not only for her athletic achievements but also for her advocacy for gender equality, mental health, and empowerment of women and girls.",
     "activities": [
       {
@@ -485,6 +587,9 @@
   {
     "imageUrl": "https://static.wikia.nocookie.net/pirates/images/4/44/WaltDisney.jpg",
     "title": "Walt Disney",
+    "shareText": "Today we’ve been learning all about Walt Disney, the dreamer who turned imagination into magic. If you can dream it, you can do it! ✨\uD83C\uDFA2\uD83C\uDFA8",
+    "date": "2025-01-15",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-qQ0KGD4F-8ySwT5Teb2Oela1DF-N6v21Dr4dKCWdE4qatKb4r3QIBSSXkTSbX1e9AkXyiMQiypYBxk_TeW-tx5iNQzz04NlmqMs0NOWSPlUF_YL7yLzVdHP6Tz5WKL0zNA7FwdzvqU2Ci3QDS9rxZ5KBrQ6mN1vdyRV3lqhSGaykQhQeOop2iFIqIuU/s4250/10.png",
     "details": "Walt Disney was an American entrepreneur, animator, and film producer who co-founded The Walt Disney Company. He is best known for creating beloved characters like Mickey Mouse and for transforming the entertainment industry with his films, theme parks, and innovations in animation.",
     "activities": [
       {
@@ -572,6 +677,9 @@
   {
     "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/amelia-earhart.jpg",
     "title": "Amelia Earhart",
+    "date": "2025-01-12",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrE0kwMZRmICbW_NS7zI-gUTIdbjgeeamKTnMC-ijDnFE5e93z4HTfxtVp22OfNpL-CSKZFPco_XXODhJHeZYaj4KbRaLc7kUB9lxALjeIfI8Dc8c7Vf-gkcUDRQJk6ZOwDn7J2KqMFHLLBs4TQhU9npQ_QnR7kjYxJgklfJjalRWPWHOaCuDgjgfzanQ/s4250/9.png",
+    "shareText": "We're learning all about Amelia Earhart today, the first woman to fly across the Atlantic solo. Dream big, sky's the limit! ✈️",
     "details": "Amelia Earhart was an American aviation pioneer and the first female aviator to fly solo across the Atlantic Ocean. She broke barriers for women in aviation and inspired many with her bravery, determination, and adventurous spirit.",
     "activities": [
       {
@@ -659,6 +767,9 @@
   {
     "imageUrl": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PF/2023-PF/0323pfonautocolor22a.jpg",
     "title": "Henry Ford",
+    "date": "2025-01-10",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrT2QuqH_m_YKjgbgWkpA-PEgze_x1HAA25_3csPk2oHjSI_CUxx747VAKGj5pd0vvPniG8G_VsQBQilIp6if6KZaGveN2udIbMYb9-9AEjoO417K8A5vTe8WVLna3SMqR9yisVqdtHSiuPTnQKy8xV3e7v93EOaVg882wmfjZhN-mAvx1qhUVnAiDq-0/s4250/8.png",
+    "shareText": "Today, we’ve been learning all about Henry Ford, the pioneer who revolutionized transportation. With innovation and determination, anything is possible! \uD83D\uDE97⚙\uFE0F",
     "details": "Henry Ford was an American industrialist who revolutionized the automobile industry by introducing the assembly line for mass production, making cars more affordable and accessible to the general public. His innovations helped shape modern industry and the way we work today.",
     "activities": [
       {
@@ -746,6 +857,9 @@
   {
     "imageUrl": "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/1be20b1cf2fc8523852da7dc88613ef0.jpg",
     "title": "Simone Biles",
+    "date": "2025-01-05",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Jmprn9MdXrOzCjnvsli0jsg3ZKPGdlATlf4NpqAN3CFulHXTe7guVOJ12Dr0qfWf1gTuaRQ00mARy4-9SA68PbQ92XsdmM1Qy8Qfv96PrBBCgshQFMIF3lhaTXpIo4bGKjoMqbhaBenPO2EnwAFmsKWSGKIQUnOj-4_O7rmya0p9cuKPpwF47kN6oY4/s4250/3.png",
+    "shareText": "We’ve been learning all about Simone Biles today, the gymnast who defied limits and inspired the world with her strength and grace. Reach for the stars and keep pushing forward! \uD83E\uDD38\u200D♀\uFE0F\uD83C\uDF1F",
     "details": "Simone Biles is a world-renowned gymnast and the most decorated in history. Known for her powerful performances and unwavering determination, she has inspired millions with her achievements and resilience, both on and off the mat.",
     "activities": [
       {
@@ -833,6 +947,9 @@
   {
     "imageUrl": "https://www.visitmelbourne.com/-/media/atdw/goldfields/whats-on/art-and-exhibitions/exhibitions/2e6f2c4c38a794283f4d63968f181d99_1600x1200.jpeg?ts=20240719320542",
     "title": "Frida Kahlo",
+    "date": "2025-01-04",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7gSGR2HFqFmDsI2otEJ5FtECImFFzNvLqwyxQXnfCUkxsWdhk5cH-Yh1ezQ3GsDCzAoBjAO3yt4L1jeh0PGTQ2pgjKXad3QbTuyVYAqQlf579J5MiUMn_ALuyygZ-ha97-7WSzBHNCR3DY5GwZKXFK4w2aPA4PJk3tUeDIr3zWQHgWIrgVYsUnbgMysw/s4250/2.png",
+    "shareText": "We’ve been learning all about Frida Kahlo today, the artist who turned pain into powerful art. Embrace your uniqueness and let your creativity flow! \uD83C\uDFA8\uD83C\uDF38",
     "details": "Frida Kahlo was a Mexican artist known for her bold and colourful self-portraits that expressed her emotions, culture, and life story. Despite facing great challenges, including illness and injury, she turned her pain into beautiful, meaningful art. Frida is celebrated for her strength, creativity, and love for her heritage.",
     "activities": [
       {
@@ -916,92 +1033,5 @@
         "description": "Provide old magazines, paper, and glue for your child to make a collage that tells a story, just like Frida told stories with her paintings."
       }
     ]
-  },
-  {
-    "imageUrl": "https://cdn.prod.website-files.com/6414abd2d6a89643a368224a/64ca6b17efcb32400182e61c_age-gate_kids.png",
-    "title": "Unicorn Academy",
-    "details": "Unicorn Academy is a magical place where students are paired with their very own unicorns to learn, grow, and go on exciting adventures. It teaches kids about friendship, bravery, and the magic of working together.",
-    "activities": [
-      {
-        "title": "Design Your Own Unicorn",
-        "description": "Let your child draw their dream unicorn. They can decide on the unicorn's colors, name, and special magical powers."
-      },
-      {
-        "title": "Make Unicorn Horn Headbands",
-        "description": "Craft a unicorn horn using paper, glitter, and elastic bands to create magical headwear."
-      },
-      {
-        "title": "Unicorn Obstacle Course",
-        "description": "Set up an obstacle course where your child pretends to ride their unicorn, jumping over cushions and weaving around cones."
-      },
-      {
-        "title": "Unicorn Magic Potion",
-        "description": "Mix colorful juices, edible glitter, and sprinkles to create a magical unicorn potion to drink."
-      },
-      {
-        "title": "Unicorn Dance Party",
-        "description": "Play some fun music and have a dance party, pretending to be unicorns prancing and galloping around."
-      },
-      {
-        "title": "Unicorn Academy Storytime",
-        "description": "Read a story from the Unicorn Academy series or make up your own magical tale."
-      },
-      {
-        "title": "Unicorn Treasure Hunt",
-        "description": "Hide small treasures (like glittery objects or unicorn stickers) and create clues for a magical unicorn-themed treasure hunt."
-      },
-      {
-        "title": "Rainbow Art Activity",
-        "description": "Paint or color a rainbow to symbolize the magical world of Unicorn Academy. Add glitter and sparkles for extra fun!"
-      },
-      {
-        "title": "Unicorn Friendship Bracelets",
-        "description": "Make friendship bracelets with colorful beads and give them a magical meaning, like bravery, kindness, or teamwork."
-      },
-      {
-        "title": "Unicorn Trivia Game",
-        "description": "Create a fun quiz with questions about unicorns, magic, and the adventures in Unicorn Academy."
-      },
-      {
-        "title": "Create a Unicorn Academy Badge",
-        "description": "Design and color a badge that says 'Unicorn Academy Graduate' with a picture of a unicorn."
-      },
-      {
-        "title": "DIY Unicorn Plushie",
-        "description": "Sew or craft a simple unicorn plushie using felt, fabric, or socks. Decorate it with markers and glitter."
-      },
-      {
-        "title": "Magical Unicorn Names",
-        "description": "Come up with unique unicorn names and write them on name tags. Discuss what each unicorn's magical powers could be."
-      },
-      {
-        "title": "Unicorn Adventure Map",
-        "description": "Draw a map of Unicorn Academy and the magical lands around it, like Sparkle Meadow and Rainbow Falls."
-      },
-      {
-        "title": "Unicorn Care Station",
-        "description": "Set up a station to pretend to groom and care for a unicorn. Use toy brushes and ribbons to 'groom' a plush or imaginary unicorn."
-      },
-      {
-        "title": "Unicorn Spells and Wands",
-        "description": "Create wands using sticks and decorations. Pretend to cast spells like 'Sparkle Shield' or 'Rainbow Glow.'"
-      },
-      {
-        "title": "Unicorn Academy Graduation",
-        "description": "Hold a mini-graduation ceremony where your child gets a certificate for completing their Unicorn Academy day."
-      },
-      {
-        "title": "Unicorn-Themed Snacks",
-        "description": "Prepare magical treats like rainbow cupcakes, unicorn-shaped cookies, or colorful fruit skewers."
-      },
-      {
-        "title": "Unicorn Tail Relay Race",
-        "description": "Attach pretend 'tails' made of streamers and have a relay race while wearing them."
-      },
-      {
-        "title": "Unicorn Memory Game",
-        "description": "Create a memory card game using images of unicorns, rainbows, and other magical items."
-      }
-    ]
-  }
-]
+  }]
+
