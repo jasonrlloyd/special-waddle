@@ -85,7 +85,6 @@
       }
     ]
   },
-
   {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7g28w6jY8weFjNv__8u9pzFtjU6xY4y7ICP9nG4g8rkVve3DgpeaXahshHlxV89YyaHJNNj1bLN5we4bxuBYxVlmHTmb7z3oVR9BratY8vorJlWGtnHvh6sb5tZnk0VcIR7MT6wERuZnZqvCBNEAUIN43jvxeOSuA4tVfH1SALEsEKCSqm5tJCW48sg/s500/placeholder_avatar_1.png",
     "title": "Steve Jobs",
@@ -183,6 +182,26 @@
     "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEASTcf91RPvszp2-yeCOOClF5BGkvgvAqYy2SeJHf6s6Hz-dQbPFelxHOmuAz7FjSIMbIMatSCq4wfJtXLBvqMj5FcoZhFk5Z3EUvrzLXez1MFBLHyvUgv0A4ttPhgq-FsMPG65V_Hd8ctJ2-zVWUT48yw25Sme63pQza1bHka9y-W41zs_OxDPW4f0A/s4250/4.png",
     "shareText": "We’re learning all about Marie Curie today, the trailblazing scientist who changed the world with her discoveries. Stay curious and never stop exploring! \uD83D\uDD2C✨",
     "details": "Marie Curie was a scientist who won two Nobel Prizes for her groundbreaking work in radioactivity.",
+    "lessons": [
+      {
+        "lesson": "Be curious and ask questions!",
+        "story": "Marie Curie loved to ask questions and learn new things every day.",
+        "question": "What’s something you’re really curious about today?",
+        "activity": "Pick one thing around the house and find out how it works!"
+      },
+      {
+        "lesson": "Hard work pays off!",
+        "story": "Marie worked late into the night doing science experiments to help people.",
+        "question": "Can you think of a time when you kept trying even when something was hard?",
+        "activity": "Let’s do a small challenge (like stacking blocks) and see how we improve!"
+      },
+      {
+        "lesson": "Help others with what you know!",
+        "story": "Marie’s discoveries helped millions of people get better treatments.",
+        "question": "What’s one way you can help someone today?",
+        "activity": "Think of one thing you’re good at and teach it to a family member!"
+      }
+    ],
     "activities": [
       {
         "title": "DIY 'Glow in the Dark' Experiment",
