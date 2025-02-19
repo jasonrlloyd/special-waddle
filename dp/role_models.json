@@ -1,5 +1,99 @@
 [
   {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sky_Brown_at_the_2024_Summer_Olympics.jpg",
+    "title": "Sky Brown",
+    "date": "2025-02-19",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJT2azh6NaGg2hS4C0wUKTtlWqnOAifoAC1OJ9NMO-2suaCR6sdPJHt-b2L2LQTguQxMnR1KD1O6xjPihEAQk_un504m9ENs3Nl2U8gInDbvxydUySWKz_uQKDDtfPY9NWEfVM7RDKruFdoO7GLpvDNFn7ZIHMrH9eqUbjGwr9833OLOPrUi5uNges9yE/s2000/N%20(11).png",
+    "shareText": "We're learning about Sky Brown today, the inspiring young skateboarding prodigy and Olympic medalist. Dream big and skate through life! 🛹",
+    "details": "Sky Brown is a British-Japanese professional skateboarder and surfer who became one of the youngest Olympians at the 2020 Summer Games, earning a bronze medal in skateboarding. She inspires others with her determination, skill, and passion for pursuing her dreams at a young age.",
+    "lessons": [
+      {
+        "lesson": "Follow your passion and never stop learning!",
+        "story": "Sky Brown discovered her love for skateboarding at a young age and worked hard to become one of the best, never letting age limit her ambitions.",
+        "question": "What passion would you like to pursue and improve in?",
+        "activity": "Pick something you're passionate about and try a new challenge today to get better at it!"
+      },
+      {
+        "lesson": "Overcome obstacles and keep trying!",
+        "story": "Sky faced challenges, including injuries, but she always stayed positive and continued to pursue her dreams.",
+        "question": "Can you think of a time you overcame something tough?",
+        "activity": "Try a physical challenge like a mini obstacle course and keep pushing forward no matter how tricky it gets!"
+      },
+      {
+        "lesson": "Believe in yourself, even when others doubt you!",
+        "story": "Sky's success shows that age doesn’t define what you can achieve. She believed in herself, even when others thought she was too young.",
+        "question": "What’s something you believe in about yourself?",
+        "activity": "Write down a positive affirmation about yourself and repeat it every day!"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Skateboard Moves",
+        "description": "Try out different skateboard tricks or pretend moves in the yard or living room. Show how Sky mastered them with practice!"
+      },
+      {
+        "title": "Mini Skate Park",
+        "description": "Set up a mini skate park with ramps (or use objects to create obstacles) and let the child try to skate through it like Sky."
+      },
+      {
+        "title": "Dream Skateboard Design",
+        "description": "Create your own dream skateboard by drawing your designs on a piece of paper or a toy skateboard."
+      },
+      {
+        "title": "Skateboarding at Home",
+        "description": "If possible, practice some basic moves on a skateboard, or simulate skateboarding using a broomstick or toy skateboards."
+      },
+      {
+        "title": "Sky's Victory Lap",
+        "description": "Re-enact Sky Brown’s victory lap after her Olympic medal, celebrating with high-fives and cheers!"
+      },
+      {
+        "title": "Skateboarding Trivia",
+        "description": "Ask fun questions about skateboarding and Sky Brown’s achievements—great for learning more about this sport."
+      },
+      {
+        "title": "Skateboarding Journal",
+        "description": "Create a journal to track skateboarding tricks and progress, just like Sky does when preparing for competitions."
+      },
+      {
+        "title": "Skater’s Pose",
+        "description": "Strike a cool skater pose, pretending you just landed an awesome trick. How does it feel to succeed?"
+      },
+      {
+        "title": "Balance Challenge",
+        "description": "Practice balancing on one foot or a balance board, just like a skater maintains control on their board."
+      },
+      {
+        "title": "Skateboard Obstacle Race",
+        "description": "Set up an obstacle course with jumping over items, balancing on beams, or weaving through objects to challenge the child."
+      },
+      {
+        "title": "Inspirational Skater Poster",
+        "description": "Create a poster of Sky Brown in action or an inspirational quote from her to hang up!"
+      },
+      {
+        "title": "Create Your Own Skateboard",
+        "description": "Use craft supplies to make a skateboard model from cardboard, paper, and other materials."
+      },
+      {
+        "title": "Olympic Dreams",
+        "description": "Discuss the Olympics and the journey to competing, while the child creates a vision board of their Olympic dreams."
+      },
+      {
+        "title": "Skateboard Dance",
+        "description": "Create a fun skateboard-inspired dance routine or movement sequence to mimic skating moves."
+      },
+      {
+        "title": "Sky's Skater Outfit",
+        "description": "Design your own skater look with clothes and accessories to feel like a pro skateboarder!"
+      },
+      {
+        "title": "Go for Gold",
+        "description": "Talk about the importance of striving for the best and create a mock gold medal to celebrate personal achievements."
+      }
+    ]
+  },
+  {
     "imageUrl": "https://www.vibe.com/wp-content/uploads/2023/12/Beyonce_20230902_RWT_LosAngeles_Dakdouk_JD2_6035_V2_TP-e1702172344130.jpeg?w=910&h=511&crop=1",
     "title": "Beyoncé",
     "date": "2025-02-08",
@@ -854,7 +948,7 @@
         "description": "Create a simple map with locations to ‘fly’ to. Let the child plan their route, just like Amelia Earhart did on her historic flights."
       },
       {
-        "title": "Airplane Paper Airplanes",
+        "title": "Paper Airplanes",
         "description": "Make paper airplanes and see how far they fly. Discuss how Amelia Earhart’s planes were carefully designed for long-distance flights."
       },
       {
