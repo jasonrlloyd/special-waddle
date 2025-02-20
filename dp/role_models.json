@@ -1,5 +1,75 @@
 [
   {
+    "imageUrl": "https://images.nature.com/lw1200/magazine-assets/d41586-018-02839-9/d41586-018-02839-9_15516176.jpg",
+    "title": "Stephen Hawking",
+    "date": "2025-02-20",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPK2KokYWgcuhiUXyC1NQ0vzagdhC387BMwSyipjqYbV85K-qqTHEXjQb3TQy6Dmcm3EbJvBZlI2Yupa3rzCLn04CrY-pncvqtqxwRY3AjyhOI82zhJC6zdOav_ojchhyQYqdISpUpg4wOlggTqwVSnrVNij6QbOSziO6MpYyhhaimrl4VqiWvRbIPPJg/s2000/N%20(13).png",
+    "shareText": "Today, we're exploring the universe with Stephen Hawking! His brilliant mind helped us understand black holes and the cosmos. Keep asking big questions! 🌌✨",
+    "details": "Stephen Hawking was a world-famous physicist who made major discoveries about black holes and the universe. Even though he faced challenges due to a disease called ALS, he continued to inspire the world with his work and curiosity. He taught us that knowledge and perseverance can overcome any obstacle.",
+    "lessons": [
+      {
+        "lesson": "Never give up, even when things get hard.",
+        "story": "Stephen was diagnosed with ALS, a disease that made it hard for him to move or speak, but he kept working on his ideas and became one of the greatest scientists ever.",
+        "question": "Can you think of a time when you kept trying, even when something was difficult?",
+        "activity": "Try solving a tricky puzzle or building something new—what helps you keep going when it's hard?"
+      },
+      {
+        "lesson": "Curiosity leads to discovery!",
+        "story": "Stephen Hawking loved to ask big questions about the universe, like how black holes work and where the universe came from.",
+        "question": "If you could ask any question about space, what would it be?",
+        "activity": "Look up at the night sky and imagine traveling through space! What planets and stars would you visit?"
+      },
+      {
+        "lesson": "The power of imagination is limitless.",
+        "story": "Stephen Hawking couldn’t move much, but his mind could travel across the universe as he imagined and studied space.",
+        "question": "If you could invent something amazing, what would it do?",
+        "activity": "Draw your own space invention! Maybe it’s a rocket, a new planet, or a machine that helps us learn about the universe."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Black Hole Experiment",
+        "description": "Use a round object and stretch a piece of fabric to see how gravity works. Watch how small objects bend the fabric, just like space bends around black holes!"
+      },
+      {
+        "title": "Explore the Stars",
+        "description": "Go outside at night and try to spot constellations or planets. Talk about how Stephen Hawking studied space and the mysteries of the universe."
+      },
+      {
+        "title": "Cosmic Art",
+        "description": "Create a galaxy painting with watercolors or pastels, using bright colors to represent stars, planets, and black holes."
+      },
+      {
+        "title": "Robot Voice Challenge",
+        "description": "Stephen Hawking used a computer to speak—try using a text-to-speech app and see what it’s like to communicate in a new way!"
+      },
+      {
+        "title": "Gravity Drop Test",
+        "description": "Drop two objects of different weights at the same time and see if they land together—just like in space, gravity pulls everything equally!"
+      },
+      {
+        "title": "Time Travel Talk",
+        "description": "Stephen Hawking loved thinking about time travel. Imagine where you would go if you could visit the past or future!"
+      },
+      {
+        "title": "Create a Space Story",
+        "description": "Write or tell a short story about an adventure in space, inspired by Stephen Hawking’s love for exploring the unknown."
+      },
+      {
+        "title": "Make a Star Chart",
+        "description": "Draw a simple star map and label a few major stars and planets. Talk about how scientists like Stephen Hawking study space to learn about the universe."
+      },
+      {
+        "title": "The Hawking Chair Race",
+        "description": "Have a fun wheelchair or rolling chair race in honor of Stephen Hawking, who used his motorized wheelchair to move around."
+      },
+      {
+        "title": "Imagine a New Planet",
+        "description": "Design a brand-new planet! What color is it? Does it have aliens? Is it made of ice, gas, or rock?"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://images.inc.com/uploaded_files/image/1920x1080/mandela-eric_32276.jpg",
     "title": "Nelson Mandela",
     "date": "2025-02-20",
