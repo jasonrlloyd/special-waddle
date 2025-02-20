@@ -1,5 +1,115 @@
 [
   {
+    "imageUrl": "https://images.inc.com/uploaded_files/image/1920x1080/mandela-eric_32276.jpg",
+    "title": "Nelson Mandela",
+    "date": "2025-02-20",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZKpUQVkmXUabNge26I_hQxNZ2JsGUWoMxrUmW3Pxkro4CPyXrb36llpPXdWfQezMwNjxoOdTzv144h4zSYcdtIIXgKCkXBPo4cI_bQw62RZmgkbpexG7XwcZ-fXwY8IPgyHvRxpGTT4D1T7TiM5gipv0dCn8E-pC4SjyxUd5Sx1MHsSNvpCrWNLD4L2w/s2000/N%20(12).png",
+    "shareText": "Today, we're learning about Nelson Mandela, a leader who fought for equality and never gave up. Let's stand up for what's right! ✊",
+    "details": "Nelson Mandela was a South African leader who fought against racial injustice and became the country's first Black president. He spent 27 years in prison for standing up against unfair laws but never lost hope. His message of peace, forgiveness, and unity continues to inspire the world.",
+    "lessons": [
+      {
+        "lesson": "Stand up for what’s right!",
+        "story": "Nelson Mandela fought against unfair laws to bring equality to South Africa.",
+        "question": "Have you ever seen something unfair? What could you do to help?",
+        "activity": "Role-play different scenarios where kids can practice standing up for fairness."
+      },
+      {
+        "lesson": "Never give up, even when things are hard!",
+        "story": "Mandela never gave up on his dream of a fair and equal world, even after 27 years in prison.",
+        "question": "Can you think of a time when you kept trying, even when something was difficult?",
+        "activity": "Build a tall tower with blocks and see how high you can go, even if it falls—just keep going!"
+      },
+      {
+        "lesson": "Forgiveness can change the world!",
+        "story": "Instead of being angry, Mandela forgave those who treated him unfairly and worked to bring people together.",
+        "question": "Why do you think forgiveness is important?",
+        "activity": "Draw a ‘peace poster’ with words and pictures about kindness, forgiveness, and unity."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Rainbow Nation Collage",
+        "description": "Create a colorful collage representing different cultures and people coming together, just like Mandela’s vision for South Africa."
+      },
+      {
+        "title": "Unity Bracelet",
+        "description": "Make a friendship bracelet using different colors to symbolize people of all backgrounds coming together in peace."
+      },
+      {
+        "title": "Mandela’s Life Timeline",
+        "description": "Draw a simple timeline of Mandela’s life, highlighting key moments like his imprisonment, release, and presidency."
+      },
+      {
+        "title": "26-Minute Challenge",
+        "description": "Do an activity (like reading, drawing, or running) for 26 minutes in honor of Mandela’s 26 years in prison, and reflect on his patience and perseverance."
+      },
+      {
+        "title": "Fairness Game",
+        "description": "Play a game where some players get an unfair advantage, then discuss how it feels and why fairness is important."
+      },
+      {
+        "title": "Mandela’s Famous Speech",
+        "description": "Listen to or read parts of Mandela’s speeches and talk about what they mean in today’s world."
+      },
+      {
+        "title": "Jailbreak Obstacle Course",
+        "description": "Set up an indoor or outdoor obstacle course to represent overcoming struggles, inspired by Mandela’s journey to freedom."
+      },
+      {
+        "title": "My Leadership Pledge",
+        "description": "Write a personal pledge about how to be a great leader like Mandela, focusing on kindness, fairness, and determination."
+      },
+      {
+        "title": "Flag of Freedom",
+        "description": "Draw and color the South African flag while learning about what each color represents."
+      },
+      {
+        "title": "Nelson Mandela Story Time",
+        "description": "Read a children's book about Nelson Mandela and talk about what lessons we can learn from his life."
+      },
+      {
+        "title": "Mandela’s Message",
+        "description": "Learn one of Mandela’s famous quotes and talk about what it means in your own life."
+      },
+      {
+        "title": "Equality March",
+        "description": "Create signs with messages of kindness and fairness, then march around like Mandela did to bring awareness to important causes."
+      },
+      {
+        "title": "Story of Strength",
+        "description": "Read a simple story or watch a video about Nelson Mandela’s life and discuss what made him a great leader."
+      },
+      {
+        "title": "Mandela’s Robben Island",
+        "description": "Use a cardboard box to create a pretend ‘prison’ like where Mandela was kept, then talk about how he stayed hopeful and strong."
+      },
+      {
+        "title": "Hands of Unity",
+        "description": "Trace your hands on paper, cut them out, and write words of kindness and unity before sticking them together in a circle."
+      },
+      {
+        "title": "The Power of Forgiveness",
+        "description": "Act out different scenarios where forgiveness can help solve problems and bring people together."
+      },
+      {
+        "title": "World Leader Dress-Up",
+        "description": "Dress up as a leader like Mandela and practice giving a short speech about fairness and kindness."
+      },
+      {
+        "title": "Letters for Change",
+        "description": "Write or draw a letter about something you’d love to change in the world, just like Mandela worked to change things for the better."
+      },
+      {
+        "title": "Peace Garden",
+        "description": "Plant a flower or small plant to symbolize how kindness and unity help the world grow stronger."
+      },
+      {
+        "title": "Mandela’s Smile",
+        "description": "Look at pictures of Mandela’s warm smile and talk about how kindness and hope can shine through even in hard times."
+      }
+    ]
+  },
+  {
     "imageUrl": "https://e3.365dm.com/21/08/2048x1152/skynews-sky-brown-skateboarding_5467724.jpg",
     "title": "Sky Brown",
     "date": "2025-02-19",
@@ -1352,3 +1462,4 @@
     ]
   }
 ]
+
