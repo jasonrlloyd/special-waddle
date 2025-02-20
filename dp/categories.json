@@ -20,6 +20,7 @@
     "color": "E9D21E",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnFRuAjG3qgTipajglqyOOEWr8GkwrcrotQdnfks8IY-PbK69Kxl16joiXhtLdL-UrvakHLiZRnhQ2v9tpFLxaVBq_BlN-_ydKFJssmVH4mbxN6oFdj0gsKrKkc3WwZcioiZVYi7O-v5a2SNEbAfYD43AYs3JCpxL8WO4gW_PDnsxIOjQUXo5RCcPT858/s560/2.png",
     "roleModels": [
+      "Nelson Mandela",
       "Henry Ford",
       "Elon Musk",
       "Walt Disney",
@@ -35,6 +36,15 @@
       "Sky Brown",
       "Serena Williams",
       "Simone Biles"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Leaders",
+    "color": "571DAF",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLuwEBJlZscHw2f8ryolA8RRg4J8yvlIztrBfuIc6cUQFRi1TuAbqeU3Sk_bAKO0ombMTIaB1EUNSrbb3wlHsynnDqohXtdaYeSYdFKymNNtnKoiAcknXurBj0DIj1Aj_hqCDiAYPirmE79TjUVHWPwz2PjpVQ9N7HdbFhk_c_rS1CNhfWMlZIfEQkxX8/s560/56656C%20(3).png",
+    "roleModels": [
+      "Nelson Mandela"
     ],
     "darkTitleText": false
   },
