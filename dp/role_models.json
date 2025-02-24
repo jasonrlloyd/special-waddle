@@ -1,5 +1,151 @@
 [
   {
+    "imageUrl": "https://karsh.org/wp-content/uploads/2018/05/Yousuf-Karsh-Edmund-Hillary-1960-01-1568x1960.jpg",
+    "title": "Sir Edmund Hillary",
+    "date": "2025-02-24",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9JM4k0AO-XUBHgp0K9jB09QJS4hmGdC9JEMN9ESEYWDxE6pbi8Syi-85lUWsPRdZu402c2eDteW0KKxO1chmmEEu4otwf-3wY4vq5_PxBKzzcOqwA10GpeieMGiW-CNWIepPbaOosLAu4qA7TDrsr2DEqQLW99eXLwgpWkHrjMrlhrj-GuE8mXHrgTO4/s2000/N%20(16).png",
+    "shareText": "We’re learning all about Sir Edmund Hillary today, the fearless explorer who climbed Mount Everest! Keep pushing forward and never give up! 🏔️✨",
+    "details": "Sir Edmund Hillary was a New Zealand mountaineer and explorer who, along with Tenzing Norgay, became the first person to reach the summit of Mount Everest in 1953.",
+    "lessons": [
+      {
+        "lesson": "Keep going, even when it’s tough!",
+        "story": "Sir Edmund Hillary faced extreme cold, strong winds, and exhaustion but never gave up on his dream to reach the top of Everest.",
+        "question": "Can you think of a time when you kept trying, even when something was difficult?",
+        "activity": "Try stacking pillows or cushions as high as possible—like climbing a mini mountain!"
+      },
+      {
+        "lesson": "Work as a team!",
+        "story": "Hillary and Tenzing Norgay worked together to reach the top of Everest. They couldn’t have done it alone!",
+        "question": "When have you worked together with someone to achieve something?",
+        "activity": "Do a teamwork challenge, like building a tall tower with blocks together."
+      },
+      {
+        "lesson": "Be brave and explore the world!",
+        "story": "Hillary didn’t just climb mountains—he explored Antarctica and helped build schools in Nepal.",
+        "question": "If you could go on an adventure anywhere in the world, where would it be?",
+        "activity": "Create a map of an imaginary adventure and draw the exciting places you’d explore!"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Indoor Mountain Climb",
+        "description": "Stack pillows, cushions, or boxes to create a pretend mountain and practice 'climbing' to the top!"
+      },
+      {
+        "title": "Backpack Packing Challenge",
+        "description": "Pretend you're going on an expedition—pack a bag with 'essential' items like water, a flashlight, and snacks."
+      },
+      {
+        "title": "Exploration Obstacle Course",
+        "description": "Set up an obstacle course with things to climb over, crawl under, and jump across, just like an explorer!"
+      },
+      {
+        "title": "Ice and Snow Experiment",
+        "description": "Put small objects in ice and see how long they take to melt. Discuss the freezing cold conditions on Everest!"
+      },
+      {
+        "title": "Flag at the Summit",
+        "description": "Make a small flag and 'plant' it at the top of your indoor mountain, just like Hillary did on Everest."
+      },
+      {
+        "title": "Storytime: Climbing Everest",
+        "description": "Read a child-friendly book or watch a short video about Sir Edmund Hillary’s journey."
+      },
+      {
+        "title": "Snowy Art",
+        "description": "Use cotton balls or white paint to create a snowy mountain scene on paper."
+      },
+      {
+        "title": "Cold Endurance Challenge",
+        "description": "Hold an ice cube for a few seconds (safely) and talk about how explorers deal with extreme cold."
+      },
+      {
+        "title": "Build a Paper Snowflake",
+        "description": "Cut out paper snowflakes and decorate them to represent the icy world of Everest."
+      },
+      {
+        "title": "Make an Explorer’s Journal",
+        "description": "Create a little notebook to 'document' your child’s adventures, just like real explorers do!"
+      },
+      {
+        "title": "Mini Everest Model",
+        "description": "Use clay, paper, or cardboard to build a small model of Mount Everest."
+      },
+      {
+        "title": "Map of the Journey",
+        "description": "Look at a map and trace the route from New Zealand to Everest, learning about the different places along the way."
+      },
+      {
+        "title": "Pretend Snow Trek",
+        "description": "Put on warm clothes and pretend to trek through the snow, acting out an Everest climb."
+      },
+      {
+        "title": "Binocular Craft",
+        "description": "Make pretend binoculars from cardboard tubes to 'spot' distant mountains and landscapes."
+      },
+      {
+        "title": "Sherpa Relay Race",
+        "description": "Do a race while carrying a small backpack, just like the Sherpas who help explorers on Everest!"
+      },
+      {
+        "title": "Balancing Act",
+        "description": "Try walking across a 'tightrope' (a tape line on the floor) to practice explorer balance skills!"
+      },
+      {
+        "title": "Frozen Hand Challenge",
+        "description": "Dip your fingers in cold water and see how long you can keep them there—talk about frostbite and why explorers wear gloves."
+      },
+      {
+        "title": "Summit Dance Party",
+        "description": "When you reach the 'top' of your mountain, celebrate with a fun dance party!"
+      },
+      {
+        "title": "Explorer’s Snack",
+        "description": "Prepare a simple 'trail mix' snack with nuts, raisins, and dried fruit like an adventurer would eat."
+      },
+      {
+        "title": "Glacier Slide",
+        "description": "Use a blanket on a smooth floor to slide like a glacier moving down a mountain."
+      },
+      {
+        "title": "Ice Cave Construction",
+        "description": "Build a small cave using chairs and blankets to mimic an explorer’s icy shelter."
+      },
+      {
+        "title": "Make a Mountain Badge",
+        "description": "Craft a badge with a mountain design to celebrate completing your Everest adventure!"
+      },
+      {
+        "title": "Exploration Freeze Dance",
+        "description": "Dance like an explorer climbing a mountain—when the music stops, freeze like you're posing on top of Everest!"
+      },
+      {
+        "title": "Find the Hidden Flag",
+        "description": "Hide a small flag and go on a mini treasure hunt to 'discover' it."
+      },
+      {
+        "title": "Cold Breath Experiment",
+        "description": "Go outside (if cold) and see your breath in the air, just like on a mountain!"
+      },
+      {
+        "title": "Explorer’s Name Tag",
+        "description": "Create a fun explorer name tag with your child’s name and an adventurous title (e.g., 'Sienna the Brave Explorer')."
+      },
+      {
+        "title": "Everest Layering Challenge",
+        "description": "Put on multiple layers of clothes to see how mountaineers stay warm in extreme cold."
+      },
+      {
+        "title": "Mystery Object in a Bag",
+        "description": "Put different textured items in a bag (ice pack, soft cloth, rock) and guess what they are by touch—like an explorer identifying new discoveries!"
+      },
+      {
+        "title": "Explorer’s Medal",
+        "description": "Make a paper or foil medal to celebrate your child’s achievements as an adventurer!"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220217-nadia-nadim-mn-1030-6138fb.jpg",
     "title": "Nadia Nadim",
     "date": "2025-02-22",
