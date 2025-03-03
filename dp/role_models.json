@@ -1,5 +1,111 @@
 [
   {
+    "imageUrl": "https://kirimsavasi.com/img_data/cite-de-lalma/yeni_klasor/rue-de-lourmel/metro-lourmel/florence-museum/01.jpg",
+    "title": "Florence Nightingale",
+    "date": "2025-03-03",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj3jf410GPpnRW6UbxIDseNzBAn5aCObxj_UivA-aPkrQCKgD61NSYk53hesuLfP-lLCYBSptau17H11sOwlTcuLmpndD9AGKum7umcEQF2n7Z6wqdoPWcdUgEQVmna2eLE6ZnvccagZiZLK6O9km8_gTCIBKYio6LD1CKqOJmgMSu7sblj-TJ4Avou8k/s2000/N%20(17).png",
+    "shareText": "We’ve been learning all about Florence Nightingale today, the brave nurse who transformed healthcare and showed the world the power of kindness and dedication. 💡💙",
+    "details": "Florence Nightingale was a nurse and social reformer who became famous for improving hospital conditions during the Crimean War. She introduced hygiene practices that saved countless lives and is remembered as the founder of modern nursing.",
+    "lessons": [
+      {
+        "lesson": "Helping others makes a difference!",
+        "story": "Florence Nightingale worked tirelessly to care for sick and injured soldiers, improving their chances of survival.",
+        "question": "Can you think of a time when you helped someone and made them feel better?",
+        "activity": "Make a ‘Get Well Soon’ card for someone who might be feeling unwell."
+      },
+      {
+        "lesson": "Cleanliness is important for health!",
+        "story": "Florence discovered that keeping hospitals clean helped people recover faster and prevented sickness from spreading.",
+        "question": "What are some ways we can keep ourselves and our surroundings clean?",
+        "activity": "Make a ‘Clean Hands’ poster to remind everyone in your home to wash their hands properly!"
+      },
+      {
+        "lesson": "Believe in your mission!",
+        "story": "Even when others doubted her, Florence followed her calling to help people and change the world of medicine.",
+        "question": "What is something you feel passionate about helping others with?",
+        "activity": "Play ‘Hospital Helper’ by setting up a pretend doctor’s office or first-aid station."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Lamp Craft",
+        "description": "Make a small paper lantern to represent the lamp Florence carried while caring for patients."
+      },
+      {
+        "title": "Bandage Wrap Game",
+        "description": "Practice wrapping ‘injuries’ on a teddy bear or doll using soft fabric strips."
+      },
+      {
+        "title": "Hospital Role Play",
+        "description": "Set up a pretend hospital with bandages, thermometers, and toy patients to care for."
+      },
+      {
+        "title": "Germ Experiment",
+        "description": "Use glitter and lotion to show how germs spread and how washing with soap removes them."
+      },
+      {
+        "title": "Nurse’s Hat Craft",
+        "description": "Make and decorate a paper nurse’s cap like the ones Florence and her nurses wore."
+      },
+      {
+        "title": "Storytime with Florence",
+        "description": "Read a book or watch a short video about Florence Nightingale’s life and impact."
+      },
+      {
+        "title": "Kindness Challenge",
+        "description": "Find small ways to help people today, just like Florence did—such as tidying up or offering a kind word."
+      },
+      {
+        "title": "First Aid Kit Scavenger Hunt",
+        "description": "Search your home for items that belong in a first-aid kit and learn how they are used."
+      },
+      {
+        "title": "Thank You Notes for Nurses",
+        "description": "Write or draw a thank-you note for real nurses and healthcare workers."
+      },
+      {
+        "title": "Bedside Manner Game",
+        "description": "Practice speaking kindly and encouraging ‘patients’ during a pretend hospital visit."
+      },
+      {
+        "title": "Nightingale Numbers",
+        "description": "Learn about how Florence used statistics and make a simple chart about hygiene or health."
+      },
+      {
+        "title": "Music for Healing",
+        "description": "Listen to calming music and talk about how it can help people feel better, just like Florence played soothing music for her patients."
+      },
+      {
+        "title": "Light in the Darkness",
+        "description": "Turn off the lights and walk around with a small flashlight, imagining being the ‘Lady with the Lamp.’"
+      },
+      {
+        "title": "Nurse’s Supply Sort",
+        "description": "Sort toy medical supplies or household items into ‘clean’ and ‘not clean’ to learn about hygiene."
+      },
+      {
+        "title": "Healthy Habits Chart",
+        "description": "Create a chart to track daily hygiene habits like handwashing and teeth brushing."
+      },
+      {
+        "title": "Doll Hospital",
+        "description": "Set up a special hospital for dolls or stuffed animals and ‘nurse’ them back to health."
+      },
+      {
+        "title": "Hygiene Relay Race",
+        "description": "Race to complete tasks like washing hands, brushing hair, and cleaning up toys."
+      },
+      {
+        "title": "Florence’s Map Adventure",
+        "description": "Look at a map and find England, Italy, and Crimea—important places in Florence’s journey."
+      },
+      {
+        "title": "Inspirational Quote Poster",
+        "description": "Make a poster with one of Florence’s quotes, like ‘I attribute my success to this—I never gave or took any excuse.’"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://karsh.org/wp-content/uploads/2018/05/Yousuf-Karsh-Edmund-Hillary-1960-01-1568x1960.jpg",
     "title": "Sir Edmund Hillary",
     "date": "2025-02-24",
