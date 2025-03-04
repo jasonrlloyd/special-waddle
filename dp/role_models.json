@@ -1,5 +1,99 @@
 [
   {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/1200px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg",
+    "title": "Frederick Douglass",
+    "date": "2025-03-04",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0RhKzYPk5vMojWFAG2PkC4LO0iX9bv122t6ItxYHBwmWiC1QSLFFBkXljk3OfUej4mSMA-ZOkdgoj37RaouERCn1CPxaN3h463xbfvgJ1zDBE5dexBwP-FzduA6o5MfrDBBNhNlfZytAb-GDYSJqD37b9y1y5ErW1pjVCsSRWOPEN9l6xHQ8EDmTFae0/s2000/N%20(21).png",
+    "shareText": "Today, we’re learning about Frederick Douglass, an amazing man who fought for freedom, equality, and justice. He inspired others with his words and actions. 💡✊",
+    "details": "Frederick Douglass was born into slavery but escaped and became a powerful voice for freedom and equality. He worked hard to educate himself and spoke out against slavery, inspiring many with his powerful speeches and writings.",
+    "lessons": [
+      {
+        "lesson": "Education is a powerful tool!",
+        "story": "Frederick Douglass knew that learning to read and write would help him escape slavery and fight for freedom.",
+        "question": "What is something new you would like to learn? How would it help you?",
+        "activity": "Try learning something new today, like a simple song or a new fact, and share it with someone!"
+      },
+      {
+        "lesson": "Never give up on your dreams!",
+        "story": "Frederick Douglass faced many challenges, but he never gave up on his dream of freedom and equality for all.",
+        "question": "What’s something you really want to achieve? How can you keep working towards it?",
+        "activity": "Set a small goal for today, like reading a chapter of a book, and work towards it!"
+      },
+      {
+        "lesson": "Stand up for what’s right!",
+        "story": "Frederick Douglass used his voice to fight for freedom and equality, even when it was hard.",
+        "question": "Can you think of a time when you stood up for what was right?",
+        "activity": "Draw a picture of a time when you helped someone or stood up for what’s right!"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Frederick Douglass Timeline",
+        "description": "Create a timeline of Frederick Douglass’s life and key moments in his journey to freedom."
+      },
+      {
+        "title": "Freedom Quilt Craft",
+        "description": "Make a quilt square to represent freedom, using fabric or paper to tell a story."
+      },
+      {
+        "title": "Write a Letter",
+        "description": "Write a letter to someone you admire, telling them how they inspire you, just like Douglass inspired many with his words."
+      },
+      {
+        "title": "Voice for Freedom",
+        "description": "Read a quote by Frederick Douglass and discuss what it means to you. Then, make your own inspiring speech!"
+      },
+      {
+        "title": "Storytelling Time",
+        "description": "Learn a short story about Frederick Douglass’s life and tell it to your family or friends."
+      },
+      {
+        "title": "Equality Banner",
+        "description": "Make a banner with a message about equality and fairness, just like Frederick Douglass fought for."
+      },
+      {
+        "title": "Words of Strength",
+        "description": "Look up some famous quotes by Frederick Douglass and make a poster with one of them."
+      },
+      {
+        "title": "Create a Freedom Map",
+        "description": "Draw a map showing the places important in Frederick Douglass’s life, like his birthplace and where he escaped to."
+      },
+      {
+        "title": "Douglass’s Library",
+        "description": "Make a list of books or things you would like to learn about, just like Douglass loved learning and reading."
+      },
+      {
+        "title": "Freedom Walk",
+        "description": "Take a walk around your neighborhood and think about what freedom means to you. Talk about the importance of being free."
+      },
+      {
+        "title": "Speech Practice",
+        "description": "Practice giving a speech about something important to you, like Frederick Douglass did to inspire others."
+      },
+      {
+        "title": "Douglass’s Courage Craft",
+        "description": "Create a symbol or craft that represents courage, a key trait of Frederick Douglass’s life."
+      },
+      {
+        "title": "Freedom Song",
+        "description": "Write a short song or poem about freedom and equality, and sing it with your family."
+      },
+      {
+        "title": "Douglass’s Portrait",
+        "description": "Draw or paint a picture of Frederick Douglass and explain what he did to change the world."
+      },
+      {
+        "title": "Brave Voices Story",
+        "description": "Tell a story about someone who used their voice to help others, just like Douglass did."
+      },
+      {
+        "title": "Courageous Quotes Poster",
+        "description": "Make a poster with one of Frederick Douglass’s most famous quotes, like ‘If there is no struggle, there is no progress.’"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://kirimsavasi.com/img_data/cite-de-lalma/yeni_klasor/rue-de-lourmel/metro-lourmel/florence-museum/01.jpg",
     "title": "Florence Nightingale",
     "date": "2025-03-03",
