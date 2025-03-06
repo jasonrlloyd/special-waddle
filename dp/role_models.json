@@ -1,5 +1,95 @@
 [
   {
+    "imageUrl": "https://ew.com/thmb/TAdvClENT23xCXxbjhlvOL-Uv-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-692327234-2000-bba650eece1242e39e3584f25019fdaf.jpg",
+    "title": "Ariana Grande",
+    "date": "2025-03-06",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgThL2L_aGEddxRD_AgAi3AQljbETk5mAimUMCIPe32lnbe5yA_m1JYyvtBxuYqRabUw-QYrqrHZcsqje0Azht1BOVIgaDt6PKT6hyV92k_iX11PA1RZs7tBoZVMH3QEHQJ4e6KbB1Exwv-NYoK0c5bhwO7_eLDPlVb6bCK_1vGqMyZpthr5nkA3_1mnyM/s2000/N%20(22).png",
+    "shareText": "Today, we’re learning about Ariana Grande, an amazing singer and actress who inspires others with her talent, resilience, and kindness. 💫🎶",
+    "details": "Ariana Grande is a talented singer and actress who rose to fame with her powerful voice and incredible performances. Known for her hit songs and inspiring career, she has overcome challenges in her life and continues to spread positivity.",
+    "lessons": [
+      {
+        "lesson": "Embrace your uniqueness!",
+        "story": "Ariana Grande has always embraced her individuality and stayed true to herself, no matter the challenges.",
+        "question": "What makes you unique? How can you embrace your uniqueness?",
+        "activity": "Create a list of things that make you special and celebrate them!"
+      },
+      {
+        "lesson": "Work hard for your dreams!",
+        "story": "Ariana worked tirelessly to achieve her dreams, from her early career in acting to becoming a world-renowned singer.",
+        "question": "What’s a dream you’re working towards? How can you take a step towards it today?",
+        "activity": "Set a small goal for yourself and work towards it today, no matter how small!"
+      },
+      {
+        "lesson": "Kindness is powerful!",
+        "story": "Ariana is known for her kindness and for using her platform to help others.",
+        "question": "How can you show kindness today?",
+        "activity": "Do something kind for someone today, whether it's a compliment or a small gesture!"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Ariana's Music Playlist",
+        "description": "Create a playlist of Ariana Grande's songs and talk about the messages behind the music."
+      },
+      {
+        "title": "Dream Board",
+        "description": "Create a dream board with images and words that represent your goals, just like Ariana worked towards her dreams."
+      },
+      {
+        "title": "Kindness Challenge",
+        "description": "Write down ways you can spread kindness today and challenge yourself to complete them."
+      },
+      {
+        "title": "Songwriting Time",
+        "description": "Try writing a song about something important to you, just like Ariana expresses herself through music."
+      },
+      {
+        "title": "Ariana's Fashion Design",
+        "description": "Design a new outfit inspired by Ariana's style and explain why you chose it."
+      },
+      {
+        "title": "Sing and Dance Party",
+        "description": "Pick an Ariana Grande song, and sing and dance along to it with your family!"
+      },
+      {
+        "title": "Self-Care Ritual",
+        "description": "Create a self-care routine inspired by Ariana’s focus on self-love and positivity."
+      },
+      {
+        "title": "Resilience Journal",
+        "description": "Write about a time you faced a challenge and how you overcame it, just like Ariana."
+      },
+      {
+        "title": "Ariana’s Charity Project",
+        "description": "Learn about one of Ariana's charity projects and come up with a small way to give back in your community."
+      },
+      {
+        "title": "Power of Positivity",
+        "description": "Make a list of positive affirmations and say them out loud each day to boost your mood."
+      },
+      {
+        "title": "Personal Style Poster",
+        "description": "Create a poster that represents your personal style and how it makes you feel confident."
+      },
+      {
+        "title": "Ariana's Signature Look",
+        "description": "Try creating Ariana’s signature makeup look or hairstyle and have fun experimenting with it."
+      },
+      {
+        "title": "Ariana’s Vocal Warm-Up",
+        "description": "Learn a simple vocal warm-up and sing your favorite song from Ariana’s music."
+      },
+      {
+        "title": "Talent Show",
+        "description": "Put on a talent show for your family, singing, acting, or dancing to one of Ariana’s songs."
+      },
+      {
+        "title": "Ariana’s Positivity Poster",
+        "description": "Create a poster with a quote from Ariana Grande about staying positive and resilient."
+      }
+    ]
+  },
+  {
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/1200px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg",
     "title": "Frederick Douglass",
     "date": "2025-03-04",
