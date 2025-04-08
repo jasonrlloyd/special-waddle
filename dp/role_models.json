@@ -1,5 +1,75 @@
 [
   {
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO0bDzkVfgriEjIdnNRh7MOJ9XbQ0EZKTrp0m7uSj-3rVAUZNNsLCfrdeQSoJ2O1QC1dLsP7AJxwXuqoIB9U6bGOebaYFR9zytRQP58UGknehi0HqDA_qebbpGWieunzqnFlLHY2HtszkwFwJPN5JAOooNdeOycvwJyaCQ18aHk3OGLV8W2KVDoeBI494/s1472/3D%20animation%20cartoon,%20toddler%20boy%20with%20short%20hair,%20wearing%20a%20mini%20astronaut%20suit%20with%20NASA%20patches,%20holding%20a%20small%20rocket%20toy,%20standing%20confidently%20on%20a%20pretend%20moon%20surface%20with%20Earth%20visible%20in%20the%20background,%20embodying%20the%20bravery,%20curi.jpg",
+    "title": "Giant Leap",
+    "date": "2025-04-08",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbBsTUYRTnEn5GylrQWjBIhqkeYgQwG20jBBMKNody2C8RK92cgWSrqc6aTUxbcml4tovB8-MeTHMEZaWeCYK4G1iJYvypBf79Mymz3j1oOASPgATUovEETBtLwdey0M45pyg7IlFvawmtdTZ_QL8oLn7DsORaYQyOu-bvZVjO6rjTSS6tkVzYaGdieg/s2000/N%20(24).png",
+    "shareText": "Today, we’re learning about Neil Armstrong, the first person to walk on the Moon! He showed us that with courage and determination, even the sky isn’t the limit. 🚀",
+    "details": "Neil Armstrong was an American astronaut and the first person to walk on the Moon in 1969. His famous words 'That's one small step for man, one giant leap for mankind' inspired people all over the world to dream big and reach for the stars!",
+    "lessons": [
+      {
+        "lesson": "Be brave and curious!",
+        "story": "Neil was a pilot and engineer before he became an astronaut. He was always curious and brave, exploring new frontiers.",
+        "question": "What’s something new you’d love to explore or learn about?",
+        "activity": "Pretend you're an explorer discovering something new today!"
+      },
+      {
+        "lesson": "Teamwork makes big dreams happen!",
+        "story": "Neil didn’t go to the Moon alone—he was part of the Apollo 11 team. Everyone played a role to make it happen.",
+        "question": "Can you think of a time you worked with someone to do something great?",
+        "activity": "Build or create something together with a friend or family member today!"
+      },
+      {
+        "lesson": "Dreams take preparation!",
+        "story": "Neil trained for years to be ready for his Moon mission. Big dreams often take time and lots of effort.",
+        "question": "What’s a big dream you have? What small steps could you take to reach it?",
+        "activity": "Draw a path to your dream—what steps would get you there?"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Moonwalk Dance",
+        "description": "Try out your best spacey moonwalk moves—pretend you’re walking on the Moon like Neil!"
+      },
+      {
+        "title": "Design a Spacesuit",
+        "description": "Draw or make your own astronaut suit—what would it look like? Don’t forget your helmet!"
+      },
+      {
+        "title": "Build a Rocket",
+        "description": "Use blocks, boxes, or recycled materials to create your very own spaceship."
+      },
+      {
+        "title": "Moon Landing Role Play",
+        "description": "Act out the Moon landing and say Neil’s famous words as you take a step onto the 'Moon.'"
+      },
+      {
+        "title": "Space Snack Time",
+        "description": "Try eating snacks like an astronaut—cut-up fruit, dry cereal, or ‘freeze-dried’ treats!"
+      },
+      {
+        "title": "Mission Control Game",
+        "description": "Take turns being the astronaut and Mission Control—give and follow directions to complete a ‘mission.’"
+      },
+      {
+        "title": "Create a Moon Surface",
+        "description": "Use flour, sand, or playdough to make a bumpy Moon surface—then land your mini spaceship on it!"
+      },
+      {
+        "title": "Astronaut Obstacle Course",
+        "description": "Set up a space-themed obstacle course—crawl through tunnels, jump over planets, and float like you’re in zero gravity!"
+      },
+      {
+        "title": "Watch a Rocket Launch",
+        "description": "Find a kid-friendly video of a real rocket launch and talk about what astronauts do in space."
+      },
+      {
+        "title": "Make a Space Poster",
+        "description": "Create a poster about space travel or your favorite planet. Add stars, rockets, and Neil Armstrong!"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H4dKcyVc-fJzMl_pr-Xor0y3JCTNyNWF4KQY-dzKkx3xII3xbBfjRK6jpTXf-CE5AIGpzMbUAG13tgfi8wUkCxTGyKxk2kwS6NVzhHrkQE_c1N46RA1e3i-7OXcdhsLgvt5miOAJCBJ53RZmG-qBxa8lz26zg8kx4Ik6kpIY-ZSCH8xlLlHPJpUbL7k/s1472/3D%20animation%20cartoon,%20toddler%20girl%20wearing%20equestrian%20riding%20gear%20(helmet,%20jacket,%20and%20boots),%20confidently%20guiding%20a%20powerful%20horse%20over%20a%20showjumping%20obstacle.%20She%20embodies%20the%20strength,%20focus,%20and%20determination%20of%20Holly%20Smith,%20with%20a%20joyf.jpg",
     "title": "Jump High",
     "date": "2025-04-01",
