@@ -1,5 +1,75 @@
 [
   {
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWVg2mzvwwpHhWfUf_S24YpeWY7KfYAR-8eR5BbM0ECXSpJVUHfjqx8EDXWpm3skqBT0-XEGnMbzxBKg59fN8GA0WU2vs74nuX6aaqzlbthE0dtFlCgsBVBj6E6sn_4FcpC3gqhTnm4zj-fAcgG23cu5uyRu_OmKd1CCanXAWU-AOKm8qj5A8N5Jvee8o/s1472/3D%20animation%20cartoon,%20toddler%20girl%20with%20curly%20brown%20hair%20tied%20back%20with%20a%20ribbon,%20wearing%20a%20Victorian-style%20dress%20with%20lace%20details,%20holding%20a%20scroll%20of%20paper%20with%20math%20symbols,%20standing%20confidently%20next%20to%20an%20old-fashioned%20mechanical%20calcu.jpg",
+    "title": "Code Power",
+    "date": "2025-04-11",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn6MNJlslxDS-yOHlrkz04uusvPi4DaCNlKcAvEYF4imo8aFp4Lts37BBesFJMCq9GrkTc4QNfWs6sV7txXfftSk8-49UJR0nw2PHmuzQ1lnbUbzmzaRIZmTNIgzcNpnl3GXwkEAg_d7lS5rXYR6Zgyx8Yx6UuVxM5abXQMpKD05mUBBn5oHB4nArVfDg/s2000/N%20(25).png",
+    "shareText": "Today, we’re learning about Ada Lovelace, the world’s first computer programmer! She showed us that imagination and logic can work together to create amazing things. 💻✨",
+    "details": "Ada Lovelace was a brilliant mathematician from the 1800s who imagined how machines could be used to follow patterns—making her the first computer programmer! She believed that with enough creativity and knowledge, we could build powerful tools to help us think in new ways.",
+    "lessons": [
+      {
+        "lesson": "Imagination and logic go hand in hand!",
+        "story": "Ada loved math and science, but also art and poetry. She used her imagination to dream up the first idea for computer programming.",
+        "question": "Can you think of something where art and science come together?",
+        "activity": "Draw a picture of a magical machine that can do anything you imagine!"
+      },
+      {
+        "lesson": "Be curious and ask big questions!",
+        "story": "Ada always asked 'what if?' She wondered how things worked and dreamed about what machines might do one day.",
+        "question": "What’s something you’re curious about right now?",
+        "activity": "Invent your own question machine—what kinds of things would it help you find out?"
+      },
+      {
+        "lesson": "Girls can do amazing things in science and tech!",
+        "story": "In a time when girls weren’t encouraged to do science or math, Ada showed the world just how much girls can achieve.",
+        "question": "What’s something amazing *you* can do when you try?",
+        "activity": "Pretend you're a scientist or inventor—what would you like to create?"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Gear Art",
+        "description": "Use circles and shapes to make your own gear-inspired art like the machines Ada imagined."
+      },
+      {
+        "title": "Write Your First Code",
+        "description": "Use arrows or symbols to write a 'code' that gives someone directions—like how Ada wrote instructions for a machine!"
+      },
+      {
+        "title": "Pattern Hunt",
+        "description": "Look around the house or outside for repeating patterns—just like Ada did in her thinking."
+      },
+      {
+        "title": "Dress Like a Time Traveler",
+        "description": "Put together a costume inspired by the 1800s—like Ada’s long dresses—and pretend you’re inventing something new!"
+      },
+      {
+        "title": "Build a Paper Machine",
+        "description": "Use paper rolls, tape, and recycled materials to create a pretend machine with spinning 'gears.'"
+      },
+      {
+        "title": "Code Dance Game",
+        "description": "Create a 'code' with steps like jump, spin, clap—then follow your dance code just like a computer!"
+      },
+      {
+        "title": "Imaginary Invention Time",
+        "description": "Draw or build an invention that could help people learn or play—just like Ada imagined machines might do."
+      },
+      {
+        "title": "Poetry & Programming",
+        "description": "Mix art and logic—write a short poem, then 'decorate' it with shapes or symbols like a secret code."
+      },
+      {
+        "title": "Gadget Sorting Game",
+        "description": "Gather safe household objects and sort them by size, shape, or type—great for logic thinking like Ada used!"
+      },
+      {
+        "title": "Machine Sound Orchestra",
+        "description": "Make sounds with objects like pots, boxes, or spoons—what would your machine sound like when it turns on?"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO0bDzkVfgriEjIdnNRh7MOJ9XbQ0EZKTrp0m7uSj-3rVAUZNNsLCfrdeQSoJ2O1QC1dLsP7AJxwXuqoIB9U6bGOebaYFR9zytRQP58UGknehi0HqDA_qebbpGWieunzqnFlLHY2HtszkwFwJPN5JAOooNdeOycvwJyaCQ18aHk3OGLV8W2KVDoeBI494/s1472/3D%20animation%20cartoon,%20toddler%20boy%20with%20short%20hair,%20wearing%20a%20mini%20astronaut%20suit%20with%20NASA%20patches,%20holding%20a%20small%20rocket%20toy,%20standing%20confidently%20on%20a%20pretend%20moon%20surface%20with%20Earth%20visible%20in%20the%20background,%20embodying%20the%20bravery,%20curi.jpg",
     "title": "Giant Leap",
     "date": "2025-04-08",
