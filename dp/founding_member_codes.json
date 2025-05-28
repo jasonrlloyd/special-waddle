@@ -3,7 +3,7 @@
     {
       "code": "IMAGISTART2025",
       "active": true,
-      "stripe_status": "cancelled"
+      "stripe_status": "active"
     },
     {
       "code": "EARLYBIRD50",
