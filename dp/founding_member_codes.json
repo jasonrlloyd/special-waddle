@@ -8,8 +8,8 @@
     },
     {
       "code": "EARLYBIRD50",
-      "active": false,
-      "stripe_subscription_active": false
+      "active": true,
+      "stripe_subscription_active": true
     }
   ]
 }
