@@ -4,12 +4,12 @@
     {
       "code": "IMAGISTART2025",
       "active": false,
-      "stripe_status": "active"
+      "stripe_subscription_active": true
     },
     {
       "code": "EARLYBIRD50",
       "active": false,
-      "stripe_status": "canceled"
+      "stripe_subscription_active": false
     }
   ]
 }
