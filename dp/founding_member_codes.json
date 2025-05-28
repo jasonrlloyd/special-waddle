@@ -9,7 +9,7 @@
     {
       "code": "EARLYBIRD50",
       "active": false,
-      "stripe_subscription_active": false
+      "stripe_subscription_active": true
     }
   ]
 }
