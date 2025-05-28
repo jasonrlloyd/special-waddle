@@ -3,8 +3,8 @@
   "codes": [
     {
       "code": "IMAGISTART2025",
-      "active": true,
-      "stripe_subscription_active": true
+      "active": false,
+      "stripe_subscription_active": false
     },
     {
       "code": "EARLYBIRD50",
