@@ -1,14 +1,14 @@
 {
-  "showMemberCodesButtonInSettings": false,
+  "showMemberCodesButtonInSettings": true,
   "codes": [
     {
       "code": "IMAGISTART2025",
-      "active": false,
+      "active": true,
       "stripe_subscription_active": true
     },
     {
       "code": "EARLYBIRD50",
-      "active": false,
+      "active": true,
       "stripe_subscription_active": true
     }
   ]
