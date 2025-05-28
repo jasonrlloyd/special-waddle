@@ -4,13 +4,17 @@
     "color": "e91e63",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxd4F2yMk6iorkTdriu_M_zMDDl1Wp69lgubEoE5_si5qis2W2jxBRWR4oGyx9p6FCEkpAJ8GJYqun66d0AyxBcJvh5OJQf6swtYG-zzuzsu6qvlJoseoFyMz4qY2JQRbwgGMsihez-7jDvcii4ieioL5FbWYLKkHW3BeKwjZbrMn9bnimlBsA-Fshl7U/s560/1.png",
     "roleModels": [
-      "Beyoncé",
-      "Frida Kahlo",
-      "Rosa Parks",
-      "Serena Williams",
-      "Amelia Earhart",
-      "Simone Biles",
-      "Marie Curie"
+      "Code Power",
+      "Jump High",
+      "No Tears",
+      "Nursing Pioneer",
+      "Soccer Champion",
+      "Vocal Queen",
+      "Radiation Pioneer",
+      "Tennis Queen",
+      "Aviation Pioneer",
+      "Gymnastics Champion",
+      "Artistic Icon"
     ],
     "darkTitleText": false
   },
@@ -19,10 +23,14 @@
     "color": "E9D21E",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnFRuAjG3qgTipajglqyOOEWr8GkwrcrotQdnfks8IY-PbK69Kxl16joiXhtLdL-UrvakHLiZRnhQ2v9tpFLxaVBq_BlN-_ydKFJssmVH4mbxN6oFdj0gsKrKkc3WwZcioiZVYi7O-v5a2SNEbAfYD43AYs3JCpxL8WO4gW_PDnsxIOjQUXo5RCcPT858/s560/2.png",
     "roleModels": [
-      "Henry Ford",
-      "Elon Musk",
-      "Walt Disney",
-      "Steve Jobs"
+      "Keep Swinging",
+      "Giant Leap",
+      "Everest Legend",
+      "Ancient Sage",
+      "Stellar Thinker",
+      "Tech Icon",
+      "Disruptive Genius",
+      "Automotive Visionary"
     ],
     "darkTitleText": true
   },
@@ -31,8 +39,20 @@
     "color": "03873E",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNKYi0g05MAmrto6qB9RBdxKuSejNIdpGURfKkjPRoA0zDVlQIOoKEaCj7C4q7j7r_BIHlE5G7X0K7zGH5qcMtjuNrZ1VODWUKj__zsXHwIt0K0OQt9fpKMxujmbgLNqrhyiiKIdHOtLY4RMov1ERiB_PQK7d4RX5F4Hp-Lz3E7t-V-XlTSUfHfrvMfe8/s560/3.png",
     "roleModels": [
-      "Serena Williams",
-      "Simone Biles"
+      "Keep Swinging",
+      "Jump High",
+      "Soccer Champion",
+      "Tennis Queen",
+      "Gymnastics Champion"
+    ],
+    "darkTitleText": false
+  },
+  {
+    "name": "Leaders",
+    "color": "571DAF",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLuwEBJlZscHw2f8ryolA8RRg4J8yvlIztrBfuIc6cUQFRi1TuAbqeU3Sk_bAKO0ombMTIaB1EUNSrbb3wlHsynnDqohXtdaYeSYdFKymNNtnKoiAcknXurBj0DIj1Aj_hqCDiAYPirmE79TjUVHWPwz2PjpVQ9N7HdbFhk_c_rS1CNhfWMlZIfEQkxX8/s560/56656C%20(3).png",
+    "roleModels": [
+
     ],
     "darkTitleText": false
   },
@@ -41,7 +61,8 @@
     "color": "EBE7E4",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKyrpMT1xaNQTQ2CcjCXfZKlUBVd9VRJGaTefId9WcfiN2Ljdt9Dhvd7so88fP2wHLVp9osyd08z6E59QfpBrQyqzp92kuyCDP_vxU_UwlOaI77u1Y_UcJDATuf6cdSOcQOpJdQsdQc-82Mc9Q-Ns9wkheReu2DTfwBKt6E2dR0ANMczp55eeYKERcbg/s560/4.png",
     "roleModels": [
-      "Marie Curie"
+      "Stellar Thinker",
+      "Radiation Pioneer"
     ],
     "darkTitleText": true
   },
@@ -50,7 +71,8 @@
     "color": "0870FB",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE9fpE9rZYsGOBzyjgREQkDzACEaymBobEnWDwdnlya2RpPKgpuJ-eo3Fch9Ih963y7y5zrsXjdQGymMgYqXCy2M5RDBgMLntPGafyJGkWeheeqpaATGJzKPSRENosUTf_1qj-PBaNESt83ohq-AAq9saNOiPSGSnFm0klweit6tlNTkp94j3nMSkyAi0/s560/5.png",
     "roleModels": [
-      "Beyoncé"
+      "No Tears",
+      "Vocal Queen"
     ],
     "darkTitleText": false
   },
@@ -59,8 +81,10 @@
     "color": "FF7F1D",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN86a__anL_Z03KHPzMXIoGBkqwOa7MMyeAELjF9GllD7liwuMnzZwUwUZpCqXlG1XtZDK3AxoPrCpb-nXlc-MhmEuNjH8SiV_Pq6piZMevaJJkyWbqZ7leEJ9R5pQZhYLq2_xmuiNO3sSVzZFbeoznmZWSxdwTDk6EKQVScv896mZNYsxYy9gm_SeWYc/s560/6.png",
     "roleModels": [
-      "Marie Curie",
-      "Henry Ford"
+      "Code Power",
+      "Nursing Pioneer",
+      "Ancient Sage",
+      "Aviation Pioneer"
     ],
     "darkTitleText": false
   },
@@ -69,9 +93,9 @@
     "color": "FE75B8",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeKsLqkVeSZkPObEU7PZmm0Y5mhuxJjfoRpuhzRl4na_TfxkHiaRQkNX2fWxN9hIGVPxjKeYxeN0tHipJHyYPqyBx9jUW-yqy4ZxpK4teqMvhW6Q86nD1ZFp_23bNECwRa9J0wKGByv3m52iSsiyphD5utEKsxVFTA4JtIe65fDZMfqE4xSphDz7H2AYE/s560/7.png",
     "roleModels": [
-      "Henry Ford",
-      "Steve Jobs",
-      "Elon Musk"
+      "Tech Icon",
+      "Disruptive Genius",
+      "Automotive Visionary"
     ],
     "darkTitleText": false
   },
@@ -80,7 +104,7 @@
     "color": "e91e63",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQu4Lfne0w-jn4LC9VLPgWVkr8ipXVk_xOfDXu1HNFCziwaE6TUz3C2v9YmMSCrvV5PcQTtGvQk7woKNqJm3QU8_13VYJjXdNe5eCwy5Ywk-ouJyykNZQaYbmBtSAEuWroQXRtDnVDaAoCZ3AIshZuT498LtxVhoJbs04DVnst5UnNdR-QfMm-0J7vfoM/s560/8.png",
     "roleModels": [
-      "Frida Kahlo"
+      "Artistic Icon"
     ],
     "darkTitleText": false
   }
