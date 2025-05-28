@@ -1,6 +1,14 @@
 {
   "codes": [
-    { "code": "IMAGISTART2025", "active": true },
-    { "code": "EARLYBIRD50", "active": false }
+    {
+      "code": "IMAGISTART2025",
+      "active": true,
+      "stripe_status": "active"
+    },
+    {
+      "code": "EARLYBIRD50",
+      "active": false,
+      "stripe_status": "canceled"
+    }
   ]
 }
