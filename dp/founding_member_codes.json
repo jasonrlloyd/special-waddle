@@ -1,8 +1,9 @@
 {
+  "showMemberCodesButtonInSettings": true,
   "codes": [
     {
       "code": "IMAGISTART2025",
-      "active": false,
+      "active": true,
       "stripe_status": "active"
     },
     {
