@@ -3,7 +3,7 @@
   "codes": [
     {
       "code": "IMAGISTART2025",
-      "active": false,
+      "active": true,
       "stripe_subscription_active": true
     },
     {
