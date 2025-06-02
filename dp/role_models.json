@@ -1,5 +1,75 @@
 [
   {
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihJp4T9ztrzQVIrlJG86M_gdPL10tLxAfkBY4MWwLiL_VGAU-YrFTdQ9E2p5GokrJ5xDxSPE6_wAR-fjrKR5KdCqZDz0YH8bNnJ6kt81RcRQDrM2VEmspG3gx5smkCAkz93d5DvJktW1EEBiEz4XzDHdlUtapP2C-_TFppEw3Fi-NmmwW6mDHOtMhYYMc/s1024/image.png",
+    "title": "Dive Into Discovery",
+    "date": "2025-06-03",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvoBHoxBhVrxq_d8AJ-1qoEbn-cQeoMa7-GOIsavqj5qI7WVCrpxwuFrHvmTVsNCv6IpMFhIpdvGn8EiUxeRWAYZGFPvOLRgHqlDI8SRFM91dyjvKTo6uV7UUIUBVZaVWzVlM5dmAcB3Ap-M9x442Kiw4H6tuDtV305unE8HUiKRksAEQnUrsfXHaA8F0/s2000/N%20(2).png",
+    "shareText": "Today, we’re learning about Sylvia Earle—a trailblazing ocean explorer and protector of the seas! She taught us that when we care deeply about nature, we can help save the world. 🌊🐠",
+    "details": "Sylvia Earle has spent more than 7,000 hours underwater! She was the first woman to serve as chief scientist at the U.S. National Oceanic and Atmospheric Administration. Sylvia has dedicated her life to exploring the ocean and protecting the amazing life within it. She inspires us to care for our planet and keep learning about the world around us.",
+    "lessons": [
+      {
+        "lesson": "Be curious about the world!",
+        "story": "Sylvia loved exploring nature from a young age—especially the ocean. Her curiosity led her to become one of the world’s top ocean scientists.",
+        "question": "What’s something in nature you’re curious about?",
+        "activity": "Look closely at a shell, rock, or leaf. What do you notice when you really observe it?"
+      },
+      {
+        "lesson": "Protect what you love.",
+        "story": "Sylvia saw how pollution and overfishing hurt ocean life, so she spoke up and worked to protect marine animals and coral reefs.",
+        "question": "What’s something you love in nature that you want to protect?",
+        "activity": "Make a ‘Protect the Ocean’ poster with your favorite sea animals and ways to help the planet."
+      },
+      {
+        "lesson": "Girls can be great explorers too!",
+        "story": "When Sylvia was young, people didn’t expect girls to be scientists or deep-sea divers—but she proved them wrong and made history.",
+        "question": "Have you ever done something someone thought you couldn’t do?",
+        "activity": "Draw yourself doing something big—like flying a spaceship or exploring the deep sea!"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Ocean Sensory Bin",
+        "description": "Fill a bin with blue water, toy sea animals, and shells—explore like Sylvia!"
+      },
+      {
+        "title": "Underwater Dance",
+        "description": "Move slowly and gracefully like you’re diving through the sea—can you move like an octopus or a jellyfish?"
+      },
+      {
+        "title": "Make a Mini Submarine",
+        "description": "Use recycled materials to build a pretend submarine—what do you see through your porthole?"
+      },
+      {
+        "title": "Blue Planet Snack Time",
+        "description": "Make a sea-themed snack using safe foods—try blueberries, rice cakes, or cucumber slices arranged like waves!"
+      },
+      {
+        "title": "Ocean Sounds Relaxation",
+        "description": "Play calming ocean sounds and lie down—pretend you're floating underwater like Sylvia."
+      },
+      {
+        "title": "Aquarium Window Art",
+        "description": "Paint or color sea creatures on paper and stick them on a window to make your own ocean view."
+      },
+      {
+        "title": "Scuba Explorer Dress-Up",
+        "description": "Use goggles, a backpack, and flippers (or socks!) to become a deep-sea diver."
+      },
+      {
+        "title": "Guess the Sea Creature",
+        "description": "Describe an ocean animal with clues—can others guess what it is?"
+      },
+      {
+        "title": "Bubble Science",
+        "description": "Blow bubbles and watch how they float and pop—talk about how fish breathe underwater!"
+      },
+      {
+        "title": "Ocean Cleanup Game",
+        "description": "Scatter paper or toy trash around and pick it up with tongs—pretend you're helping clean the sea!"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFKPUjGckIgyeX8mv-IROORpbUOtZXttppDhzeK3oXWigrjtKBGVBhl7fycHxo3imarAtHyRNUDNrqa3GSTMVftBhf2n3mbu2ydTseHgR0MHcM5Ukn8CnkYLELroFLvUzUrLEjtAPAO5lqkV3swmA1bwS8WaoGYH81Tksb8V42xwMs-le0vNiBO81Qhhk/s1472/D%20animation%20cartoon%20of%20a%20toddler%20boy%20with%20short%20hair,%20wearing%20a%20mini%20golf%20outfit%20with%20a%20red%20shirt,%20black%20cap,%20and%20golf%20glove.%20He%E2%80%99s%20holding%20a%20tiny%20golf%20club%20and%20standing%20confidently%20on%20a%20grassy%20hill%20next%20to%20a%20mini%20golf%20flag.%20A%20golden%20sunri.jpg",
     "title": "Keep Swinging",
     "date": "2025-05-27",
