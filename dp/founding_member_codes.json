@@ -3,6 +3,11 @@
   "codes": [
     {
       "code": "JTX94KZ7PQL",
+      "active": false,
+      "stripe_subscription_active": true
+    },
+     {
+      "code": "TB97423XPL",
       "active": true,
       "stripe_subscription_active": true
     }
