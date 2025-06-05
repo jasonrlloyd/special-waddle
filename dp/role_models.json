@@ -1,5 +1,91 @@
 [
   {
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-1NfBxRf6rR8taDQYIIBTUsksfgHvnP4zZEyLH6uQ63MR0Glm1woDyeyGpJoxJvVGNkY2RzVz0qaWMguti7M3LnvcIl6suByT0wze7KJCj3q52GL9TvY2pI3BvPyupNN5hNEQZsFXBPUQGnHYLrYMVmI6DmOockCpCaGjY0kMhj3IxLIPnAXuCdmwrE/s1472/A%203D%20computer-animated%20african%204%20year%20old%20wearing%20a%20white%20astronaut%20suit%20with%20a%20bubble%20helmet,%20floating%20in%20space.%20The%20character%20has%20a%20cheerful%20expression%20and%20expressive%20eyes.%20The%20background%20includes%20stars,%20a%20distant%20planet,%20and%20a%20cartoon-st.jpg",
+    "title": "Reach for the Stars",
+    "date": "2025-06-06",
+    "badge": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OLpRLkxIIaNDNt8YketJPB_xExAnU7SJvfQ7cf3UbTdYlPWPkShCZ67olm5dI1ZioOs8IWY54CwPmvbImSPRIoJUNjxoRZcCpsvbJzBckj2mBsuHly6xICchmo2zIkO6jPgR8Tr7iLSY6oQddoBNk8qejmbAIPD-l9stJYxAL4AUQD5Og00iFUAsLsc/s2000/N%20(3).png",
+    "shareText": "Today, we’re learning about Mae Jemison — doctor, engineer, and the first Black woman to travel to space! 🚀 She showed us that with courage and curiosity, we can reach for the stars.",
+    "details": "Mae Jemison is a scientist, medical doctor, and astronaut. In 1992, she flew aboard the Space Shuttle Endeavour and became the first Black woman in space. As a child, she loved science fiction and dreamed of exploring the stars. Mae worked hard, never gave up, and showed the world that dreams really can come true.",
+    "lessons": [
+      {
+        "lesson": "Never stop dreaming big!",
+        "story": "Mae loved watching ‘Star Trek’ and imagined herself flying through space. Even when people doubted her, she held onto her dream and made it happen.",
+        "question": "What’s one big dream you have for the future?",
+        "activity": "Draw your dream coming true—are you flying, building, creating, or discovering something?"
+      },
+      {
+        "lesson": "Science is for everyone.",
+        "story": "Mae was told that science wasn’t for girls—but she didn’t listen. She became a doctor, engineer, and astronaut!",
+        "question": "Have you ever tried something new and discovered you were good at it?",
+        "activity": "Do a simple science experiment—like making a paper rocket or mixing baking soda and vinegar!"
+      },
+      {
+        "lesson": "Help others along the way.",
+        "story": "Before going to space, Mae worked as a doctor helping people in different countries. She cares deeply about others.",
+        "question": "Who is someone you’ve helped or would like to help?",
+        "activity": "Make a 'kindness mission' card with something you can do today to help someone around you."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Astronaut Obstacle Course",
+        "description": "Create a space training course using pillows, chairs, and tunnels. Can you complete your astronaut training?"
+      },
+      {
+        "title": "Make a Rocket",
+        "description": "Use cardboard tubes and craft materials to build a rocket—where will it take you?"
+      },
+      {
+        "title": "Space Freeze Dance",
+        "description": "Dance to space-themed music like Sam Ryder's song SPACE MAN and freeze like you're floating in zero gravity whenever the music stops!"
+      },
+      {
+        "title": "Moonwalk Practice",
+        "description": "Pretend you're walking on the moon—take slow, floaty steps and imagine the stars all around you!"
+      },
+      {
+        "title": "Design a Spacesuit",
+        "description": "Use paper, foil, fabric scraps, or recycled materials to create your own astronaut suit—what features does it have to keep you safe in space?"
+      },
+      {
+        "title": "Space Story Time",
+        "description": "Read a space-themed book together—imagine what it would be like to live on another planet!"
+      },
+      {
+        "title": "Stargazing Adventure",
+        "description": "Go outside at night and look up at the stars. Can you spot the moon or any constellations?"
+      },
+      {
+        "title": "Mission Control Role Play",
+        "description": "Pretend your home is a space station! Assign roles like astronaut, scientist, and mission control—work together on your space mission."
+      },
+      {
+        "title": "Gravity Drop Challenge",
+        "description": "Drop different objects and see which ones fall fastest. What does gravity do? Try dropping a feather and a coin!"
+      },
+      {
+        "title": "Space Travel Journal",
+        "description": "Create a pretend travel journal from a visit to another planet—what did you see, eat, and explore?"
+      },
+      {
+        "title": "Galaxy Art",
+        "description": "Use dark paper and bright paints or chalks to create your own galaxy full of stars, planets, and comets."
+      },
+      {
+        "title": "Name a New Planet",
+        "description": "Invent a brand-new planet. What’s it called? What’s the weather like? Who or what lives there?"
+      },
+      {
+        "title": "Constellation Craft",
+        "description": "Connect dots (like stickers or stars) on black paper with white crayon lines to make your own constellations."
+      },
+      {
+        "title": "Zero Gravity Snack Picnic",
+        "description": "Have a ‘space snack’ picnic with small, easy-to-hold foods. Imagine you're floating while eating in zero gravity!"
+      }
+    ]
+  },
+  {
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihJp4T9ztrzQVIrlJG86M_gdPL10tLxAfkBY4MWwLiL_VGAU-YrFTdQ9E2p5GokrJ5xDxSPE6_wAR-fjrKR5KdCqZDz0YH8bNnJ6kt81RcRQDrM2VEmspG3gx5smkCAkz93d5DvJktW1EEBiEz4XzDHdlUtapP2C-_TFppEw3Fi-NmmwW6mDHOtMhYYMc/s1024/image.png",
     "title": "Dive Into Discovery",
     "date": "2025-06-03",
