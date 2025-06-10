@@ -2,6 +2,11 @@
   "showMemberCodesButtonInSettings": true,
   "codes": [
     {
+      "code": "TEST9XQ47M",
+      "active": true,
+      "stripe_subscription_active": true
+    },
+     {
       "code": "JTX94KZ7PQL",
       "active": false,
       "stripe_subscription_active": true
