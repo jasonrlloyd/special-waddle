@@ -1,0 +1,24 @@
+{
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "episodes": [
+        "Aviation Pioneer",
+        "Artistic Icon",
+        "Automotive Visionary",
+        "Gymnastics Champion",
+        "Disruptive Genius"
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "episodes": [
+        "Radiation Pioneer",
+        "Tennis Queen",
+        "Reach for the Stars",
+        "Code Breaker",
+        "Ocean Explorer"
+      ]
+    }
+  ]
+}
